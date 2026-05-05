@@ -102,6 +102,11 @@ export interface FactbookData {
 
 const factbookCache: Record<string, FactbookData> = {};
 
+function withBaseUrl(path: string): string {
+  const base = import.meta.env.BASE_URL || "/";
+  return `${base.replace(/\/+$/, "")}/${path.replace(/^\/+/, "")}`;
+}
+
 /**
  * Extract text safely from factbook data structures
  */
@@ -174,7 +179,7 @@ export async function loadFactbookData(countryName: string): Promise<FactbookDat
       return factbookCache[gecCode];
     }
 
-    const filePath = `/factbook.json-master/${gecCode}.json`;
+    const filePath = withBaseUrl(`factbook.json-master/${gecCode}.json`);
 
     const response = await fetch(filePath);
     

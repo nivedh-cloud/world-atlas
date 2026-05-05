@@ -1,5 +1,14 @@
 apply plugin: 'com.android.application'
 
+import java.util.Properties
+import java.io.FileInputStream
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('keystore.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
 android {
     namespace = "com.nivedhLabs.WorldBordersnCountryInfoApp"
     compileSdk = rootProject.ext.compileSdkVersion
@@ -19,10 +28,13 @@ android {
     
     signingConfigs {
         release {
-            storeFile file("../countrys-geofences-key.jks")
-            storePassword "REDACTED_PASSWORD"
-            keyAlias "countrys-key"
-            keyPassword "REDACTED_PASSWORD"
+            def storeFilePath = keystoreProperties.getProperty('storeFile')
+            if (storeFilePath) {
+                storeFile file(storeFilePath)
+            }
+            storePassword keystoreProperties.getProperty('storePassword', '')
+            keyAlias keystoreProperties.getProperty('keyAlias', '')
+            keyPassword keystoreProperties.getProperty('keyPassword', '')
         }
     }
 

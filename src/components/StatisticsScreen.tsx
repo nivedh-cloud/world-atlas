@@ -101,6 +101,11 @@ interface RankedRow {
   subLabel?: string;
 }
 
+function flagUrl(code: string): string {
+  const base = import.meta.env.BASE_URL || '/';
+  return `${base.replace(/\/+$/, '')}/flags/${code.toLowerCase()}.svg`;
+}
+
 export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onCountrySelect }) => {
   const [statsData, setStatsData] = useState<
     Record<string, { code: string; gecCode: string; name: string; population: number; area: number }> | null
@@ -148,7 +153,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
         .map(c => ({
           code: c.code,
           name: c.name.charAt(0).toUpperCase() + c.name.slice(1),
-          flag: `/flags/${c.code.toLowerCase()}.svg`,
+          flag: flagUrl(c.code),
           value: c.population,
           displayValue: formatPopulation(c.population),
         }));
@@ -161,7 +166,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
         .map(c => ({
           code: c.code,
           name: c.name.charAt(0).toUpperCase() + c.name.slice(1),
-          flag: `/flags/${c.code.toLowerCase()}.svg`,
+          flag: flagUrl(c.code),
           value: c.area,
           displayValue: formatArea(c.area),
         }));
@@ -180,7 +185,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           .map(([code, entry]) => ({
             code,
             name: getName(code, code),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.active_personnel,
             displayValue: entry.active_personnel >= 1_000_000
               ? (entry.active_personnel / 1_000_000).toFixed(2) + 'M troops'
@@ -197,7 +202,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           .map(([code, entry]) => ({
             code,
             name: getName(code, entry.name),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.gmi,
             displayValue: entry.gmi.toFixed(1),
             subLabel: 'GMI Score',
@@ -211,7 +216,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           .map(([code, entry]) => ({
             code,
             name: getName(code, entry.name),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.milexp,
             displayValue: entry.milexp.toFixed(2),
             subLabel: 'Expenditure Index',
@@ -225,7 +230,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           .map(([code, entry]) => ({
             code,
             name: getName(code, entry.name),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.milper,
             displayValue: entry.milper.toFixed(2),
             subLabel: 'Personnel Index',
@@ -239,7 +244,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           .map(([code, entry]) => ({
             code,
             name: getName(code, entry.name),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.hw,
             displayValue: entry.hw.toFixed(2),
             subLabel: 'Heavy Weapons Index',
@@ -259,7 +264,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.life_exp,
             displayValue: entry.life_exp.toFixed(1) + ' yrs',
           };
@@ -278,7 +283,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.gdp_pc,
             displayValue: gdpFmt,
             subLabel: `Gini: ${entry.gini.toFixed(1)}`,
@@ -296,7 +301,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.median_age,
             displayValue: entry.median_age.toFixed(1) + ' yrs',
             subLabel: `Fertility: ${entry.fertility.toFixed(1)} per woman`,
@@ -313,7 +318,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.literacy,
             displayValue: entry.literacy.toFixed(1) + '%',
             subLabel: `Edu spend: ${entry.edu_spend.toFixed(1)}% of GDP`,
@@ -331,7 +336,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.democracy,
             displayValue: entry.democracy.toFixed(2) + '/10',
             subLabel: `${freedomIcon} ${entry.freedom}`,
@@ -348,7 +353,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.renewable_pct,
             displayValue: entry.renewable_pct.toFixed(1) + '%',
             subLabel: `CO₂: ${entry.co2_pc.toFixed(1)} t/capita`,
@@ -365,7 +370,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.forest_pct,
             displayValue: entry.forest_pct.toFixed(1) + '%',
             subLabel: `Protected: ${entry.protected_pct.toFixed(1)}%`,
@@ -383,7 +388,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: entry.hdi,
             displayValue: entry.hdi.toFixed(3),
             subLabel: `Life: ${entry.life_exp} yrs${happinessPart}`,
@@ -408,7 +413,7 @@ export const StatisticsScreen: React.FC<Props> = ({ isOpen, onClose, metric, onC
           return {
             code,
             name: name.charAt(0).toUpperCase() + name.slice(1),
-            flag: `/flags/${code.toLowerCase()}.svg`,
+            flag: flagUrl(code),
             value: val,
             displayValue: isTotal ? fmtBillion(val) : fmtPc(val),
           };
