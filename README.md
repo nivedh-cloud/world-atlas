@@ -1,5 +1,7 @@
 # World Atlas & Country Info
 
+[![Deploy web app to GitHub Pages](https://github.com/nivedh-cloud/world-atlas/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/nivedh-cloud/world-atlas/actions/workflows/deploy-pages.yml)
+
 A fully-featured Android & web application for exploring world geography, country boundaries, statistics, and detailed country information — built with React, Vite, TypeScript, and Capacitor.
 
 ---
