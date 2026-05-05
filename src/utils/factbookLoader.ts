@@ -12,7 +12,7 @@ export interface FactbookData {
   Geography?: {
     Location?: { text?: string };
     "Geographic coordinates"?: { text?: string };
-    Area?: { "total "?: { text?: string }; land?: { text?: string } };
+    Area?: { "total "?: { text?: string }; total?: { text?: string }; land?: { text?: string } };
     Coastline?: { text?: string };
     "Land boundaries"?: { total?: { text?: string }; "border countries"?: { text?: string } };
     Climate?: { text?: string };
@@ -303,9 +303,9 @@ export function extractPopulationNumber(text: string | undefined): number {
  */
 export function extractAreaNumber(text: string | undefined): number {
   if (!text) return 0;
-  const match = text.match(/[\d,]+/);
+  const match = text.match(/[\d,.]+/);
   if (match) {
-    return parseInt(match[0].replace(/,/g, ""), 10);
+    return parseFloat(match[0].replace(/,/g, ""));
   }
   return 0;
 }
@@ -322,7 +322,7 @@ export function getPopulation(data: FactbookData): number {
  * Get area from factbook data
  */
 export function getArea(data: FactbookData): number {
-  const text = data.Geography?.Area?.["total "]?.text || data.Geography?.Area?.["total "]?.text;
+  const text = data.Geography?.Area?.total?.text || data.Geography?.Area?.["total "]?.text;
   return extractAreaNumber(text);
 }
 
