@@ -668,38 +668,6 @@ export const MapComponent: React.FC<MapComponentProps> = ({
           bearing = 0;
         }
 
-        // Continents/oceans render as very large, disjoint polygons.
-        // Skipping cinematic fly avoids ending in a partially framed view on some devices.
-        if (isContinentMode) {
-          try {
-            (map as unknown as { setProjection?: (s: { type: string }) => void }).setProjection?.({ type: 'mercator' });
-          } catch {
-            /* ignore */
-          }
-          setGlobeVersusMercatorRendering(
-            map as unknown as Parameters<typeof setGlobeVersusMercatorRendering>[0],
-            'mercator-detail',
-          );
-          const mapLibrePadding = isMobileViewport
-            ? { top: 160, bottom: 160, left: 32, right: 32 }
-            : { top: 90, bottom: 90, left: 70, right: 70 };
-          map.fitBounds(
-            [
-              [west, south],
-              [east, north],
-            ],
-            {
-              padding: mapLibrePadding,
-              duration: 0,
-              maxZoom: isMobileViewport ? 4 : 5,
-              pitch: 0,
-              bearing: 0,
-              essential: true,
-            }
-          );
-          return;
-        }
-
         map.flyTo({
           center: mapBounds.center as [number, number],
           zoom: flyZoom,
@@ -858,7 +826,7 @@ export const MapComponent: React.FC<MapComponentProps> = ({
       
       // Cap zoom level to prevent over-zooming on small countries
       const currentZoom = (map as unknown as { getZoom: () => number }).getZoom();
-      const maxZoom = isCountryMode ? 10 : (isMobileViewport ? 4 : 5);
+      const maxZoom = isCountryMode ? 10 : (isMobileViewport ? 5 : 6);
       if (currentZoom > maxZoom) {
         (map as unknown as { setZoom: (zoom: number) => void }).setZoom(maxZoom);
       }
