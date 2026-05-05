@@ -117,6 +117,7 @@ export const MapComponent: React.FC<MapComponentProps> = ({
 }) => {
   const isCountryMode = dropdownLabel === 'Country' || dropdownLabel === 'Countries';
   const isContinentMode = dropdownLabel === 'Continent' || dropdownLabel === 'Continents';
+  const isMobileViewport = typeof window !== "undefined" ? window.innerWidth < 768 : false;
 
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<unknown>(null);
@@ -692,27 +693,35 @@ export const MapComponent: React.FC<MapComponentProps> = ({
             'mercator-detail',
           );
           try {
+            const mapLibrePadding = isContinentMode
+              ? (isMobileViewport
+                  ? { top: 120, bottom: 120, left: 36, right: 36 }
+                  : { top: 80, bottom: 80, left: 60, right: 60 })
+              : 50;
             map.fitBounds(
               [
                 [west, south],
                 [east, north],
               ],
               {
-                padding: isContinentMode ? 70 : 50,
+                padding: mapLibrePadding,
                 duration: 1600,
-                maxZoom: isCountryMode ? 11 : 6,
+                maxZoom: isCountryMode ? 11 : (isMobileViewport ? 5 : 6),
                 pitch: 0,
                 bearing: 0,
                 essential: true,
               }
             );
           } catch {
+            const fallbackPadding = isContinentMode
+              ? (isMobileViewport ? 90 : 70)
+              : 50;
             map.fitBounds(
               [
                 [west, south],
                 [east, north],
               ],
-              { padding: isContinentMode ? 70 : 50, duration: 1600, maxZoom: isCountryMode ? 11 : 6, essential: true }
+              { padding: fallbackPadding, duration: 1600, maxZoom: isCountryMode ? 11 : (isMobileViewport ? 5 : 6), essential: true }
             );
           }
         });
@@ -806,12 +815,18 @@ export const MapComponent: React.FC<MapComponentProps> = ({
       console.log(`Animating to ${countryName}:`, center, bounds);
 
       // Use fitBounds for proper zooming - adjust padding for mobile
-      const padding = window.innerWidth < 768 ? { top: 120, bottom: 120, left: 40, right: 40 } : { top: 80, bottom: 80, left: 80, right: 80 };
+      const padding = isContinentMode
+        ? (isMobileViewport
+            ? { top: 150, bottom: 150, left: 28, right: 28 }
+            : { top: 95, bottom: 95, left: 70, right: 70 })
+        : (isMobileViewport
+            ? { top: 120, bottom: 120, left: 40, right: 40 }
+            : { top: 80, bottom: 80, left: 80, right: 80 });
       (map as unknown as { fitBounds: (bounds: unknown, padding: unknown) => void }).fitBounds(bounds, padding);
       
       // Cap zoom level to prevent over-zooming on small countries
       const currentZoom = (map as unknown as { getZoom: () => number }).getZoom();
-      const maxZoom = isCountryMode ? 10 : 6;
+      const maxZoom = isCountryMode ? 10 : (isMobileViewport ? 5 : 6);
       if (currentZoom > maxZoom) {
         (map as unknown as { setZoom: (zoom: number) => void }).setZoom(maxZoom);
       }
