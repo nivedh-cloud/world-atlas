@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">World Atlas &amp; Country Info</string>
+    <string name="title_activity_main">World Atlas &amp; Country Info</string>
+    <string name="package_name">com.nivedhLabs.WorldBordersnCountryInfoApp</string>
+    <string name="custom_url_scheme">com.nivedhLabs.WorldBordersnCountryInfoApp</string>
+    <!-- AdMob app id (~) — must match Application ID in AdMob -->
+    <string name="admob_app_id">ca-app-pub-6545283419126344~2344849507</string>
+</resources>

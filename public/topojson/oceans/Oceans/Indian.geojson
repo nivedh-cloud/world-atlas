@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [20.0, -60.0],
+            [147.0, -60.0],
+            [147.0, 30.0],
+            [20.0, 30.0],
+            [20.0, -60.0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Indian Ocean",
+        "color": "#00CCFF",
+        "shapeType": "rectangle"
+      }
+    }
+  ]
+}

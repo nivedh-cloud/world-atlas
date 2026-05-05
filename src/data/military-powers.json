@@ -1,0 +1,1529 @@
+{
+  "US": {
+    "military_rank": 1,
+    "defense_budget": "$886B",
+    "active_personnel": 1280000,
+    "aircraft_strength": 13300,
+    "tank_strength": 5500,
+    "nuclear_capability": true
+  },
+  "RU": {
+    "military_rank": 2,
+    "defense_budget": "$124B",
+    "active_personnel": 1150000,
+    "aircraft_strength": 4173,
+    "tank_strength": 12556,
+    "nuclear_capability": true
+  },
+  "CN": {
+    "military_rank": 3,
+    "defense_budget": "$231B",
+    "active_personnel": 2000000,
+    "aircraft_strength": 3304,
+    "tank_strength": 5000,
+    "nuclear_capability": true
+  },
+  "IN": {
+    "military_rank": 4,
+    "defense_budget": "$74B",
+    "active_personnel": 1475000,
+    "aircraft_strength": 2296,
+    "tank_strength": 4614,
+    "nuclear_capability": true
+  },
+  "KR": {
+    "military_rank": 5,
+    "defense_budget": "$52B",
+    "active_personnel": 500000,
+    "aircraft_strength": 1649,
+    "tank_strength": 2614,
+    "nuclear_capability": false
+  },
+  "GB": {
+    "military_rank": 6,
+    "defense_budget": "$75B",
+    "active_personnel": 144000,
+    "aircraft_strength": 812,
+    "tank_strength": 213,
+    "nuclear_capability": true
+  },
+  "JP": {
+    "military_rank": 7,
+    "defense_budget": "$53B",
+    "active_personnel": 247000,
+    "aircraft_strength": 946,
+    "tank_strength": 1004,
+    "nuclear_capability": false
+  },
+  "TR": {
+    "military_rank": 8,
+    "defense_budget": "$46B",
+    "active_personnel": 355000,
+    "aircraft_strength": 1058,
+    "tank_strength": 3095,
+    "nuclear_capability": false
+  },
+  "PK": {
+    "military_rank": 9,
+    "defense_budget": "$11B",
+    "active_personnel": 654000,
+    "aircraft_strength": 1434,
+    "tank_strength": 2596,
+    "nuclear_capability": true
+  },
+  "FR": {
+    "military_rank": 10,
+    "defense_budget": "$68B",
+    "active_personnel": 205000,
+    "aircraft_strength": 1055,
+    "tank_strength": 406,
+    "nuclear_capability": true
+  },
+  "IT": {
+    "military_rank": 11,
+    "defense_budget": "$36B",
+    "active_personnel": 165000,
+    "aircraft_strength": 869,
+    "tank_strength": 200,
+    "nuclear_capability": false
+  },
+  "EG": {
+    "military_rank": 12,
+    "defense_budget": "$12B",
+    "active_personnel": 440000,
+    "aircraft_strength": 1062,
+    "tank_strength": 4295,
+    "nuclear_capability": false
+  },
+  "BR": {
+    "military_rank": 13,
+    "defense_budget": "$25B",
+    "active_personnel": 360000,
+    "aircraft_strength": 733,
+    "tank_strength": 486,
+    "nuclear_capability": false
+  },
+  "ID": {
+    "military_rank": 14,
+    "defense_budget": "$10.5B",
+    "active_personnel": 400000,
+    "aircraft_strength": 461,
+    "tank_strength": 418,
+    "nuclear_capability": false
+  },
+  "IR": {
+    "military_rank": 15,
+    "defense_budget": "$10.3B",
+    "active_personnel": 610000,
+    "aircraft_strength": 551,
+    "tank_strength": 4071,
+    "nuclear_capability": false
+  },
+  "DE": {
+    "military_rank": 16,
+    "defense_budget": "$90B",
+    "active_personnel": 182000,
+    "aircraft_strength": 626,
+    "tank_strength": 296,
+    "nuclear_capability": false
+  },
+  "SA": {
+    "military_rank": 17,
+    "defense_budget": "$80B",
+    "active_personnel": 257000,
+    "aircraft_strength": 879,
+    "tank_strength": 1142,
+    "nuclear_capability": false
+  },
+  "IL": {
+    "military_rank": 18,
+    "defense_budget": "$34B",
+    "active_personnel": 170000,
+    "aircraft_strength": 601,
+    "tank_strength": 1370,
+    "nuclear_capability": true
+  },
+  "AU": {
+    "military_rank": 19,
+    "defense_budget": "$48B",
+    "active_personnel": 60000,
+    "aircraft_strength": 468,
+    "tank_strength": 59,
+    "nuclear_capability": false
+  },
+  "ES": {
+    "military_rank": 20,
+    "defense_budget": "$20B",
+    "active_personnel": 120000,
+    "aircraft_strength": 558,
+    "tank_strength": 327,
+    "nuclear_capability": false
+  },
+  "TW": {
+    "military_rank": 21,
+    "defense_budget": "$20B",
+    "active_personnel": 163000,
+    "aircraft_strength": 741,
+    "tank_strength": 1110,
+    "nuclear_capability": false
+  },
+  "PL": {
+    "military_rank": 22,
+    "defense_budget": "$40B",
+    "active_personnel": 215000,
+    "aircraft_strength": 508,
+    "tank_strength": 2085,
+    "nuclear_capability": false
+  },
+  "VN": {
+    "military_rank": 23,
+    "defense_budget": "$7.3B",
+    "active_personnel": 470000,
+    "aircraft_strength": 529,
+    "tank_strength": 1545,
+    "nuclear_capability": false
+  },
+  "UA": {
+    "military_rank": 24,
+    "defense_budget": "$88B",
+    "active_personnel": 900000,
+    "aircraft_strength": 98,
+    "tank_strength": 900,
+    "nuclear_capability": false
+  },
+  "GR": {
+    "military_rank": 25,
+    "defense_budget": "$11B",
+    "active_personnel": 140000,
+    "aircraft_strength": 700,
+    "tank_strength": 1244,
+    "nuclear_capability": false
+  },
+  "TH": {
+    "military_rank": 26,
+    "defense_budget": "$7.5B",
+    "active_personnel": 360000,
+    "aircraft_strength": 587,
+    "tank_strength": 737,
+    "nuclear_capability": false
+  },
+  "KP": {
+    "military_rank": 27,
+    "defense_budget": "$4B",
+    "active_personnel": 1280000,
+    "aircraft_strength": 563,
+    "tank_strength": 5800,
+    "nuclear_capability": true
+  },
+  "DZ": {
+    "military_rank": 28,
+    "defense_budget": "$9.4B",
+    "active_personnel": 130000,
+    "aircraft_strength": 400,
+    "tank_strength": 1030,
+    "nuclear_capability": false
+  },
+  "SE": {
+    "military_rank": 29,
+    "defense_budget": "$11B",
+    "active_personnel": 24400,
+    "aircraft_strength": 197,
+    "tank_strength": 120,
+    "nuclear_capability": false
+  },
+  "NL": {
+    "military_rank": 30,
+    "defense_budget": "$20B",
+    "active_personnel": 40000,
+    "aircraft_strength": 211,
+    "tank_strength": 18,
+    "nuclear_capability": false
+  },
+  "NO": {
+    "military_rank": 31,
+    "defense_budget": "$9.8B",
+    "active_personnel": 24000,
+    "aircraft_strength": 90,
+    "tank_strength": 36,
+    "nuclear_capability": false
+  },
+  "CA": {
+    "military_rank": 32,
+    "defense_budget": "$27B",
+    "active_personnel": 71000,
+    "aircraft_strength": 397,
+    "tank_strength": 82,
+    "nuclear_capability": false
+  },
+  "MY": {
+    "military_rank": 33,
+    "defense_budget": "$4.3B",
+    "active_personnel": 113000,
+    "aircraft_strength": 122,
+    "tank_strength": 48,
+    "nuclear_capability": false
+  },
+  "NG": {
+    "military_rank": 34,
+    "defense_budget": "$3.8B",
+    "active_personnel": 223000,
+    "aircraft_strength": 95,
+    "tank_strength": 350,
+    "nuclear_capability": false
+  },
+  "PT": {
+    "military_rank": 35,
+    "defense_budget": "$5.5B",
+    "active_personnel": 24000,
+    "aircraft_strength": 105,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "RO": {
+    "military_rank": 36,
+    "defense_budget": "$9B",
+    "active_personnel": 68000,
+    "aircraft_strength": 148,
+    "tank_strength": 823,
+    "nuclear_capability": false
+  },
+  "PH": {
+    "military_rank": 37,
+    "defense_budget": "$5B",
+    "active_personnel": 145000,
+    "aircraft_strength": 154,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "AR": {
+    "military_rank": 38,
+    "defense_budget": "$4.9B",
+    "active_personnel": 75000,
+    "aircraft_strength": 232,
+    "tank_strength": 300,
+    "nuclear_capability": false
+  },
+  "MX": {
+    "military_rank": 39,
+    "defense_budget": "$12B",
+    "active_personnel": 280000,
+    "aircraft_strength": 371,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "CZ": {
+    "military_rank": 40,
+    "defense_budget": "$6.9B",
+    "active_personnel": 29000,
+    "aircraft_strength": 83,
+    "tank_strength": 205,
+    "nuclear_capability": false
+  },
+  "BE": {
+    "military_rank": 41,
+    "defense_budget": "$7.6B",
+    "active_personnel": 24000,
+    "aircraft_strength": 132,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "AZ": {
+    "military_rank": 42,
+    "defense_budget": "$3.5B",
+    "active_personnel": 67000,
+    "aircraft_strength": 195,
+    "tank_strength": 816,
+    "nuclear_capability": false
+  },
+  "FI": {
+    "military_rank": 43,
+    "defense_budget": "$7.2B",
+    "active_personnel": 23000,
+    "aircraft_strength": 128,
+    "tank_strength": 239,
+    "nuclear_capability": false
+  },
+  "QA": {
+    "military_rank": 44,
+    "defense_budget": "$7.8B",
+    "active_personnel": 18000,
+    "aircraft_strength": 143,
+    "tank_strength": 30,
+    "nuclear_capability": false
+  },
+  "OM": {
+    "military_rank": 45,
+    "defense_budget": "$8.2B",
+    "active_personnel": 43000,
+    "aircraft_strength": 177,
+    "tank_strength": 292,
+    "nuclear_capability": false
+  },
+  "BG": {
+    "military_rank": 46,
+    "defense_budget": "$3.3B",
+    "active_personnel": 36000,
+    "aircraft_strength": 81,
+    "tank_strength": 1033,
+    "nuclear_capability": false
+  },
+  "SY": {
+    "military_rank": 47,
+    "defense_budget": "$1.8B",
+    "active_personnel": 125000,
+    "aircraft_strength": 339,
+    "tank_strength": 4640,
+    "nuclear_capability": false
+  },
+  "KW": {
+    "military_rank": 48,
+    "defense_budget": "$7.5B",
+    "active_personnel": 17500,
+    "aircraft_strength": 124,
+    "tank_strength": 218,
+    "nuclear_capability": false
+  },
+  "CL": {
+    "military_rank": 49,
+    "defense_budget": "$9.7B",
+    "active_personnel": 80000,
+    "aircraft_strength": 209,
+    "tank_strength": 326,
+    "nuclear_capability": false
+  },
+  "RS": {
+    "military_rank": 50,
+    "defense_budget": "$2.2B",
+    "active_personnel": 28000,
+    "aircraft_strength": 185,
+    "tank_strength": 310,
+    "nuclear_capability": false
+  },
+  "JO": {
+    "military_rank": 51,
+    "defense_budget": "$3.8B",
+    "active_personnel": 101000,
+    "aircraft_strength": 188,
+    "tank_strength": 1321,
+    "nuclear_capability": false
+  },
+  "BD": {
+    "military_rank": 52,
+    "defense_budget": "$4.9B",
+    "active_personnel": 165500,
+    "aircraft_strength": 171,
+    "tank_strength": 524,
+    "nuclear_capability": false
+  },
+  "ZA": {
+    "military_rank": 53,
+    "defense_budget": "$4.8B",
+    "active_personnel": 78000,
+    "aircraft_strength": 232,
+    "tank_strength": 172,
+    "nuclear_capability": false
+  },
+  "TN": {
+    "military_rank": 54,
+    "defense_budget": "$2.8B",
+    "active_personnel": 48000,
+    "aircraft_strength": 102,
+    "tank_strength": 84,
+    "nuclear_capability": false
+  },
+  "HR": {
+    "military_rank": 55,
+    "defense_budget": "$2.3B",
+    "active_personnel": 14500,
+    "aircraft_strength": 87,
+    "tank_strength": 75,
+    "nuclear_capability": false
+  },
+  "AE": {
+    "military_rank": 56,
+    "defense_budget": "$23B",
+    "active_personnel": 65000,
+    "aircraft_strength": 609,
+    "tank_strength": 434,
+    "nuclear_capability": false
+  },
+  "ET": {
+    "military_rank": 57,
+    "defense_budget": "$1B",
+    "active_personnel": 138000,
+    "aircraft_strength": 85,
+    "tank_strength": 600,
+    "nuclear_capability": false
+  },
+  "MM": {
+    "military_rank": 58,
+    "defense_budget": "$2.4B",
+    "active_personnel": 360000,
+    "aircraft_strength": 227,
+    "tank_strength": 650,
+    "nuclear_capability": false
+  },
+  "HU": {
+    "military_rank": 59,
+    "defense_budget": "$5B",
+    "active_personnel": 23000,
+    "aircraft_strength": 111,
+    "tank_strength": 44,
+    "nuclear_capability": false
+  },
+  "SK": {
+    "military_rank": 60,
+    "defense_budget": "$2.8B",
+    "active_personnel": 15000,
+    "aircraft_strength": 54,
+    "tank_strength": 30,
+    "nuclear_capability": false
+  },
+  "AT": {
+    "military_rank": 61,
+    "defense_budget": "$5.4B",
+    "active_personnel": 22500,
+    "aircraft_strength": 61,
+    "tank_strength": 56,
+    "nuclear_capability": false
+  },
+  "MA": {
+    "military_rank": 62,
+    "defense_budget": "$5.4B",
+    "active_personnel": 196000,
+    "aircraft_strength": 335,
+    "tank_strength": 1216,
+    "nuclear_capability": false
+  },
+  "CO": {
+    "military_rank": 63,
+    "defense_budget": "$12B",
+    "active_personnel": 295000,
+    "aircraft_strength": 474,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "KZ": {
+    "military_rank": 64,
+    "defense_budget": "$3.8B",
+    "active_personnel": 150000,
+    "aircraft_strength": 206,
+    "tank_strength": 980,
+    "nuclear_capability": false
+  },
+  "IQ": {
+    "military_rank": 65,
+    "defense_budget": "$7.4B",
+    "active_personnel": 193000,
+    "aircraft_strength": 430,
+    "tank_strength": 336,
+    "nuclear_capability": false
+  },
+  "CU": {
+    "military_rank": 66,
+    "defense_budget": "$0.8B",
+    "active_personnel": 55000,
+    "aircraft_strength": 137,
+    "tank_strength": 900,
+    "nuclear_capability": false
+  },
+  "LB": {
+    "military_rank": 67,
+    "defense_budget": "$0.5B",
+    "active_personnel": 80000,
+    "aircraft_strength": 50,
+    "tank_strength": 310,
+    "nuclear_capability": false
+  },
+  "NZ": {
+    "military_rank": 68,
+    "defense_budget": "$3.9B",
+    "active_personnel": 9000,
+    "aircraft_strength": 73,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "CH": {
+    "military_rank": 69,
+    "defense_budget": "$6.2B",
+    "active_personnel": 20000,
+    "aircraft_strength": 117,
+    "tank_strength": 134,
+    "nuclear_capability": false
+  },
+  "AF": {
+    "military_rank": 70,
+    "defense_budget": "$0.5B",
+    "active_personnel": 85000,
+    "aircraft_strength": 43,
+    "tank_strength": 200,
+    "nuclear_capability": false
+  },
+  "AO": {
+    "military_rank": 71,
+    "defense_budget": "$2.8B",
+    "active_personnel": 107000,
+    "aircraft_strength": 93,
+    "tank_strength": 410,
+    "nuclear_capability": false
+  },
+  "LY": {
+    "military_rank": 72,
+    "defense_budget": "$2.2B",
+    "active_personnel": 76000,
+    "aircraft_strength": 140,
+    "tank_strength": 3300,
+    "nuclear_capability": false
+  },
+  "CM": {
+    "military_rank": 73,
+    "defense_budget": "$0.8B",
+    "active_personnel": 24400,
+    "aircraft_strength": 34,
+    "tank_strength": 83,
+    "nuclear_capability": false
+  },
+  "SD": {
+    "military_rank": 74,
+    "defense_budget": "$1.5B",
+    "active_personnel": 104000,
+    "aircraft_strength": 84,
+    "tank_strength": 1700,
+    "nuclear_capability": false
+  },
+  "TZ": {
+    "military_rank": 75,
+    "defense_budget": "$0.7B",
+    "active_personnel": 27000,
+    "aircraft_strength": 46,
+    "tank_strength": 45,
+    "nuclear_capability": false
+  },
+  "GH": {
+    "military_rank": 76,
+    "defense_budget": "$0.5B",
+    "active_personnel": 15500,
+    "aircraft_strength": 27,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "EE": {
+    "military_rank": 77,
+    "defense_budget": "$1.4B",
+    "active_personnel": 7000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "LV": {
+    "military_rank": 78,
+    "defense_budget": "$1.2B",
+    "active_personnel": 6500,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "LT": {
+    "military_rank": 79,
+    "defense_budget": "$1.8B",
+    "active_personnel": 19000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "KG": {
+    "military_rank": 80,
+    "defense_budget": "$0.15B",
+    "active_personnel": 15000,
+    "aircraft_strength": 72,
+    "tank_strength": 150,
+    "nuclear_capability": false
+  },
+  "UZ": {
+    "military_rank": 81,
+    "defense_budget": "$2.5B",
+    "active_personnel": 65000,
+    "aircraft_strength": 170,
+    "tank_strength": 420,
+    "nuclear_capability": false
+  },
+  "YE": {
+    "military_rank": 82,
+    "defense_budget": "$1.4B",
+    "active_personnel": 66700,
+    "aircraft_strength": 99,
+    "tank_strength": 790,
+    "nuclear_capability": false
+  },
+  "KE": {
+    "military_rank": 83,
+    "defense_budget": "$1.3B",
+    "active_personnel": 24000,
+    "aircraft_strength": 100,
+    "tank_strength": 78,
+    "nuclear_capability": false
+  },
+  "AM": {
+    "military_rank": 84,
+    "defense_budget": "$0.8B",
+    "active_personnel": 44800,
+    "aircraft_strength": 63,
+    "tank_strength": 110,
+    "nuclear_capability": false
+  },
+  "GE": {
+    "military_rank": 85,
+    "defense_budget": "$0.9B",
+    "active_personnel": 20650,
+    "aircraft_strength": 61,
+    "tank_strength": 130,
+    "nuclear_capability": false
+  },
+  "BH": {
+    "military_rank": 86,
+    "defense_budget": "$1.4B",
+    "active_personnel": 8200,
+    "aircraft_strength": 104,
+    "tank_strength": 180,
+    "nuclear_capability": false
+  },
+  "TM": {
+    "military_rank": 87,
+    "defense_budget": "$1.8B",
+    "active_personnel": 36500,
+    "aircraft_strength": 141,
+    "tank_strength": 700,
+    "nuclear_capability": false
+  },
+  "TJ": {
+    "military_rank": 88,
+    "defense_budget": "$0.2B",
+    "active_personnel": 9500,
+    "aircraft_strength": 36,
+    "tank_strength": 37,
+    "nuclear_capability": false
+  },
+  "LK": {
+    "military_rank": 89,
+    "defense_budget": "$2.1B",
+    "active_personnel": 256000,
+    "aircraft_strength": 60,
+    "tank_strength": 62,
+    "nuclear_capability": false
+  },
+  "PE": {
+    "military_rank": 90,
+    "defense_budget": "$3.4B",
+    "active_personnel": 95000,
+    "aircraft_strength": 258,
+    "tank_strength": 285,
+    "nuclear_capability": false
+  },
+  "VE": {
+    "military_rank": 91,
+    "defense_budget": "$1.5B",
+    "active_personnel": 115000,
+    "aircraft_strength": 237,
+    "tank_strength": 192,
+    "nuclear_capability": false
+  },
+  "UY": {
+    "military_rank": 92,
+    "defense_budget": "$1.2B",
+    "active_personnel": 22000,
+    "aircraft_strength": 80,
+    "tank_strength": 15,
+    "nuclear_capability": false
+  },
+  "PY": {
+    "military_rank": 93,
+    "defense_budget": "$0.5B",
+    "active_personnel": 16000,
+    "aircraft_strength": 56,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BO": {
+    "military_rank": 94,
+    "defense_budget": "$0.7B",
+    "active_personnel": 46000,
+    "aircraft_strength": 65,
+    "tank_strength": 36,
+    "nuclear_capability": false
+  },
+  "EC": {
+    "military_rank": 95,
+    "defense_budget": "$2.4B",
+    "active_personnel": 40000,
+    "aircraft_strength": 143,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "ZM": {
+    "military_rank": 96,
+    "defense_budget": "$0.4B",
+    "active_personnel": 17000,
+    "aircraft_strength": 47,
+    "tank_strength": 30,
+    "nuclear_capability": false
+  },
+  "MZ": {
+    "military_rank": 97,
+    "defense_budget": "$0.2B",
+    "active_personnel": 12000,
+    "aircraft_strength": 13,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "ZW": {
+    "military_rank": 98,
+    "defense_budget": "$0.3B",
+    "active_personnel": 29000,
+    "aircraft_strength": 56,
+    "tank_strength": 35,
+    "nuclear_capability": false
+  },
+  "MK": {
+    "military_rank": 99,
+    "defense_budget": "$0.3B",
+    "active_personnel": 8000,
+    "aircraft_strength": 6,
+    "tank_strength": 31,
+    "nuclear_capability": false
+  },
+  "AL": {
+    "military_rank": 100,
+    "defense_budget": "$0.4B",
+    "active_personnel": 9000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SI": {
+    "military_rank": 101,
+    "defense_budget": "$1.3B",
+    "active_personnel": 7600,
+    "aircraft_strength": 26,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SN": {
+    "military_rank": 102,
+    "defense_budget": "$0.7B",
+    "active_personnel": 19000,
+    "aircraft_strength": 24,
+    "tank_strength": 30,
+    "nuclear_capability": false
+  },
+  "CD": {
+    "military_rank": 103,
+    "defense_budget": "$0.4B",
+    "active_personnel": 134250,
+    "aircraft_strength": 24,
+    "tank_strength": 37,
+    "nuclear_capability": false
+  },
+  "ML": {
+    "military_rank": 104,
+    "defense_budget": "$0.7B",
+    "active_personnel": 21000,
+    "aircraft_strength": 19,
+    "tank_strength": 33,
+    "nuclear_capability": false
+  },
+  "TD": {
+    "military_rank": 105,
+    "defense_budget": "$0.5B",
+    "active_personnel": 30350,
+    "aircraft_strength": 14,
+    "tank_strength": 60,
+    "nuclear_capability": false
+  },
+  "SS": {
+    "military_rank": 106,
+    "defense_budget": "$0.4B",
+    "active_personnel": 185000,
+    "aircraft_strength": 9,
+    "tank_strength": 75,
+    "nuclear_capability": false
+  },
+  "ER": {
+    "military_rank": 107,
+    "defense_budget": "$0.08B",
+    "active_personnel": 200000,
+    "aircraft_strength": 39,
+    "tank_strength": 270,
+    "nuclear_capability": false
+  },
+  "SO": {
+    "military_rank": 108,
+    "defense_budget": "$0.07B",
+    "active_personnel": 22000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "CF": {
+    "military_rank": 109,
+    "defense_budget": "$0.05B",
+    "active_personnel": 10000,
+    "aircraft_strength": 6,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BF": {
+    "military_rank": 110,
+    "defense_budget": "$0.3B",
+    "active_personnel": 11200,
+    "aircraft_strength": 20,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GN": {
+    "military_rank": 111,
+    "defense_budget": "$0.2B",
+    "active_personnel": 12300,
+    "aircraft_strength": 16,
+    "tank_strength": 52,
+    "nuclear_capability": false
+  },
+  "CI": {
+    "military_rank": 112,
+    "defense_budget": "$0.9B",
+    "active_personnel": 25400,
+    "aircraft_strength": 22,
+    "tank_strength": 10,
+    "nuclear_capability": false
+  },
+  "MR": {
+    "military_rank": 113,
+    "defense_budget": "$0.2B",
+    "active_personnel": 20870,
+    "aircraft_strength": 14,
+    "tank_strength": 35,
+    "nuclear_capability": false
+  },
+  "NE": {
+    "military_rank": 114,
+    "defense_budget": "$0.2B",
+    "active_personnel": 10000,
+    "aircraft_strength": 12,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "TG": {
+    "military_rank": 115,
+    "defense_budget": "$0.2B",
+    "active_personnel": 10450,
+    "aircraft_strength": 18,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BJ": {
+    "military_rank": 116,
+    "defense_budget": "$0.3B",
+    "active_personnel": 7250,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SL": {
+    "military_rank": 117,
+    "defense_budget": "$0.06B",
+    "active_personnel": 9000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "LR": {
+    "military_rank": 118,
+    "defense_budget": "$0.1B",
+    "active_personnel": 2100,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GA": {
+    "military_rank": 119,
+    "defense_budget": "$0.4B",
+    "active_personnel": 6300,
+    "aircraft_strength": 17,
+    "tank_strength": 16,
+    "nuclear_capability": false
+  },
+  "CG": {
+    "military_rank": 120,
+    "defense_budget": "$0.2B",
+    "active_personnel": 10000,
+    "aircraft_strength": 8,
+    "tank_strength": 40,
+    "nuclear_capability": false
+  },
+  "MW": {
+    "military_rank": 121,
+    "defense_budget": "$0.07B",
+    "active_personnel": 10000,
+    "aircraft_strength": 15,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "UG": {
+    "military_rank": 122,
+    "defense_budget": "$0.7B",
+    "active_personnel": 45000,
+    "aircraft_strength": 46,
+    "tank_strength": 110,
+    "nuclear_capability": false
+  },
+  "RW": {
+    "military_rank": 123,
+    "defense_budget": "$0.5B",
+    "active_personnel": 33000,
+    "aircraft_strength": 12,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BI": {
+    "military_rank": 124,
+    "defense_budget": "$0.08B",
+    "active_personnel": 22000,
+    "aircraft_strength": 6,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "MG": {
+    "military_rank": 125,
+    "defense_budget": "$0.15B",
+    "active_personnel": 13500,
+    "aircraft_strength": 36,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "DJ": {
+    "military_rank": 126,
+    "defense_budget": "$0.15B",
+    "active_personnel": 10450,
+    "aircraft_strength": 10,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GQ": {
+    "military_rank": 127,
+    "defense_budget": "$0.12B",
+    "active_personnel": 1320,
+    "aircraft_strength": 5,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GW": {
+    "military_rank": 128,
+    "defense_budget": "$0.02B",
+    "active_personnel": 4000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "NA": {
+    "military_rank": 129,
+    "defense_budget": "$0.6B",
+    "active_personnel": 9200,
+    "aircraft_strength": 27,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BW": {
+    "military_rank": 130,
+    "defense_budget": "$0.6B",
+    "active_personnel": 9000,
+    "aircraft_strength": 64,
+    "tank_strength": 65,
+    "nuclear_capability": false
+  },
+  "DK": {
+    "military_rank": 131,
+    "defense_budget": "$9B",
+    "active_personnel": 16500,
+    "aircraft_strength": 92,
+    "tank_strength": 44,
+    "nuclear_capability": false
+  },
+  "IE": {
+    "military_rank": 132,
+    "defense_budget": "$1.5B",
+    "active_personnel": 9100,
+    "aircraft_strength": 37,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "NP": {
+    "military_rank": 133,
+    "defense_budget": "$0.5B",
+    "active_personnel": 96000,
+    "aircraft_strength": 32,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "KH": {
+    "military_rank": 134,
+    "defense_budget": "$0.6B",
+    "active_personnel": 124300,
+    "aircraft_strength": 36,
+    "tank_strength": 150,
+    "nuclear_capability": false
+  },
+  "LA": {
+    "military_rank": 135,
+    "defense_budget": "$0.3B",
+    "active_personnel": 29100,
+    "aircraft_strength": 38,
+    "tank_strength": 25,
+    "nuclear_capability": false
+  },
+  "LS": {
+    "military_rank": 136,
+    "defense_budget": "$0.06B",
+    "active_personnel": 2000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SZ": {
+    "military_rank": 137,
+    "defense_budget": "$0.07B",
+    "active_personnel": 3000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "CY": {
+    "military_rank": 138,
+    "defense_budget": "$0.6B",
+    "active_personnel": 12000,
+    "aircraft_strength": 26,
+    "tank_strength": 134,
+    "nuclear_capability": false
+  },
+  "MT": {
+    "military_rank": 139,
+    "defense_budget": "$0.2B",
+    "active_personnel": 1800,
+    "aircraft_strength": 12,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "LU": {
+    "military_rank": 140,
+    "defense_budget": "$0.7B",
+    "active_personnel": 900,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SG": {
+    "military_rank": 141,
+    "defense_budget": "$13B",
+    "active_personnel": 72500,
+    "aircraft_strength": 269,
+    "tank_strength": 224,
+    "nuclear_capability": false
+  },
+  "DO": {
+    "military_rank": 142,
+    "defense_budget": "$0.7B",
+    "active_personnel": 56000,
+    "aircraft_strength": 24,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GT": {
+    "military_rank": 143,
+    "defense_budget": "$0.3B",
+    "active_personnel": 17300,
+    "aircraft_strength": 22,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "HN": {
+    "military_rank": 144,
+    "defense_budget": "$0.4B",
+    "active_personnel": 16000,
+    "aircraft_strength": 60,
+    "tank_strength": 16,
+    "nuclear_capability": false
+  },
+  "SV": {
+    "military_rank": 145,
+    "defense_budget": "$0.2B",
+    "active_personnel": 24500,
+    "aircraft_strength": 17,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "NI": {
+    "military_rank": 146,
+    "defense_budget": "$0.1B",
+    "active_personnel": 12000,
+    "aircraft_strength": 12,
+    "tank_strength": 62,
+    "nuclear_capability": false
+  },
+  "HT": {
+    "military_rank": 147,
+    "defense_budget": "$0.09B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "JM": {
+    "military_rank": 148,
+    "defense_budget": "$0.12B",
+    "active_personnel": 3500,
+    "aircraft_strength": 6,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "TT": {
+    "military_rank": 149,
+    "defense_budget": "$0.2B",
+    "active_personnel": 4000,
+    "aircraft_strength": 6,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GY": {
+    "military_rank": 150,
+    "defense_budget": "$0.1B",
+    "active_personnel": 3400,
+    "aircraft_strength": 5,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SR": {
+    "military_rank": 151,
+    "defense_budget": "$0.07B",
+    "active_personnel": 1800,
+    "aircraft_strength": 5,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "FJ": {
+    "military_rank": 152,
+    "defense_budget": "$0.06B",
+    "active_personnel": 3500,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "PG": {
+    "military_rank": 153,
+    "defense_budget": "$0.12B",
+    "active_personnel": 3100,
+    "aircraft_strength": 6,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "MN": {
+    "military_rank": 154,
+    "defense_budget": "$0.1B",
+    "active_personnel": 9000,
+    "aircraft_strength": 14,
+    "tank_strength": 370,
+    "nuclear_capability": false
+  },
+  "BT": {
+    "military_rank": 155,
+    "defense_budget": "$0.05B",
+    "active_personnel": 8000,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "MV": {
+    "military_rank": 156,
+    "defense_budget": "$0.06B",
+    "active_personnel": 2700,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "KM": {
+    "military_rank": 157,
+    "defense_budget": "$0.01B",
+    "active_personnel": 600,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SC": {
+    "military_rank": 158,
+    "defense_budget": "$0.06B",
+    "active_personnel": 500,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "CV": {
+    "military_rank": 159,
+    "defense_budget": "$0.01B",
+    "active_personnel": 1200,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "ST": {
+    "military_rank": 160,
+    "defense_budget": "$0.005B",
+    "active_personnel": 300,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GM": {
+    "military_rank": 161,
+    "defense_budget": "$0.02B",
+    "active_personnel": 800,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "GD": {
+    "military_rank": 162,
+    "defense_budget": "$0.007B",
+    "active_personnel": 400,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BB": {
+    "military_rank": 163,
+    "defense_budget": "$0.03B",
+    "active_personnel": 600,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "BS": {
+    "military_rank": 164,
+    "defense_budget": "$0.06B",
+    "active_personnel": 1300,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "DM": {
+    "military_rank": 165,
+    "defense_budget": "$0.009B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "LC": {
+    "military_rank": 166,
+    "defense_budget": "$0.008B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "VC": {
+    "military_rank": 167,
+    "defense_budget": "$0.007B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "AG": {
+    "military_rank": 168,
+    "defense_budget": "$0.007B",
+    "active_personnel": 170,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "KN": {
+    "military_rank": 169,
+    "defense_budget": "$0.008B",
+    "active_personnel": 300,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "VU": {
+    "military_rank": 170,
+    "defense_budget": "$0.01B",
+    "active_personnel": 300,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "TO": {
+    "military_rank": 171,
+    "defense_budget": "$0.01B",
+    "active_personnel": 500,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "WS": {
+    "military_rank": 172,
+    "defense_budget": "$0.006B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "AD": {
+    "military_rank": 173,
+    "defense_budget": "$0.005B",
+    "active_personnel": 100,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "SM": {
+    "military_rank": 174,
+    "defense_budget": "$0.004B",
+    "active_personnel": 900,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+  "MC": {
+    "military_rank": 175,
+    "defense_budget": "$0.003B",
+    "active_personnel": 255,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false
+  },
+
+  "IS": {
+    "military_rank": 999,
+    "defense_budget": "$0.1B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No standing army; NATO member; Coast Guard only"
+  },
+  "CR": {
+    "military_rank": 999,
+    "defense_budget": "$0.3B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "Military abolished 1948; police forces only"
+  },
+  "PA": {
+    "military_rank": 999,
+    "defense_budget": "$0.35B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "Military abolished 1990; National Police only"
+  },
+  "VA": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 110,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "Swiss Guard ceremonial force only; sovereign neutral state"
+  },
+  "LI": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "Military abolished 1868; no armed forces"
+  },
+  "NR": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; relies on Australia for defence"
+  },
+  "TV": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; relies on international cooperation"
+  },
+  "KI": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; relies on international agreements"
+  },
+  "FM": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; defence provided by United States under Compact of Free Association"
+  },
+  "MH": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; defence provided by United States under Compact of Free Association"
+  },
+  "PW": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; defence provided by United States under Compact of Free Association"
+  },
+  "CK": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; defence provided by New Zealand"
+  },
+  "NU": {
+    "military_rank": 999,
+    "defense_budget": "$0.001B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; defence provided by New Zealand"
+  },
+  "MU": {
+    "military_rank": 999,
+    "defense_budget": "$0.05B",
+    "active_personnel": 0,
+    "aircraft_strength": 0,
+    "tank_strength": 0,
+    "nuclear_capability": false,
+    "neutral_status": "No military; paramilitary Special Mobile Force under police"
+  }
+}

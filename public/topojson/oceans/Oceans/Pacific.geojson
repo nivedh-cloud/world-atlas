@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [100.0, -60.0],
+            [180.0, -60.0],
+            [180.0, 66.0],
+            [100.0, 66.0],
+            [100.0, -60.0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pacific Ocean (West)",
+        "color": "#FF8800",
+        "shapeType": "rectangle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-180.0, -60.0],
+            [-67.0, -60.0],
+            [-67.0, 66.0],
+            [-180.0, 66.0],
+            [-180.0, -60.0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pacific Ocean (East)",
+        "color": "#FF8800",
+        "shapeType": "rectangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <!-- Green triangle (lower-left) -->
+  <polygon points="0,0 0,600 900,600" fill="#009A44"/>
+  <!-- Red triangle (upper-right) -->
+  <polygon points="0,0 900,0 900,600" fill="#CE1126"/>
+  <!-- Yellow 5-pointed star (center) -->
+  <polygon points="450,195 470,258 536,258 484,297 504,360 450,322 396,360 416,297 364,258 430,258" fill="#FFD700"/>
+</svg>

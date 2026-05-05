@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <!-- Green stripe (top) -->
+  <rect width="900" height="200" fill="#3A7D44"/>
+  <!-- White stripe (middle) -->
+  <rect y="200" width="900" height="200" fill="#FFFFFF"/>
+  <!-- Red stripe (bottom) -->
+  <rect y="400" width="900" height="200" fill="#CE1126"/>
+  <!-- White crescent moon in green stripe -->
+  <circle cx="330" cy="100" r="72" fill="white"/>
+  <circle cx="360" cy="100" r="56" fill="#3A7D44"/>
+  <!-- White 5-pointed star -->
+  <polygon points="470,58 484,100 528,100 494,124 507,166 470,142 433,166 446,124 412,100 456,100" fill="white"/>
+</svg>

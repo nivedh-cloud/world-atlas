@@ -1,0 +1,44 @@
+{
+  "Asia": {
+    "name": "Asia",
+    "countries": 48,
+    "population": 4719849648,
+    "area": 31951556
+  },
+  "Europe": {
+    "name": "Europe",
+    "countries": 45,
+    "population": 745751110,
+    "area": 23171776.46
+  },
+  "Africa": {
+    "name": "Africa",
+    "countries": 53,
+    "population": 1428034311,
+    "area": 30030931
+  },
+  "Antarctica": {
+    "name": "Antarctica",
+    "countries": 1,
+    "population": 1000,
+    "area": 14200000
+  },
+  "South America": {
+    "name": "South America",
+    "countries": 12,
+    "population": 437555974,
+    "area": 17728461
+  },
+  "Oceania": {
+    "name": "Oceania",
+    "countries": 13,
+    "population": 43780092,
+    "area": 8489668
+  },
+  "North America": {
+    "name": "North America",
+    "countries": 23,
+    "population": 599109682,
+    "area": 22523653
+  }
+}

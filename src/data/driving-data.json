@@ -1,0 +1,1005 @@
+{
+    "TK":  {
+               "side":  "left",
+               "signs":  ""
+           },
+    "TO":  {
+               "side":  "left",
+               "signs":  "TO"
+           },
+    "PN":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "AX":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "LC":  {
+               "side":  "left",
+               "signs":  "WL"
+           },
+    "GT":  {
+               "side":  "right",
+               "signs":  "GCA"
+           },
+    "VG":  {
+               "side":  "left",
+               "signs":  "BVI"
+           },
+    "ET":  {
+               "side":  "right",
+               "signs":  "ETH"
+           },
+    "NC":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "BT":  {
+               "side":  "left",
+               "signs":  "BHT"
+           },
+    "AZ":  {
+               "side":  "right",
+               "signs":  "AZ"
+           },
+    "IR":  {
+               "side":  "right",
+               "signs":  "IR"
+           },
+    "WF":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "NA":  {
+               "side":  "left",
+               "signs":  "NAM"
+           },
+    "GY":  {
+               "side":  "left",
+               "signs":  "GUY"
+           },
+    "IO":  {
+               "side":  "right",
+               "signs":  "GB"
+           },
+    "TT":  {
+               "side":  "left",
+               "signs":  "TT"
+           },
+    "BI":  {
+               "side":  "right",
+               "signs":  "RU"
+           },
+    "NF":  {
+               "side":  "left",
+               "signs":  "AUS"
+           },
+    "MG":  {
+               "side":  "right",
+               "signs":  "RM"
+           },
+    "GB":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "PE":  {
+               "side":  "right",
+               "signs":  "PE"
+           },
+    "AI":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "CO":  {
+               "side":  "right",
+               "signs":  "CO"
+           },
+    "KP":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "MH":  {
+               "side":  "right",
+               "signs":  "MH"
+           },
+    "TD":  {
+               "side":  "right",
+               "signs":  [
+                             "TCH",
+                             "TD"
+                         ]
+           },
+    "FM":  {
+               "side":  "right",
+               "signs":  "FSM"
+           },
+    "DJ":  {
+               "side":  "right",
+               "signs":  "DJI"
+           },
+    "GE":  {
+               "side":  "right",
+               "signs":  "GE"
+           },
+    "BZ":  {
+               "side":  "right",
+               "signs":  "BH"
+           },
+    "IL":  {
+               "side":  "right",
+               "signs":  "IL"
+           },
+    "MF":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "US":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "HU":  {
+               "side":  "right",
+               "signs":  "H"
+           },
+    "BQ":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "GR":  {
+               "side":  "right",
+               "signs":  "GR"
+           },
+    "HT":  {
+               "side":  "right",
+               "signs":  "RH"
+           },
+    "PS":  {
+               "side":  "right",
+               "signs":  "PS"
+           },
+    "GH":  {
+               "side":  "right",
+               "signs":  "GH"
+           },
+    "BW":  {
+               "side":  "left",
+               "signs":  "BW"
+           },
+    "SC":  {
+               "side":  "left",
+               "signs":  "SY"
+           },
+    "MS":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "IM":  {
+               "side":  "left",
+               "signs":  "GBM"
+           },
+    "SJ":  {
+               "side":  "right",
+               "signs":  "N"
+           },
+    "PR":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "HN":  {
+               "side":  "right",
+               "signs":  "HN"
+           },
+    "MN":  {
+               "side":  "right",
+               "signs":  "MGL"
+           },
+    "CA":  {
+               "side":  "right",
+               "signs":  "CDN"
+           },
+    "FO":  {
+               "side":  "right",
+               "signs":  "FO"
+           },
+    "CY":  {
+               "side":  "left",
+               "signs":  "CY"
+           },
+    "KN":  {
+               "side":  "left",
+               "signs":  "KN"
+           },
+    "MQ":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "TJ":  {
+               "side":  "right",
+               "signs":  "TJ"
+           },
+    "CC":  {
+               "side":  "left",
+               "signs":  "AUS"
+           },
+    "UA":  {
+               "side":  "right",
+               "signs":  "UA"
+           },
+    "PT":  {
+               "side":  "right",
+               "signs":  "P"
+           },
+    "MO":  {
+               "side":  "left",
+               "signs":  "MO"
+           },
+    "KI":  {
+               "side":  "left",
+               "signs":  "KIR"
+           },
+    "KY":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "MM":  {
+               "side":  "right",
+               "signs":  "BUR"
+           },
+    "MX":  {
+               "side":  "right",
+               "signs":  "MEX"
+           },
+    "UM":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "PF":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "GL":  {
+               "side":  "right",
+               "signs":  "DK"
+           },
+    "VN":  {
+               "side":  "right",
+               "signs":  "VN"
+           },
+    "TG":  {
+               "side":  "right",
+               "signs":  "TG"
+           },
+    "LS":  {
+               "side":  "left",
+               "signs":  "LS"
+           },
+    "CV":  {
+               "side":  "right",
+               "signs":  "CV"
+           },
+    "AD":  {
+               "side":  "right",
+               "signs":  "AND"
+           },
+    "RU":  {
+               "side":  "right",
+               "signs":  "RUS"
+           },
+    "GQ":  {
+               "side":  "right",
+               "signs":  "GQ"
+           },
+    "LT":  {
+               "side":  "right",
+               "signs":  "LT"
+           },
+    "GD":  {
+               "side":  "left",
+               "signs":  "WG"
+           },
+    "CM":  {
+               "side":  "right",
+               "signs":  "CAM"
+           },
+    "AF":  {
+               "side":  "right",
+               "signs":  "AFG"
+           },
+    "IS":  {
+               "side":  "right",
+               "signs":  "IS"
+           },
+    "CW":  {
+               "side":  "right",
+               "signs":  "CW"
+           },
+    "KW":  {
+               "side":  "right",
+               "signs":  "KWT"
+           },
+    "HM":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "UG":  {
+               "side":  "left",
+               "signs":  "EAU"
+           },
+    "TV":  {
+               "side":  "left",
+               "signs":  "TUV"
+           },
+    "CZ":  {
+               "side":  "right",
+               "signs":  "CZ"
+           },
+    "LU":  {
+               "side":  "right",
+               "signs":  "L"
+           },
+    "VU":  {
+               "side":  "right",
+               "signs":  "VU"
+           },
+    "GA":  {
+               "side":  "right",
+               "signs":  "G"
+           },
+    "GM":  {
+               "side":  "right",
+               "signs":  "WAG"
+           },
+    "FK":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "BE":  {
+               "side":  "right",
+               "signs":  "B"
+           },
+    "BD":  {
+               "side":  "left",
+               "signs":  "BD"
+           },
+    "TR":  {
+               "side":  "right",
+               "signs":  "TR"
+           },
+    "NI":  {
+               "side":  "right",
+               "signs":  "NIC"
+           },
+    "DO":  {
+               "side":  "right",
+               "signs":  "DOM"
+           },
+    "GW":  {
+               "side":  "right",
+               "signs":  "RGB"
+           },
+    "NU":  {
+               "side":  "left",
+               "signs":  "NZ"
+           },
+    "MY":  {
+               "side":  "left",
+               "signs":  "MAL"
+           },
+    "DK":  {
+               "side":  "right",
+               "signs":  "DK"
+           },
+    "FR":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "NR":  {
+               "side":  "left",
+               "signs":  "NAU"
+           },
+    "SM":  {
+               "side":  "right",
+               "signs":  "RSM"
+           },
+    "AS":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "SI":  {
+               "side":  "right",
+               "signs":  "SLO"
+           },
+    "ML":  {
+               "side":  "right",
+               "signs":  "RMM"
+           },
+    "CH":  {
+               "side":  "right",
+               "signs":  "CH"
+           },
+    "EH":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "FJ":  {
+               "side":  "left",
+               "signs":  "FJI"
+           },
+    "SN":  {
+               "side":  "right",
+               "signs":  "SN"
+           },
+    "MU":  {
+               "side":  "left",
+               "signs":  "MS"
+           },
+    "EC":  {
+               "side":  "right",
+               "signs":  "EC"
+           },
+    "SV":  {
+               "side":  "right",
+               "signs":  "ES"
+           },
+    "TW":  {
+               "side":  "right",
+               "signs":  "RC"
+           },
+    "JO":  {
+               "side":  "right",
+               "signs":  "HKJ"
+           },
+    "MW":  {
+               "side":  "left",
+               "signs":  "MW"
+           },
+    "ZW":  {
+               "side":  "left",
+               "signs":  "ZW"
+           },
+    "KR":  {
+               "side":  "right",
+               "signs":  "ROK"
+           },
+    "GI":  {
+               "side":  "right",
+               "signs":  "GBZ"
+           },
+    "NP":  {
+               "side":  "left",
+               "signs":  "NEP"
+           },
+    "TF":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "RO":  {
+               "side":  "right",
+               "signs":  "RO"
+           },
+    "SZ":  {
+               "side":  "left",
+               "signs":  "SD"
+           },
+    "BY":  {
+               "side":  "right",
+               "signs":  "BY"
+           },
+    "BF":  {
+               "side":  "right",
+               "signs":  "BF"
+           },
+    "AM":  {
+               "side":  "right",
+               "signs":  "AM"
+           },
+    "BO":  {
+               "side":  "right",
+               "signs":  "BOL"
+           },
+    "SO":  {
+               "side":  "right",
+               "signs":  "SO"
+           },
+    "IN":  {
+               "side":  "left",
+               "signs":  "IND"
+           },
+    "BM":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "SS":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "KM":  {
+               "side":  "right",
+               "signs":  "COM"
+           },
+    "TM":  {
+               "side":  "right",
+               "signs":  "TM"
+           },
+    "NO":  {
+               "side":  "right",
+               "signs":  "N"
+           },
+    "BA":  {
+               "side":  "right",
+               "signs":  "BIH"
+           },
+    "OM":  {
+               "side":  "right",
+               "signs":  "OM"
+           },
+    "PW":  {
+               "side":  "right",
+               "signs":  "PAL"
+           },
+    "BH":  {
+               "side":  "right",
+               "signs":  "BRN"
+           },
+    "KG":  {
+               "side":  "right",
+               "signs":  "KS"
+           },
+    "TN":  {
+               "side":  "right",
+               "signs":  "TN"
+           },
+    "NZ":  {
+               "side":  "left",
+               "signs":  "NZ"
+           },
+    "KH":  {
+               "side":  "right",
+               "signs":  "K"
+           },
+    "IQ":  {
+               "side":  "right",
+               "signs":  "IRQ"
+           },
+    "ST":  {
+               "side":  "right",
+               "signs":  "STP"
+           },
+    "PK":  {
+               "side":  "left",
+               "signs":  "PK"
+           },
+    "SB":  {
+               "side":  "left",
+               "signs":  "SOL"
+           },
+    "AL":  {
+               "side":  "right",
+               "signs":  "AL"
+           },
+    "GU":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "YT":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "SK":  {
+               "side":  "right",
+               "signs":  "SK"
+           },
+    "AO":  {
+               "side":  "right",
+               "signs":  "ANG"
+           },
+    "YE":  {
+               "side":  "right",
+               "signs":  "YAR"
+           },
+    "ES":  {
+               "side":  "right",
+               "signs":  "E"
+           },
+    "MC":  {
+               "side":  "right",
+               "signs":  "MC"
+           },
+    "SD":  {
+               "side":  "right",
+               "signs":  "SUD"
+           },
+    "VA":  {
+               "side":  "right",
+               "signs":  "V"
+           },
+    "MR":  {
+               "side":  "right",
+               "signs":  "RIM"
+           },
+    "GP":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "QA":  {
+               "side":  "right",
+               "signs":  "Q"
+           },
+    "CN":  {
+               "side":  "right",
+               "signs":  "RC"
+           },
+    "IT":  {
+               "side":  "right",
+               "signs":  "I"
+           },
+    "SE":  {
+               "side":  "right",
+               "signs":  "S"
+           },
+    "CF":  {
+               "side":  "right",
+               "signs":  "RCA"
+           },
+    "VI":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "MT":  {
+               "side":  "left",
+               "signs":  "M"
+           },
+    "ID":  {
+               "side":  "left",
+               "signs":  "RI"
+           },
+    "PL":  {
+               "side":  "right",
+               "signs":  "PL"
+           },
+    "LV":  {
+               "side":  "right",
+               "signs":  "LV"
+           },
+    "SY":  {
+               "side":  "right",
+               "signs":  "SYR"
+           },
+    "NL":  {
+               "side":  "right",
+               "signs":  "NL"
+           },
+    "BJ":  {
+               "side":  "right",
+               "signs":  "DY"
+           },
+    "LY":  {
+               "side":  "right",
+               "signs":  "LAR"
+           },
+    "VC":  {
+               "side":  "left",
+               "signs":  "WV"
+           },
+    "RE":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "CX":  {
+               "side":  "left",
+               "signs":  "AUS"
+           },
+    "DM":  {
+               "side":  "left",
+               "signs":  "WD"
+           },
+    "TC":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "LA":  {
+               "side":  "right",
+               "signs":  "LAO"
+           },
+    "BV":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "BS":  {
+               "side":  "left",
+               "signs":  "BS"
+           },
+    "PM":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "LR":  {
+               "side":  "right",
+               "signs":  "LB"
+           },
+    "LK":  {
+               "side":  "left",
+               "signs":  "CL"
+           },
+    "JE":  {
+               "side":  "left",
+               "signs":  "GBJ"
+           },
+    "AT":  {
+               "side":  "right",
+               "signs":  "A"
+           },
+    "MZ":  {
+               "side":  "left",
+               "signs":  "MOC"
+           },
+    "SR":  {
+               "side":  "left",
+               "signs":  "SME"
+           },
+    "MD":  {
+               "side":  "right",
+               "signs":  "MD"
+           },
+    "ZM":  {
+               "side":  "left",
+               "signs":  "RNR"
+           },
+    "AU":  {
+               "side":  "left",
+               "signs":  "AUS"
+           },
+    "CK":  {
+               "side":  "left",
+               "signs":  "NZ"
+           },
+    "BB":  {
+               "side":  "left",
+               "signs":  "BDS"
+           },
+    "CI":  {
+               "side":  "right",
+               "signs":  "CI"
+           },
+    "JM":  {
+               "side":  "left",
+               "signs":  "JA"
+           },
+    "DE":  {
+               "side":  "right",
+               "signs":  "DY"
+           },
+    "SH":  {
+               "side":  "left",
+               "signs":  "GB"
+           },
+    "SG":  {
+               "side":  "left",
+               "signs":  "SGP"
+           },
+    "LI":  {
+               "side":  "right",
+               "signs":  "FL"
+           },
+    "KZ":  {
+               "side":  "right",
+               "signs":  "KZ"
+           },
+    "HR":  {
+               "side":  "right",
+               "signs":  "HR"
+           },
+    "EG":  {
+               "side":  "right",
+               "signs":  "ET"
+           },
+    "BN":  {
+               "side":  "left",
+               "signs":  "BRU"
+           },
+    "AR":  {
+               "side":  "right",
+               "signs":  "RA"
+           },
+    "JP":  {
+               "side":  "left",
+               "signs":  "J"
+           },
+    "BL":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "GG":  {
+               "side":  "left",
+               "signs":  "GBG"
+           },
+    "GS":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "AQ":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "NG":  {
+               "side":  "right",
+               "signs":  "WAN"
+           },
+    "AG":  {
+               "side":  "left",
+               "signs":  "AG"
+           },
+    "WS":  {
+               "side":  "left",
+               "signs":  "WS"
+           },
+    "TL":  {
+               "side":  "left",
+               "signs":  "TL"
+           },
+    "EE":  {
+               "side":  "right",
+               "signs":  "EST"
+           },
+    "SX":  {
+               "side":  "right",
+               "signs":  "SX"
+           },
+    "CL":  {
+               "side":  "right",
+               "signs":  "RCH"
+           },
+    "MK":  {
+               "side":  "right",
+               "signs":  "MK"
+           },
+    "ER":  {
+               "side":  "right",
+               "signs":  "ER"
+           },
+    "GF":  {
+               "side":  "right",
+               "signs":  "F"
+           },
+    "MP":  {
+               "side":  "right",
+               "signs":  "USA"
+           },
+    "MV":  {
+               "side":  "left",
+               "signs":  "MV"
+           },
+    "ZA":  {
+               "side":  "left",
+               "signs":  "ZA"
+           },
+    "PH":  {
+               "side":  "right",
+               "signs":  "RP"
+           },
+    "PG":  {
+               "side":  "left",
+               "signs":  "PNG"
+           },
+    "NE":  {
+               "side":  "right",
+               "signs":  "RN"
+           },
+    "AE":  {
+               "side":  "right",
+               "signs":  "UAE"
+           },
+    "GN":  {
+               "side":  "right",
+               "signs":  "RG"
+           },
+    "RW":  {
+               "side":  "right",
+               "signs":  "RWA"
+           },
+    "IE":  {
+               "side":  "left",
+               "signs":  "IRL"
+           },
+    "CR":  {
+               "side":  "right",
+               "signs":  "CR"
+           },
+    "CG":  {
+               "side":  "right",
+               "signs":  "RCB"
+           },
+    "HK":  {
+               "side":  "left",
+               "signs":  "HK"
+           },
+    "UZ":  {
+               "side":  "right",
+               "signs":  "UZ"
+           },
+    "AW":  {
+               "side":  "right",
+               "signs":  ""
+           },
+    "RS":  {
+               "side":  "right",
+               "signs":  "SRB"
+           },
+    "CD":  {
+               "side":  "right",
+               "signs":  "CGO"
+           },
+    "FI":  {
+               "side":  "right",
+               "signs":  "FIN"
+           },
+    "BR":  {
+               "side":  "right",
+               "signs":  "BR"
+           },
+    "UY":  {
+               "side":  "right",
+               "signs":  "ROU"
+           },
+    "TH":  {
+               "side":  "left",
+               "signs":  "T"
+           },
+    "ME":  {
+               "side":  "right",
+               "signs":  "SCG"
+           },
+    "SA":  {
+               "side":  "right",
+               "signs":  "SA"
+           },
+    "VE":  {
+               "side":  "right",
+               "signs":  "YV"
+           },
+    "LB":  {
+               "side":  "right",
+               "signs":  "RL"
+           },
+    "BG":  {
+               "side":  "right",
+               "signs":  "BG"
+           },
+    "KE":  {
+               "side":  "left",
+               "signs":  "EAK"
+           },
+    "SL":  {
+               "side":  "right",
+               "signs":  "WAL"
+           },
+    "XK":  {
+               "side":  "right",
+               "signs":  "CS"
+           },
+    "PY":  {
+               "side":  "right",
+               "signs":  "PY"
+           },
+    "CU":  {
+               "side":  "right",
+               "signs":  "C"
+           },
+    "DZ":  {
+               "side":  "right",
+               "signs":  "DZ"
+           },
+    "TZ":  {
+               "side":  "left",
+               "signs":  "EAT"
+           },
+    "MA":  {
+               "side":  "right",
+               "signs":  "MA"
+           },
+    "PA":  {
+               "side":  "right",
+               "signs":  "PA"
+           }
+}

@@ -1,0 +1,5296 @@
+{
+  "US": {
+    "name": "United States",
+    "power_index": 0.0608,
+    "manpower": {
+      "active": "1.28M",
+      "reserved": "770K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 5500,
+      "armored_vehicles": 40000,
+      "self_propelled_artillery": 1500
+    },
+    "air_strength": {
+      "total_aircraft": 13300,
+      "fighters": 1957,
+      "attack_helicopters": 967
+    },
+    "naval_strength": {
+      "total_assets": 484,
+      "aircraft_carriers": 11,
+      "submarines": 68,
+      "destroyers": 91
+    },
+    "strategic": {
+      "nuclear_warheads": 5550,
+      "missile_capability": "Minuteman III (ICBM), Trident II D5 (SLBM), B61-12 (gravity bomb)",
+      "defense_system": "THAAD, Patriot PAC-3, AEGIS BMD, Iron Dome (shared)"
+    }
+  },
+  "RU": {
+    "name": "Russia",
+    "power_index": 0.0714,
+    "manpower": {
+      "active": "1.15M",
+      "reserved": "2M",
+      "paramilitary": "350K"
+    },
+    "land_strength": {
+      "tanks": 12556,
+      "armored_vehicles": 27400,
+      "self_propelled_artillery": 6574
+    },
+    "air_strength": {
+      "total_aircraft": 4173,
+      "fighters": 818,
+      "attack_helicopters": 544
+    },
+    "naval_strength": {
+      "total_assets": 603,
+      "aircraft_carriers": 1,
+      "submarines": 64,
+      "destroyers": 15
+    },
+    "strategic": {
+      "nuclear_warheads": 5580,
+      "missile_capability": "RS-28 Sarmat (ICBM), Bulava (SLBM), Kinzhal (hypersonic)",
+      "defense_system": "S-400, S-500, Pantsir-S1, Tor-M2"
+    }
+  },
+  "CN": {
+    "name": "China",
+    "power_index": 0.0706,
+    "manpower": {
+      "active": "2.0M",
+      "reserved": "510K",
+      "paramilitary": "660K"
+    },
+    "land_strength": {
+      "tanks": 5000,
+      "armored_vehicles": 35000,
+      "self_propelled_artillery": 1700
+    },
+    "air_strength": {
+      "total_aircraft": 3304,
+      "fighters": 1232,
+      "attack_helicopters": 281
+    },
+    "naval_strength": {
+      "total_assets": 730,
+      "aircraft_carriers": 3,
+      "submarines": 78,
+      "destroyers": 52
+    },
+    "strategic": {
+      "nuclear_warheads": 500,
+      "missile_capability": "DF-41, DF-5B, DF-17 (ICBM), JL-3 (SLBM)",
+      "defense_system": "HQ-9, HQ-19, DF-21D (anti-ship)"
+    }
+  },
+  "IN": {
+    "name": "India",
+    "power_index": 0.1023,
+    "manpower": {
+      "active": "1.475M",
+      "reserved": "1.15M",
+      "paramilitary": "2.5M"
+    },
+    "land_strength": {
+      "tanks": 4614,
+      "armored_vehicles": 150000,
+      "self_propelled_artillery": 100
+    },
+    "air_strength": {
+      "total_aircraft": 2296,
+      "fighters": 606,
+      "attack_helicopters": 36
+    },
+    "naval_strength": {
+      "total_assets": 294,
+      "aircraft_carriers": 2,
+      "submarines": 18,
+      "destroyers": 12
+    },
+    "strategic": {
+      "nuclear_warheads": 160,
+      "missile_capability": "Agni-V (ICBM), K-4 (SLBM)",
+      "defense_system": "S-400, Akash, Barak-8"
+    }
+  },
+  "KR": {
+    "name": "South Korea",
+    "power_index": 0.1416,
+    "manpower": {
+      "active": "500K",
+      "reserved": "3.1M",
+      "paramilitary": "3M"
+    },
+    "land_strength": {
+      "tanks": 2614,
+      "armored_vehicles": 9100,
+      "self_propelled_artillery": 2600
+    },
+    "air_strength": {
+      "total_aircraft": 1649,
+      "fighters": 406,
+      "attack_helicopters": 70
+    },
+    "naval_strength": {
+      "total_assets": 166,
+      "aircraft_carriers": 2,
+      "submarines": 22,
+      "destroyers": 12
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Hyunmoo-4, Hyunmoo-5 (ballistic)",
+      "defense_system": "THAAD, Patriot PAC-3, Cheongung"
+    }
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "power_index": 0.1785,
+    "manpower": {
+      "active": "148K",
+      "reserved": "85K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 227,
+      "armored_vehicles": 5400,
+      "self_propelled_artillery": 89
+    },
+    "air_strength": {
+      "total_aircraft": 812,
+      "fighters": 137,
+      "attack_helicopters": 50
+    },
+    "naval_strength": {
+      "total_assets": 64,
+      "aircraft_carriers": 2,
+      "submarines": 11,
+      "destroyers": 6
+    },
+    "strategic": {
+      "nuclear_warheads": 225,
+      "missile_capability": "Trident II D5 (SLBM)",
+      "defense_system": "Sky Sabre, CAMM, Aster 30"
+    }
+  },
+  "JP": {
+    "name": "Japan",
+    "power_index": 0.1619,
+    "manpower": {
+      "active": "247K",
+      "reserved": "56K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 1004,
+      "armored_vehicles": 3400,
+      "self_propelled_artillery": 214
+    },
+    "air_strength": {
+      "total_aircraft": 946,
+      "fighters": 217,
+      "attack_helicopters": 119
+    },
+    "naval_strength": {
+      "total_assets": 155,
+      "aircraft_carriers": 4,
+      "submarines": 22,
+      "destroyers": 44
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Type 12 ASM, Hypersonic (in development)",
+      "defense_system": "Patriot PAC-3, SM-3 Block IIA, AEGIS"
+    }
+  },
+  "TR": {
+    "name": "Turkey",
+    "power_index": 0.1592,
+    "manpower": {
+      "active": "355K",
+      "reserved": "380K",
+      "paramilitary": "150K"
+    },
+    "land_strength": {
+      "tanks": 3095,
+      "armored_vehicles": 10700,
+      "self_propelled_artillery": 1100
+    },
+    "air_strength": {
+      "total_aircraft": 1058,
+      "fighters": 241,
+      "attack_helicopters": 42
+    },
+    "naval_strength": {
+      "total_assets": 194,
+      "aircraft_carriers": 1,
+      "submarines": 12,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Bora-1, SOM-J (cruise missile)",
+      "defense_system": "S-400, HİSAR-O+, Korkut"
+    }
+  },
+  "PK": {
+    "name": "Pakistan",
+    "power_index": 0.1711,
+    "manpower": {
+      "active": "654K",
+      "reserved": "550K",
+      "paramilitary": "420K"
+    },
+    "land_strength": {
+      "tanks": 2596,
+      "armored_vehicles": 13000,
+      "self_propelled_artillery": 580
+    },
+    "air_strength": {
+      "total_aircraft": 1434,
+      "fighters": 452,
+      "attack_helicopters": 51
+    },
+    "naval_strength": {
+      "total_assets": 114,
+      "aircraft_carriers": 0,
+      "submarines": 8,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 170,
+      "missile_capability": "Shaheen-III, Ghauri (ballistic), Babur (cruise)",
+      "defense_system": "HQ-9/P, Anza MANPADS, LY-80"
+    }
+  },
+  "FR": {
+    "name": "France",
+    "power_index": 0.1878,
+    "manpower": {
+      "active": "205K",
+      "reserved": "77K",
+      "paramilitary": "100K"
+    },
+    "land_strength": {
+      "tanks": 406,
+      "armored_vehicles": 7200,
+      "self_propelled_artillery": 118
+    },
+    "air_strength": {
+      "total_aircraft": 1055,
+      "fighters": 254,
+      "attack_helicopters": 69
+    },
+    "naval_strength": {
+      "total_assets": 180,
+      "aircraft_carriers": 1,
+      "submarines": 10,
+      "destroyers": 13
+    },
+    "strategic": {
+      "nuclear_warheads": 290,
+      "missile_capability": "M51 SLBM, ASMP-A (air-launched)",
+      "defense_system": "SAMP/T (Aster 30), MAMBA, MISTRAL"
+    }
+  },
+  "IT": {
+    "name": "Italy",
+    "power_index": 0.2127,
+    "manpower": {
+      "active": "165.5K",
+      "reserved": "18K",
+      "paramilitary": "159K"
+    },
+    "land_strength": {
+      "tanks": 200,
+      "armored_vehicles": 7000,
+      "self_propelled_artillery": 54
+    },
+    "air_strength": {
+      "total_aircraft": 869,
+      "fighters": 135,
+      "attack_helicopters": 48
+    },
+    "naval_strength": {
+      "total_assets": 143,
+      "aircraft_carriers": 2,
+      "submarines": 8,
+      "destroyers": 4
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Aster 30, SCALP/Storm Shadow",
+      "defense_system": "SAMP/T, Patriot, CAMM-ER"
+    }
+  },
+  "EG": {
+    "name": "Egypt",
+    "power_index": 0.2283,
+    "manpower": {
+      "active": "440K",
+      "reserved": "479K",
+      "paramilitary": "400K"
+    },
+    "land_strength": {
+      "tanks": 4295,
+      "armored_vehicles": 14000,
+      "self_propelled_artillery": 700
+    },
+    "air_strength": {
+      "total_aircraft": 1062,
+      "fighters": 276,
+      "attack_helicopters": 106
+    },
+    "naval_strength": {
+      "total_assets": 319,
+      "aircraft_carriers": 2,
+      "submarines": 8,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B, Sakr-80 (rocket artillery)",
+      "defense_system": "S-300VM Antey, Patriot PAC-3, Crotale"
+    }
+  },
+  "BR": {
+    "name": "Brazil",
+    "power_index": 0.2215,
+    "manpower": {
+      "active": "360K",
+      "reserved": "1.34M",
+      "paramilitary": "395K"
+    },
+    "land_strength": {
+      "tanks": 486,
+      "armored_vehicles": 2700,
+      "self_propelled_artillery": 36
+    },
+    "air_strength": {
+      "total_aircraft": 733,
+      "fighters": 48,
+      "attack_helicopters": 36
+    },
+    "naval_strength": {
+      "total_assets": 109,
+      "aircraft_carriers": 0,
+      "submarines": 5,
+      "destroyers": 2
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "ASTROS II MLRS, Avibras AV-UCM (cruise)",
+      "defense_system": "SABER M60, Gepard, SHORAD"
+    }
+  },
+  "ID": {
+    "name": "Indonesia",
+    "power_index": 0.2594,
+    "manpower": {
+      "active": "400K",
+      "reserved": "400K",
+      "paramilitary": "280K"
+    },
+    "land_strength": {
+      "tanks": 418,
+      "armored_vehicles": 3500,
+      "self_propelled_artillery": 37
+    },
+    "air_strength": {
+      "total_aircraft": 461,
+      "fighters": 69,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 221,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "C-705, Yakhont (P-800), R-Han 450",
+      "defense_system": "NASAMS, Mistral, Oerlikon"
+    }
+  },
+  "IR": {
+    "name": "Iran",
+    "power_index": 0.2524,
+    "manpower": {
+      "active": "610K",
+      "reserved": "350K",
+      "paramilitary": "200K"
+    },
+    "land_strength": {
+      "tanks": 4071,
+      "armored_vehicles": 13000,
+      "self_propelled_artillery": 820
+    },
+    "air_strength": {
+      "total_aircraft": 551,
+      "fighters": 186,
+      "attack_helicopters": 50
+    },
+    "naval_strength": {
+      "total_assets": 398,
+      "aircraft_carriers": 0,
+      "submarines": 34,
+      "destroyers": 6
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Khorramshahr-4, Shahab-6 (IRBM)",
+      "defense_system": "Bavar-373, HQ-9, Khordad-15"
+    }
+  },
+  "DE": {
+    "name": "Germany",
+    "power_index": 0.2032,
+    "manpower": {
+      "active": "183.5K",
+      "reserved": "30K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 296,
+      "armored_vehicles": 5400,
+      "self_propelled_artillery": 143
+    },
+    "air_strength": {
+      "total_aircraft": 626,
+      "fighters": 246,
+      "attack_helicopters": 50
+    },
+    "naval_strength": {
+      "total_assets": 81,
+      "aircraft_carriers": 0,
+      "submarines": 6,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Taurus KEPD 350 (cruise), IRIS-T SLM",
+      "defense_system": "Patriot PAC-3, IRIS-T SLM, MANTIS"
+    }
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "power_index": 0.2923,
+    "manpower": {
+      "active": "257K",
+      "reserved": "25K",
+      "paramilitary": "24K"
+    },
+    "land_strength": {
+      "tanks": 1142,
+      "armored_vehicles": 7700,
+      "self_propelled_artillery": 550
+    },
+    "air_strength": {
+      "total_aircraft": 879,
+      "fighters": 260,
+      "attack_helicopters": 32
+    },
+    "naval_strength": {
+      "total_assets": 55,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "CSS-5 (DF-21, purchased), ASTROS II",
+      "defense_system": "THAAD, Patriot PAC-3, Shahine"
+    }
+  },
+  "IL": {
+    "name": "Israel",
+    "power_index": 0.1692,
+    "manpower": {
+      "active": "170K",
+      "reserved": "465K",
+      "paramilitary": "8K"
+    },
+    "land_strength": {
+      "tanks": 1370,
+      "armored_vehicles": 43000,
+      "self_propelled_artillery": 530
+    },
+    "air_strength": {
+      "total_aircraft": 601,
+      "fighters": 241,
+      "attack_helicopters": 48
+    },
+    "naval_strength": {
+      "total_assets": 67,
+      "aircraft_carriers": 0,
+      "submarines": 5,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 90,
+      "missile_capability": "Jericho III (ICBM), Popeye Turbo (SLCM)",
+      "defense_system": "Iron Dome, David's Sling, Arrow-3"
+    }
+  },
+  "AU": {
+    "name": "Australia",
+    "power_index": 0.2377,
+    "manpower": {
+      "active": "60K",
+      "reserved": "29K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 59,
+      "armored_vehicles": 2600,
+      "self_propelled_artillery": 25
+    },
+    "air_strength": {
+      "total_aircraft": 468,
+      "fighters": 78,
+      "attack_helicopters": 22
+    },
+    "naval_strength": {
+      "total_assets": 47,
+      "aircraft_carriers": 0,
+      "submarines": 6,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-158 JASSM-ER, JSM, HIMARS",
+      "defense_system": "NASAMS, JORN (OTH radar), GBAD"
+    }
+  },
+  "ES": {
+    "name": "Spain",
+    "power_index": 0.2152,
+    "manpower": {
+      "active": "120K",
+      "reserved": "15K",
+      "paramilitary": "80K"
+    },
+    "land_strength": {
+      "tanks": 327,
+      "armored_vehicles": 4400,
+      "self_propelled_artillery": 96
+    },
+    "air_strength": {
+      "total_aircraft": 558,
+      "fighters": 143,
+      "attack_helicopters": 23
+    },
+    "naval_strength": {
+      "total_assets": 46,
+      "aircraft_carriers": 2,
+      "submarines": 3,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Taurus KEPD 350, RIM-162 ESSM",
+      "defense_system": "Patriot PAC-3, NASAMS, Mistral"
+    }
+  },
+  "TW": {
+    "name": "Taiwan",
+    "power_index": 0.2106,
+    "manpower": {
+      "active": "163K",
+      "reserved": "1.66M",
+      "paramilitary": "17K"
+    },
+    "land_strength": {
+      "tanks": 1110,
+      "armored_vehicles": 4000,
+      "self_propelled_artillery": 225
+    },
+    "air_strength": {
+      "total_aircraft": 741,
+      "fighters": 372,
+      "attack_helicopters": 76
+    },
+    "naval_strength": {
+      "total_assets": 87,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 4
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Yun Feng (cruise), Hsiung Feng III (anti-ship)",
+      "defense_system": "Patriot PAC-3, Tien Kung-3, Sky Bow"
+    }
+  },
+  "PL": {
+    "name": "Poland",
+    "power_index": 0.2338,
+    "manpower": {
+      "active": "186K",
+      "reserved": "25K",
+      "paramilitary": "73K"
+    },
+    "land_strength": {
+      "tanks": 1855,
+      "armored_vehicles": 5400,
+      "self_propelled_artillery": 720
+    },
+    "air_strength": {
+      "total_aircraft": 466,
+      "fighters": 130,
+      "attack_helicopters": 31
+    },
+    "naval_strength": {
+      "total_assets": 83,
+      "aircraft_carriers": 0,
+      "submarines": 1,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "HIMARS, M270 MLRS, Krab (SPH)",
+      "defense_system": "Patriot PAC-3, SHORAD, Piorun MANPADS"
+    }
+  },
+  "VN": {
+    "name": "Vietnam",
+    "power_index": 0.2515,
+    "manpower": {
+      "active": "470K",
+      "reserved": "5M",
+      "paramilitary": "40K"
+    },
+    "land_strength": {
+      "tanks": 1545,
+      "armored_vehicles": 5000,
+      "self_propelled_artillery": 200
+    },
+    "air_strength": {
+      "total_aircraft": 529,
+      "fighters": 211,
+      "attack_helicopters": 26
+    },
+    "naval_strength": {
+      "total_assets": 65,
+      "aircraft_carriers": 0,
+      "submarines": 6,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Kh-35 (anti-ship), P-800 Yakhont, EXTRA",
+      "defense_system": "S-300PMU1, Spyder, Igla MANPADS"
+    }
+  },
+  "UA": {
+    "name": "Ukraine",
+    "power_index": 0.3516,
+    "manpower": {
+      "active": "900K",
+      "reserved": "1M",
+      "paramilitary": "100K"
+    },
+    "land_strength": {
+      "tanks": 900,
+      "armored_vehicles": 3000,
+      "self_propelled_artillery": 500
+    },
+    "air_strength": {
+      "total_aircraft": 98,
+      "fighters": 69,
+      "attack_helicopters": 34
+    },
+    "naval_strength": {
+      "total_assets": 38,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 1
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Neptune (anti-ship), Hrim-2 (ballistic), Storm Shadow",
+      "defense_system": "Patriot PAC-3, NASAMS, IRIS-T SLM"
+    }
+  },
+  "GR": {
+    "name": "Greece",
+    "power_index": 0.2577,
+    "manpower": {
+      "active": "140K",
+      "reserved": "220K",
+      "paramilitary": "4K"
+    },
+    "land_strength": {
+      "tanks": 1244,
+      "armored_vehicles": 4500,
+      "self_propelled_artillery": 325
+    },
+    "air_strength": {
+      "total_aircraft": 700,
+      "fighters": 246,
+      "attack_helicopters": 28
+    },
+    "naval_strength": {
+      "total_assets": 99,
+      "aircraft_carriers": 0,
+      "submarines": 11,
+      "destroyers": 13
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "SCALP/Storm Shadow, Exocet (anti-ship)",
+      "defense_system": "Patriot PAC-3, SPADA 2000, S-300PMU"
+    }
+  },
+  "TH": {
+    "name": "Thailand",
+    "power_index": 0.3090,
+    "manpower": {
+      "active": "360K",
+      "reserved": "200K",
+      "paramilitary": "113K"
+    },
+    "land_strength": {
+      "tanks": 737,
+      "armored_vehicles": 2900,
+      "self_propelled_artillery": 20
+    },
+    "air_strength": {
+      "total_aircraft": 587,
+      "fighters": 64,
+      "attack_helicopters": 7
+    },
+    "naval_strength": {
+      "total_assets": 81,
+      "aircraft_carriers": 1,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "DTI NLOS, C-802 (anti-ship), Spike NLOS",
+      "defense_system": "SPYDER, Mistral, SHORAD"
+    }
+  },
+  "KP": {
+    "name": "North Korea",
+    "power_index": 0.3271,
+    "manpower": {
+      "active": "1.28M",
+      "reserved": "7.7M",
+      "paramilitary": "5.7M"
+    },
+    "land_strength": {
+      "tanks": 5800,
+      "armored_vehicles": 20000,
+      "self_propelled_artillery": 9000
+    },
+    "air_strength": {
+      "total_aircraft": 563,
+      "fighters": 458,
+      "attack_helicopters": 202
+    },
+    "naval_strength": {
+      "total_assets": 967,
+      "aircraft_carriers": 0,
+      "submarines": 71,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 50,
+      "missile_capability": "Hwasong-17 (ICBM), Pukguksong-4 (SLBM)",
+      "defense_system": "KN-06, Pukguksong, KN-23"
+    }
+  },
+  "DZ": {
+    "name": "Algeria",
+    "power_index": 0.3677,
+    "manpower": {
+      "active": "130K",
+      "reserved": "150K",
+      "paramilitary": "187K"
+    },
+    "land_strength": {
+      "tanks": 1030,
+      "armored_vehicles": 8000,
+      "self_propelled_artillery": 170
+    },
+    "air_strength": {
+      "total_aircraft": 400,
+      "fighters": 156,
+      "attack_helicopters": 37
+    },
+    "naval_strength": {
+      "total_assets": 195,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9K720 Iskander-E, Scud-B",
+      "defense_system": "S-300PMU-2, Pantsir-S1, Tor-M2"
+    }
+  },
+  "SE": {
+    "name": "Sweden",
+    "power_index": 0.3945,
+    "manpower": {
+      "active": "24.4K",
+      "reserved": "35K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 120,
+      "armored_vehicles": 750,
+      "self_propelled_artillery": 48
+    },
+    "air_strength": {
+      "total_aircraft": 197,
+      "fighters": 96,
+      "attack_helicopters": 15
+    },
+    "naval_strength": {
+      "total_assets": 62,
+      "aircraft_carriers": 0,
+      "submarines": 5,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "KEPD 350 (Taurus), Rb 15F (anti-ship)",
+      "defense_system": "Patriot (in acquisition), IRIS-T, BAMSE"
+    }
+  },
+  "NL": {
+    "name": "Netherlands",
+    "power_index": 0.4051,
+    "manpower": {
+      "active": "40K",
+      "reserved": "7K",
+      "paramilitary": "6K"
+    },
+    "land_strength": {
+      "tanks": 18,
+      "armored_vehicles": 450,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 211,
+      "fighters": 61,
+      "attack_helicopters": 28
+    },
+    "naval_strength": {
+      "total_assets": 43,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 6
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Spike, Harpoon (anti-ship)",
+      "defense_system": "Patriot PAC-3, NASAMS, SHORAD"
+    }
+  },
+  "NO": {
+    "name": "Norway",
+    "power_index": 0.4153,
+    "manpower": {
+      "active": "24K",
+      "reserved": "40K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 36,
+      "armored_vehicles": 400,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 90,
+      "fighters": 52,
+      "attack_helicopters": 18
+    },
+    "naval_strength": {
+      "total_assets": 64,
+      "aircraft_carriers": 0,
+      "submarines": 6,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "JSM (Joint Strike Missile), NSM (anti-ship)",
+      "defense_system": "NASAMS, SHORAD, Mistral"
+    }
+  },
+  "CA": {
+    "name": "Canada",
+    "power_index": 0.3988,
+    "manpower": {
+      "active": "71K",
+      "reserved": "31K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 82,
+      "armored_vehicles": 1500,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 397,
+      "fighters": 87,
+      "attack_helicopters": 13
+    },
+    "naval_strength": {
+      "total_assets": 64,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-158 JASSM, Harpoon (anti-ship)",
+      "defense_system": "NORAD (joint US-CA), SHORAD"
+    }
+  },
+  "MY": {
+    "name": "Malaysia",
+    "power_index": 0.4266,
+    "manpower": {
+      "active": "113K",
+      "reserved": "51K",
+      "paramilitary": "24K"
+    },
+    "land_strength": {
+      "tanks": 48,
+      "armored_vehicles": 1100,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 122,
+      "fighters": 30,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 160,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM40, C-802A (anti-ship)",
+      "defense_system": "Spyder, Starstreak MANPADS"
+    }
+  },
+  "NG": {
+    "name": "Nigeria",
+    "power_index": 0.4581,
+    "manpower": {
+      "active": "223K",
+      "reserved": "0",
+      "paramilitary": "82K"
+    },
+    "land_strength": {
+      "tanks": 350,
+      "armored_vehicles": 1700,
+      "self_propelled_artillery": 25
+    },
+    "air_strength": {
+      "total_aircraft": 95,
+      "fighters": 15,
+      "attack_helicopters": 14
+    },
+    "naval_strength": {
+      "total_assets": 95,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Local MLRS, AT-3 Sagger",
+      "defense_system": "Pantsir-S1, Roland, ZU-23-2"
+    }
+  },
+  "PT": {
+    "name": "Portugal",
+    "power_index": 0.4769,
+    "manpower": {
+      "active": "24K",
+      "reserved": "212K",
+      "paramilitary": "48K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 460,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 105,
+      "fighters": 30,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 41,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Harpoon (anti-ship), Spike NLOS",
+      "defense_system": "Patriot PAC-2, Chaparral, Mistral"
+    }
+  },
+  "RO": {
+    "name": "Romania",
+    "power_index": 0.4312,
+    "manpower": {
+      "active": "68K",
+      "reserved": "50K",
+      "paramilitary": "79K"
+    },
+    "land_strength": {
+      "tanks": 823,
+      "armored_vehicles": 2600,
+      "self_propelled_artillery": 84
+    },
+    "air_strength": {
+      "total_aircraft": 148,
+      "fighters": 17,
+      "attack_helicopters": 24
+    },
+    "naval_strength": {
+      "total_assets": 42,
+      "aircraft_carriers": 0,
+      "submarines": 1,
+      "destroyers": 1
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "HIMARS, Spike NLOS",
+      "defense_system": "Patriot PAC-3 (in delivery), HAWK XXI"
+    }
+  },
+  "PH": {
+    "name": "Philippines",
+    "power_index": 0.5294,
+    "manpower": {
+      "active": "145K",
+      "reserved": "131K",
+      "paramilitary": "62K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 600,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 154,
+      "fighters": 0,
+      "attack_helicopters": 14
+    },
+    "naval_strength": {
+      "total_assets": 228,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BrahMos (anti-ship, acquired 2022), C-90CR",
+      "defense_system": "Spyder, Mistral MANPADS"
+    }
+  },
+  "AR": {
+    "name": "Argentina",
+    "power_index": 0.4744,
+    "manpower": {
+      "active": "75K",
+      "reserved": "0",
+      "paramilitary": "31K"
+    },
+    "land_strength": {
+      "tanks": 300,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 232,
+      "fighters": 30,
+      "attack_helicopters": 32
+    },
+    "naval_strength": {
+      "total_assets": 65,
+      "aircraft_carriers": 0,
+      "submarines": 3,
+      "destroyers": 4
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Cóndor II (ballistic), AM-39 Exocet",
+      "defense_system": "Roland, Blowpipe MANPADS"
+    }
+  },
+  "MX": {
+    "name": "Mexico",
+    "power_index": 0.4843,
+    "manpower": {
+      "active": "280K",
+      "reserved": "82K",
+      "paramilitary": "60K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 800,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 371,
+      "fighters": 0,
+      "attack_helicopters": 22
+    },
+    "naval_strength": {
+      "total_assets": 173,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "LAU-61 rocket pods, Exocet (anti-ship)",
+      "defense_system": "Light AA guns, MANPADS"
+    }
+  },
+  "CZ": {
+    "name": "Czechia",
+    "power_index": 0.4453,
+    "manpower": {
+      "active": "29K",
+      "reserved": "0",
+      "paramilitary": "3K"
+    },
+    "land_strength": {
+      "tanks": 205,
+      "armored_vehicles": 900,
+      "self_propelled_artillery": 62
+    },
+    "air_strength": {
+      "total_aircraft": 83,
+      "fighters": 14,
+      "attack_helicopters": 27
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RM-70 MLRS, Spike NLOS",
+      "defense_system": "RBS 70, Strela-10M, Patriot (in acquisition)"
+    }
+  },
+  "BE": {
+    "name": "Belgium",
+    "power_index": 0.4669,
+    "manpower": {
+      "active": "24K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 290,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 132,
+      "fighters": 54,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 14,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "JDAM, AGM-88 HARM, AIM-120 AMRAAM",
+      "defense_system": "Mistral SHORAD, FD-2000 (in evaluation)"
+    }
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "power_index": 0.4558,
+    "manpower": {
+      "active": "67K",
+      "reserved": "300K",
+      "paramilitary": "15K"
+    },
+    "land_strength": {
+      "tanks": 816,
+      "armored_vehicles": 2300,
+      "self_propelled_artillery": 610
+    },
+    "air_strength": {
+      "total_aircraft": 195,
+      "fighters": 13,
+      "attack_helicopters": 15
+    },
+    "naval_strength": {
+      "total_assets": 42,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Harop (loitering munition), Bayraktar TB2",
+      "defense_system": "Buk-MB3K, S-300PS, Tor-M2E"
+    }
+  },
+  "FI": {
+    "name": "Finland",
+    "power_index": 0.4604,
+    "manpower": {
+      "active": "23K",
+      "reserved": "280K",
+      "paramilitary": "11K"
+    },
+    "land_strength": {
+      "tanks": 239,
+      "armored_vehicles": 1700,
+      "self_propelled_artillery": 54
+    },
+    "air_strength": {
+      "total_aircraft": 128,
+      "fighters": 62,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 250,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-158 JASSM, RBS 15 (anti-ship)",
+      "defense_system": "NASAMS 3, Crotale NG, AMOS mortar"
+    }
+  },
+  "QA": {
+    "name": "Qatar",
+    "power_index": 0.5817,
+    "manpower": {
+      "active": "18K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 30,
+      "armored_vehicles": 400,
+      "self_propelled_artillery": 28
+    },
+    "air_strength": {
+      "total_aircraft": 143,
+      "fighters": 36,
+      "attack_helicopters": 24
+    },
+    "naval_strength": {
+      "total_assets": 30,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM40, Spike ER",
+      "defense_system": "Patriot PAC-3, NASAMS, Mistral"
+    }
+  },
+  "OM": {
+    "name": "Oman",
+    "power_index": 0.5433,
+    "manpower": {
+      "active": "43K",
+      "reserved": "0",
+      "paramilitary": "14K"
+    },
+    "land_strength": {
+      "tanks": 292,
+      "armored_vehicles": 1600,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 177,
+      "fighters": 30,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 46,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM40 Block 3, Javelin ATGM",
+      "defense_system": "Rapier, Mistral, Patriot PAC-3"
+    }
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "power_index": 0.5282,
+    "manpower": {
+      "active": "36K",
+      "reserved": "3K",
+      "paramilitary": "34K"
+    },
+    "land_strength": {
+      "tanks": 1033,
+      "armored_vehicles": 2600,
+      "self_propelled_artillery": 708
+    },
+    "air_strength": {
+      "total_aircraft": 81,
+      "fighters": 15,
+      "attack_helicopters": 30
+    },
+    "naval_strength": {
+      "total_assets": 29,
+      "aircraft_carriers": 0,
+      "submarines": 1,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B, 9K79 Tochka-U",
+      "defense_system": "S-300PMU, Kub, Osa-AKM"
+    }
+  },
+  "SY": {
+    "name": "Syria",
+    "power_index": 0.6849,
+    "manpower": {
+      "active": "125K",
+      "reserved": "0",
+      "paramilitary": "100K"
+    },
+    "land_strength": {
+      "tanks": 4640,
+      "armored_vehicles": 4700,
+      "self_propelled_artillery": 450
+    },
+    "air_strength": {
+      "total_aircraft": 339,
+      "fighters": 100,
+      "attack_helicopters": 50
+    },
+    "naval_strength": {
+      "total_assets": 18,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-D, SS-21 Scarab, chemical (declared destroyed)",
+      "defense_system": "S-300 (Russian-operated), Pantsir-S1, Buk-M2E"
+    }
+  },
+  "KW": {
+    "name": "Kuwait",
+    "power_index": 0.5936,
+    "manpower": {
+      "active": "17.5K",
+      "reserved": "23K",
+      "paramilitary": "7K"
+    },
+    "land_strength": {
+      "tanks": 218,
+      "armored_vehicles": 700,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 124,
+      "fighters": 39,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 56,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Harpoon (anti-ship), MLRS M270",
+      "defense_system": "Patriot PAC-3, Hawk, Mistral"
+    }
+  },
+  "CL": {
+    "name": "Chile",
+    "power_index": 0.4835,
+    "manpower": {
+      "active": "80K",
+      "reserved": "40K",
+      "paramilitary": "44K"
+    },
+    "land_strength": {
+      "tanks": 326,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 12
+    },
+    "air_strength": {
+      "total_aircraft": 209,
+      "fighters": 46,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 60,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 3
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM40, Harpoon, Spike NLOS",
+      "defense_system": "Mistral, ASTER 15 (frigates)"
+    }
+  },
+  "RS": {
+    "name": "Serbia",
+    "power_index": 0.5391,
+    "manpower": {
+      "active": "28K",
+      "reserved": "50K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 310,
+      "armored_vehicles": 800,
+      "self_propelled_artillery": 72
+    },
+    "air_strength": {
+      "total_aircraft": 185,
+      "fighters": 14,
+      "attack_helicopters": 28
+    },
+    "naval_strength": {
+      "total_assets": 7,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "ALAS (loitering missile), Orkan MLRS",
+      "defense_system": "Pantsir-S1M, MIM-23 Hawk, S-125"
+    }
+  },
+  "JO": {
+    "name": "Jordan",
+    "power_index": 0.5416,
+    "manpower": {
+      "active": "101K",
+      "reserved": "65K",
+      "paramilitary": "15K"
+    },
+    "land_strength": {
+      "tanks": 1321,
+      "armored_vehicles": 4500,
+      "self_propelled_artillery": 540
+    },
+    "air_strength": {
+      "total_aircraft": 188,
+      "fighters": 66,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, AGM-65 Maverick",
+      "defense_system": "Hawk MIM-23, SA-14 Gremlin, ZU-23-2"
+    }
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "power_index": 0.5673,
+    "manpower": {
+      "active": "165.5K",
+      "reserved": "63K",
+      "paramilitary": "63K"
+    },
+    "land_strength": {
+      "tanks": 524,
+      "armored_vehicles": 2400,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 171,
+      "fighters": 44,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 89,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "C-802A (anti-ship), 9K32 Strela-2",
+      "defense_system": "FM-90, HQ-7B, Igla MANPADS"
+    }
+  },
+  "ZA": {
+    "name": "South Africa",
+    "power_index": 0.5684,
+    "manpower": {
+      "active": "78K",
+      "reserved": "15K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 172,
+      "armored_vehicles": 2000,
+      "self_propelled_artillery": 43
+    },
+    "air_strength": {
+      "total_aircraft": 232,
+      "fighters": 22,
+      "attack_helicopters": 11
+    },
+    "naval_strength": {
+      "total_assets": 26,
+      "aircraft_carriers": 0,
+      "submarines": 3,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Mokopa ATGM, Umkhonto (VLS)",
+      "defense_system": "Umkhonto-IR, Cactus (Crotale), ZA-HVM"
+    }
+  },
+  "TN": {
+    "name": "Tunisia",
+    "power_index": 0.5856,
+    "manpower": {
+      "active": "48K",
+      "reserved": "12K",
+      "paramilitary": "12K"
+    },
+    "land_strength": {
+      "tanks": 84,
+      "armored_vehicles": 780,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 102,
+      "fighters": 12,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 48,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, BGM-71 TOW",
+      "defense_system": "MIM-72 Chaparral, M163 Vulcan"
+    }
+  },
+  "HR": {
+    "name": "Croatia",
+    "power_index": 0.5997,
+    "manpower": {
+      "active": "14.5K",
+      "reserved": "18K",
+      "paramilitary": "3K"
+    },
+    "land_strength": {
+      "tanks": 75,
+      "armored_vehicles": 420,
+      "self_propelled_artillery": 28
+    },
+    "air_strength": {
+      "total_aircraft": 87,
+      "fighters": 10,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 44,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RBS 15 Mk.3 (anti-ship), Spike NLOS",
+      "defense_system": "Rapier, MANPADS, Igla"
+    }
+  },
+  "AE": {
+    "name": "UAE",
+    "power_index": 0.3588,
+    "manpower": {
+      "active": "65K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 434,
+      "armored_vehicles": 2800,
+      "self_propelled_artillery": 180
+    },
+    "air_strength": {
+      "total_aircraft": 609,
+      "fighters": 141,
+      "attack_helicopters": 30
+    },
+    "naval_strength": {
+      "total_assets": 75,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "HIMARS, Exocet MM40, Harpoon",
+      "defense_system": "THAAD, Patriot PAC-3, Crotale NG"
+    }
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "power_index": 0.6091,
+    "manpower": {
+      "active": "138K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 600,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 85,
+      "fighters": 19,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad MLRS, AT-3 Sagger",
+      "defense_system": "ZU-23-2, 9K32 Strela-2, SA-3"
+    }
+  },
+  "MM": {
+    "name": "Myanmar",
+    "power_index": 0.6073,
+    "manpower": {
+      "active": "360K",
+      "reserved": "0",
+      "paramilitary": "107K"
+    },
+    "land_strength": {
+      "tanks": 650,
+      "armored_vehicles": 1800,
+      "self_propelled_artillery": 50
+    },
+    "air_strength": {
+      "total_aircraft": 227,
+      "fighters": 44,
+      "attack_helicopters": 24
+    },
+    "naval_strength": {
+      "total_assets": 146,
+      "aircraft_carriers": 0,
+      "submarines": 1,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "A-5 Fantan missiles, BM-21 Grad",
+      "defense_system": "Pechora-2M, HN-5 MANPADS"
+    }
+  },
+  "HU": {
+    "name": "Hungary",
+    "power_index": 0.5791,
+    "manpower": {
+      "active": "23K",
+      "reserved": "20K",
+      "paramilitary": "12K"
+    },
+    "land_strength": {
+      "tanks": 44,
+      "armored_vehicles": 550,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 111,
+      "fighters": 14,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, MISTRAL",
+      "defense_system": "NASAMS (in procurement), Gepard SP-AA"
+    }
+  },
+  "SK": {
+    "name": "Slovakia",
+    "power_index": 0.6015,
+    "manpower": {
+      "active": "15K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 30,
+      "armored_vehicles": 500,
+      "self_propelled_artillery": 16
+    },
+    "air_strength": {
+      "total_aircraft": 54,
+      "fighters": 12,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "S-300 (retired), Spike NLOS",
+      "defense_system": "Patriot PAC-3 (in delivery), SHORAD"
+    }
+  },
+  "AT": {
+    "name": "Austria",
+    "power_index": 0.6194,
+    "manpower": {
+      "active": "22.5K",
+      "reserved": "72K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 56,
+      "armored_vehicles": 400,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 61,
+      "fighters": 15,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, Hellfire (on AH-1)",
+      "defense_system": "Mistral SHORAD, M65 Oerlikon"
+    }
+  },
+  "MA": {
+    "name": "Morocco",
+    "power_index": 0.4849,
+    "manpower": {
+      "active": "196K",
+      "reserved": "150K",
+      "paramilitary": "50K"
+    },
+    "land_strength": {
+      "tanks": 1216,
+      "armored_vehicles": 4700,
+      "self_propelled_artillery": 198
+    },
+    "air_strength": {
+      "total_aircraft": 335,
+      "fighters": 54,
+      "attack_helicopters": 24
+    },
+    "naval_strength": {
+      "total_assets": 121,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Harpoon (anti-ship)",
+      "defense_system": "Patriot PAC-2, Crotale, Chaparral"
+    }
+  },
+  "CO": {
+    "name": "Colombia",
+    "power_index": 0.4986,
+    "manpower": {
+      "active": "295K",
+      "reserved": "62K",
+      "paramilitary": "159K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 950,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 474,
+      "fighters": 24,
+      "attack_helicopters": 31
+    },
+    "naval_strength": {
+      "total_assets": 234,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Python-4 AAM",
+      "defense_system": "Blowpipe MANPADS, Gepard AA"
+    }
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "power_index": 0.5199,
+    "manpower": {
+      "active": "150K",
+      "reserved": "0",
+      "paramilitary": "31K"
+    },
+    "land_strength": {
+      "tanks": 980,
+      "armored_vehicles": 3000,
+      "self_propelled_artillery": 430
+    },
+    "air_strength": {
+      "total_aircraft": 206,
+      "fighters": 42,
+      "attack_helicopters": 30
+    },
+    "naval_strength": {
+      "total_assets": 22,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Tochka-U (SS-21), BM-21 Grad",
+      "defense_system": "S-300PS, SA-10, Tor-M2E"
+    }
+  },
+  "IQ": {
+    "name": "Iraq",
+    "power_index": 0.5381,
+    "manpower": {
+      "active": "193K",
+      "reserved": "0",
+      "paramilitary": "148K"
+    },
+    "land_strength": {
+      "tanks": 336,
+      "armored_vehicles": 5400,
+      "self_propelled_artillery": 42
+    },
+    "air_strength": {
+      "total_aircraft": 430,
+      "fighters": 19,
+      "attack_helicopters": 34
+    },
+    "naval_strength": {
+      "total_assets": 66,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Ababil-100 rocket",
+      "defense_system": "HQ-7, Avenger, Igla-S MANPADS"
+    }
+  },
+  "CU": {
+    "name": "Cuba",
+    "power_index": 0.6831,
+    "manpower": {
+      "active": "55K",
+      "reserved": "39K",
+      "paramilitary": "26K"
+    },
+    "land_strength": {
+      "tanks": 900,
+      "armored_vehicles": 1600,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 137,
+      "fighters": 16,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 55,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B (reported), BM-21 Grad",
+      "defense_system": "S-75 Dvina, SA-3 Neva, ZU-23-2"
+    }
+  },
+  "LB": {
+    "name": "Lebanon",
+    "power_index": 0.7061,
+    "manpower": {
+      "active": "80K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 310,
+      "armored_vehicles": 1300,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 50,
+      "fighters": 0,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 54,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BGM-71 TOW, Fagot ATGM",
+      "defense_system": "Mistral MANPADS, ZU-23-2"
+    }
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "power_index": 0.6428,
+    "manpower": {
+      "active": "9K",
+      "reserved": "2.3K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 150,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 73,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 22,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Hellfire",
+      "defense_system": "Mistral MANPADS, L70 Bofors"
+    }
+  },
+  "CH": {
+    "name": "Switzerland",
+    "power_index": 0.6341,
+    "manpower": {
+      "active": "20K",
+      "reserved": "145K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 134,
+      "armored_vehicles": 700,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 117,
+      "fighters": 30,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, AGM-65 Maverick",
+      "defense_system": "Skyguard/Sparrow, Rapier"
+    }
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "power_index": 0.9801,
+    "manpower": {
+      "active": "85K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 200,
+      "armored_vehicles": 1000,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 43,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad (captured), RPG-7",
+      "defense_system": "Stinger MANPADS (legacy), ZU-23-2"
+    }
+  },
+  "AO": {
+    "name": "Angola",
+    "power_index": 0.6712,
+    "manpower": {
+      "active": "107K",
+      "reserved": "0",
+      "paramilitary": "10K"
+    },
+    "land_strength": {
+      "tanks": 250,
+      "armored_vehicles": 1600,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 112,
+      "fighters": 12,
+      "attack_helicopters": 18
+    },
+    "naval_strength": {
+      "total_assets": 44,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad, 9K32 Strela-2",
+      "defense_system": "S-125 Neva, ZU-23-2, SA-14"
+    }
+  },
+  "LY": {
+    "name": "Libya",
+    "power_index": 0.7218,
+    "manpower": {
+      "active": "76K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 2000,
+      "armored_vehicles": 2800,
+      "self_propelled_artillery": 200
+    },
+    "air_strength": {
+      "total_aircraft": 97,
+      "fighters": 35,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 38,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B, BM-21 Grad, Bora MLRS",
+      "defense_system": "SA-5 Gammon, ZU-23-2, 9K32 Strela"
+    }
+  },
+  "CM": {
+    "name": "Cameroon",
+    "power_index": 0.7344,
+    "manpower": {
+      "active": "35.5K",
+      "reserved": "0",
+      "paramilitary": "9K"
+    },
+    "land_strength": {
+      "tanks": 68,
+      "armored_vehicles": 500,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 41,
+      "fighters": 0,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 47,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "MILAN ATGM, Carl Gustaf",
+      "defense_system": "Crotale SHORAD, ZU-23-2"
+    }
+  },
+  "SD": {
+    "name": "Sudan",
+    "power_index": 0.7501,
+    "manpower": {
+      "active": "104K",
+      "reserved": "0",
+      "paramilitary": "17K"
+    },
+    "land_strength": {
+      "tanks": 410,
+      "armored_vehicles": 1700,
+      "self_propelled_artillery": 34
+    },
+    "air_strength": {
+      "total_aircraft": 89,
+      "fighters": 12,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 34,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad, Scud-B (reported)",
+      "defense_system": "SA-3 Neva, ZU-23-2, SA-7 Grail"
+    }
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "power_index": 0.7682,
+    "manpower": {
+      "active": "27K",
+      "reserved": "80K",
+      "paramilitary": "1.4K"
+    },
+    "land_strength": {
+      "tanks": 45,
+      "armored_vehicles": 560,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 37,
+      "fighters": 10,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 32,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9M14 Malyutka (AT-3), SA-7 Grail",
+      "defense_system": "SA-3 Neva, ZSU-23-4, Strela-2"
+    }
+  },
+  "GH": {
+    "name": "Ghana",
+    "power_index": 0.7759,
+    "manpower": {
+      "active": "15.5K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 190,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 22,
+      "fighters": 0,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 34,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BGM-71 TOW (legacy), SA-7 Grail",
+      "defense_system": "Oerlikon GDF-002, L/60 Bofors"
+    }
+  },
+  "EE": {
+    "name": "Estonia",
+    "power_index": 0.7831,
+    "manpower": {
+      "active": "7.4K",
+      "reserved": "30K",
+      "paramilitary": "15K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 300,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 12,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 18,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, HIMARS (in acquisition)",
+      "defense_system": "IRIS-T SL, Mistral, Piorun MANPADS"
+    }
+  },
+  "LV": {
+    "name": "Latvia",
+    "power_index": 0.7914,
+    "manpower": {
+      "active": "7.5K",
+      "reserved": "13K",
+      "paramilitary": "11K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 250,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 17,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 18,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike LR2, HIMARS (in acquisition)",
+      "defense_system": "NASAMS (planned), Mistral, FIM-92 Stinger"
+    }
+  },
+  "LT": {
+    "name": "Lithuania",
+    "power_index": 0.7965,
+    "manpower": {
+      "active": "18K",
+      "reserved": "6.7K",
+      "paramilitary": "14K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 380,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 24,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 15,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, HIMARS",
+      "defense_system": "NASAMS, Stinger, RBS 70"
+    }
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "power_index": 0.8102,
+    "manpower": {
+      "active": "12K",
+      "reserved": "0",
+      "paramilitary": "9.5K"
+    },
+    "land_strength": {
+      "tanks": 150,
+      "armored_vehicles": 550,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 62,
+      "fighters": 4,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9K79 Tochka-U, BM-21 Grad",
+      "defense_system": "S-125 Neva, ZSU-23-4, SA-7 Grail"
+    }
+  },
+  "PE": {
+    "name": "Peru",
+    "power_index": 0.8214,
+    "manpower": {
+      "active": "90K",
+      "reserved": "188K",
+      "paramilitary": "77K"
+    },
+    "land_strength": {
+      "tanks": 350,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 192,
+      "fighters": 20,
+      "attack_helicopters": 18
+    },
+    "naval_strength": {
+      "total_assets": 64,
+      "aircraft_carriers": 0,
+      "submarines": 6,
+      "destroyers": 2
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM38 (anti-ship), Aspide SAM",
+      "defense_system": "Crotale, S-125 Neva, Igla MANPADS"
+    }
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "power_index": 0.8341,
+    "manpower": {
+      "active": "256K",
+      "reserved": "40K",
+      "paramilitary": "62K"
+    },
+    "land_strength": {
+      "tanks": 62,
+      "armored_vehicles": 1000,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 109,
+      "fighters": 7,
+      "attack_helicopters": 6
+    },
+    "naval_strength": {
+      "total_assets": 65,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad, AT-3 Sagger",
+      "defense_system": "Spyder (in service), ZU-23-2, Igla"
+    }
+  },
+  "AM": {
+    "name": "Armenia",
+    "power_index": 0.8512,
+    "manpower": {
+      "active": "45K",
+      "reserved": "210K",
+      "paramilitary": "4K"
+    },
+    "land_strength": {
+      "tanks": 110,
+      "armored_vehicles": 900,
+      "self_propelled_artillery": 90
+    },
+    "air_strength": {
+      "total_aircraft": 43,
+      "fighters": 14,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Iskander-E, 9K79 Tochka",
+      "defense_system": "S-300PS, Tor-M2KM, Osa-AKM"
+    }
+  },
+  "GE": {
+    "name": "Georgia",
+    "power_index": 0.8647,
+    "manpower": {
+      "active": "37K",
+      "reserved": "100K",
+      "paramilitary": "11K"
+    },
+    "land_strength": {
+      "tanks": 80,
+      "armored_vehicles": 500,
+      "self_propelled_artillery": 62
+    },
+    "air_strength": {
+      "total_aircraft": 56,
+      "fighters": 9,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, BM-21 Grad",
+      "defense_system": "Buk-M1, SPYDER (in acquisition), Igla-S"
+    }
+  },
+  "BH": {
+    "name": "Bahrain",
+    "power_index": 0.8829,
+    "manpower": {
+      "active": "8.2K",
+      "reserved": "0",
+      "paramilitary": "11K"
+    },
+    "land_strength": {
+      "tanks": 180,
+      "armored_vehicles": 600,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 149,
+      "fighters": 39,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 21,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AGM-65 Maverick, Harpoon (anti-ship)",
+      "defense_system": "Patriot PAC-3, Hawk MIM-23, MIM-72 Chaparral"
+    }
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "power_index": 0.8954,
+    "manpower": {
+      "active": "65K",
+      "reserved": "0",
+      "paramilitary": "20K"
+    },
+    "land_strength": {
+      "tanks": 420,
+      "armored_vehicles": 2000,
+      "self_propelled_artillery": 130
+    },
+    "air_strength": {
+      "total_aircraft": 213,
+      "fighters": 36,
+      "attack_helicopters": 29
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B (legacy), BM-21 Grad",
+      "defense_system": "S-300PS, SA-10, Osa-AKM"
+    }
+  },
+  "YE": {
+    "name": "Yemen",
+    "power_index": 0.9117,
+    "manpower": {
+      "active": "65K",
+      "reserved": "0",
+      "paramilitary": "71K"
+    },
+    "land_strength": {
+      "tanks": 90,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 30
+    },
+    "air_strength": {
+      "total_aircraft": 79,
+      "fighters": 10,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 14,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Burkan-3 (ballistic), Scud-B, Shahed-136 (used by Houthis)",
+      "defense_system": "SA-2 Guideline, ZU-23-2, Igla MANPADS"
+    }
+  },
+  "KE": {
+    "name": "Kenya",
+    "power_index": 0.9278,
+    "manpower": {
+      "active": "24.1K",
+      "reserved": "0",
+      "paramilitary": "5K"
+    },
+    "land_strength": {
+      "tanks": 78,
+      "armored_vehicles": 570,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 100,
+      "fighters": 0,
+      "attack_helicopters": 14
+    },
+    "naval_strength": {
+      "total_assets": 16,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BGM-71 TOW, SA-7 Grail",
+      "defense_system": "Aspide SAM, ZU-23-2, Igla"
+    }
+  },
+  "EC": {
+    "name": "Ecuador",
+    "power_index": 0.9382,
+    "manpower": {
+      "active": "40K",
+      "reserved": "118K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 380,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 158,
+      "fighters": 18,
+      "attack_helicopters": 9
+    },
+    "naval_strength": {
+      "total_assets": 60,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 2
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Exocet MM40 (anti-ship), AGM-65 Maverick",
+      "defense_system": "Mistral, RBS 70, Igla MANPADS"
+    }
+  },
+  "BO": {
+    "name": "Bolivia",
+    "power_index": 0.9511,
+    "manpower": {
+      "active": "34K",
+      "reserved": "0",
+      "paramilitary": "37K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 225,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 100,
+      "fighters": 6,
+      "attack_helicopters": 6
+    },
+    "naval_strength": {
+      "total_assets": 174,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "HJ-8 ATGM, SA-7 Grail",
+      "defense_system": "HQ-7, SA-14 Gremlin, ZU-23-2"
+    }
+  },
+  "VE": {
+    "name": "Venezuela",
+    "power_index": 0.9614,
+    "manpower": {
+      "active": "123K",
+      "reserved": "8K",
+      "paramilitary": "220K"
+    },
+    "land_strength": {
+      "tanks": 200,
+      "armored_vehicles": 1700,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 288,
+      "fighters": 22,
+      "attack_helicopters": 15
+    },
+    "naval_strength": {
+      "total_assets": 80,
+      "aircraft_carriers": 0,
+      "submarines": 2,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Kh-59ME, BM-21 Grad, Pechora-2M",
+      "defense_system": "S-300VM Antey, Buk-M2E, Tor-M1"
+    }
+  },
+  "BY": {
+    "name": "Belarus",
+    "power_index": 0.4937,
+    "manpower": {
+      "active": "48K",
+      "reserved": "289K",
+      "paramilitary": "110K"
+    },
+    "land_strength": {
+      "tanks": 515,
+      "armored_vehicles": 2800,
+      "self_propelled_artillery": 510
+    },
+    "air_strength": {
+      "total_aircraft": 173,
+      "fighters": 36,
+      "attack_helicopters": 30
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Iskander-M (Russian-operated), Tochka-U",
+      "defense_system": "S-400, S-300PS, Tor-M2"
+    }
+  },
+  "MN": {
+    "name": "Mongolia",
+    "power_index": 0.9732,
+    "manpower": {
+      "active": "10K",
+      "reserved": "0",
+      "paramilitary": "7K"
+    },
+    "land_strength": {
+      "tanks": 370,
+      "armored_vehicles": 650,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 73,
+      "fighters": 11,
+      "attack_helicopters": 12
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9M14 Malyutka, BM-21 Grad",
+      "defense_system": "S-75 Dvina, SA-3 Neva, ZSU-23-4"
+    }
+  },
+  "SG": {
+    "name": "Singapore",
+    "power_index": 0.4281,
+    "manpower": {
+      "active": "72K",
+      "reserved": "1.05M",
+      "paramilitary": "96K"
+    },
+    "land_strength": {
+      "tanks": 96,
+      "armored_vehicles": 2900,
+      "self_propelled_artillery": 56
+    },
+    "air_strength": {
+      "total_aircraft": 237,
+      "fighters": 80,
+      "attack_helicopters": 20
+    },
+    "naval_strength": {
+      "total_assets": 50,
+      "aircraft_carriers": 0,
+      "submarines": 4,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Harpoon (anti-ship), SPIKE NLOS, AGM-65",
+      "defense_system": "SPYDER, ASTER 30 (frigates), Mistral"
+    }
+  },
+  "CI": {
+    "name": "Côte d'Ivoire",
+    "power_index": 1.0214,
+    "manpower": {
+      "active": "25K",
+      "reserved": "10K",
+      "paramilitary": "1.5K"
+    },
+    "land_strength": {
+      "tanks": 10,
+      "armored_vehicles": 280,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 35,
+      "fighters": 5,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 25,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "ZU-23-2, SA-7 Grail"
+    }
+  },
+  "CD": {
+    "name": "DR Congo",
+    "power_index": 1.0387,
+    "manpower": {
+      "active": "134K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 60,
+      "armored_vehicles": 450,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 32,
+      "fighters": 5,
+      "attack_helicopters": 7
+    },
+    "naval_strength": {
+      "total_assets": 22,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad, RPG-7",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "power_index": 1.0512,
+    "manpower": {
+      "active": "16K",
+      "reserved": "0",
+      "paramilitary": "7.5K"
+    },
+    "land_strength": {
+      "tanks": 37,
+      "armored_vehicles": 300,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 20,
+      "fighters": 4,
+      "attack_helicopters": 6
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9K79 Tochka, BM-21 Grad",
+      "defense_system": "S-125 Neva, SA-7 Grail, ZU-23-2"
+    }
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "power_index": 1.0634,
+    "manpower": {
+      "active": "36K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 700,
+      "armored_vehicles": 1800,
+      "self_propelled_artillery": 90
+    },
+    "air_strength": {
+      "total_aircraft": 197,
+      "fighters": 42,
+      "attack_helicopters": 10
+    },
+    "naval_strength": {
+      "total_assets": 21,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B, BM-21 Grad",
+      "defense_system": "S-300PS, SA-10, SA-6 Gainful"
+    }
+  },
+  "AL": {
+    "name": "Albania",
+    "power_index": 1.0771,
+    "manpower": {
+      "active": "9K",
+      "reserved": "0",
+      "paramilitary": "500"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 150,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 37,
+      "fighters": 0,
+      "attack_helicopters": 16
+    },
+    "naval_strength": {
+      "total_assets": 20,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BGM-71 TOW, AT-3 Sagger",
+      "defense_system": "Aspide SAM, Mistral MANPADS"
+    }
+  },
+  "MD": {
+    "name": "Moldova",
+    "power_index": 1.0894,
+    "manpower": {
+      "active": "6.5K",
+      "reserved": "0",
+      "paramilitary": "2.9K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 210,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 15,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike LR, AT-5 Spandrel",
+      "defense_system": "SA-7 Grail, SA-13 Gopher"
+    }
+  },
+  "BA": {
+    "name": "Bosnia & Herzegovina",
+    "power_index": 1.1012,
+    "manpower": {
+      "active": "10K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 45,
+      "armored_vehicles": 400,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 20,
+      "fighters": 0,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, AT-3 Sagger",
+      "defense_system": "MANPADS, Strela-2M"
+    }
+  },
+  "MK": {
+    "name": "North Macedonia",
+    "power_index": 1.1154,
+    "manpower": {
+      "active": "8K",
+      "reserved": "4.8K",
+      "paramilitary": "7.6K"
+    },
+    "land_strength": {
+      "tanks": 31,
+      "armored_vehicles": 200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 18,
+      "fighters": 4,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "ZSU-23-2, SA-7 Grail"
+    }
+  },
+  "SI": {
+    "name": "Slovenia",
+    "power_index": 1.1283,
+    "manpower": {
+      "active": "7.3K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 46,
+      "armored_vehicles": 180,
+      "self_propelled_artillery": 18
+    },
+    "air_strength": {
+      "total_aircraft": 28,
+      "fighters": 0,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, AT-3 Sagger",
+      "defense_system": "Mistral MANPADS, Igla"
+    }
+  },
+  "NP": {
+    "name": "Nepal",
+    "power_index": 1.1412,
+    "manpower": {
+      "active": "95.7K",
+      "reserved": "0",
+      "paramilitary": "62K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 380,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 47,
+      "fighters": 0,
+      "attack_helicopters": 7
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Carl Gustaf, RPG-7",
+      "defense_system": "Igla MANPADS, L/60 Bofors"
+    }
+  },
+  "PY": {
+    "name": "Paraguay",
+    "power_index": 1.1537,
+    "manpower": {
+      "active": "16.5K",
+      "reserved": "164K",
+      "paramilitary": "14.8K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 75,
+      "fighters": 0,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 52,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "M167 Vulcan, SA-7 Grail"
+    }
+  },
+  "ML": {
+    "name": "Mali",
+    "power_index": 1.1682,
+    "manpower": {
+      "active": "21K",
+      "reserved": "0",
+      "paramilitary": "4.8K"
+    },
+    "land_strength": {
+      "tanks": 21,
+      "armored_vehicles": 280,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 23,
+      "fighters": 4,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 3,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "power_index": 1.1813,
+    "manpower": {
+      "active": "11.2K",
+      "reserved": "0",
+      "paramilitary": "45.7K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 180,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 26,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "NE": {
+    "name": "Niger",
+    "power_index": 1.1944,
+    "manpower": {
+      "active": "10.4K",
+      "reserved": "0",
+      "paramilitary": "70K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 220,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 28,
+      "fighters": 0,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "ZU-23-2, SA-7 Grail"
+    }
+  },
+  "RW": {
+    "name": "Rwanda",
+    "power_index": 1.2071,
+    "manpower": {
+      "active": "33K",
+      "reserved": "0",
+      "paramilitary": "2K"
+    },
+    "land_strength": {
+      "tanks": 24,
+      "armored_vehicles": 200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 16,
+      "fighters": 0,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "power_index": 1.2198,
+    "manpower": {
+      "active": "29K",
+      "reserved": "0",
+      "paramilitary": "21K"
+    },
+    "land_strength": {
+      "tanks": 40,
+      "armored_vehicles": 450,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 42,
+      "fighters": 12,
+      "attack_helicopters": 14
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2, Tigercat"
+    }
+  },
+  "TD": {
+    "name": "Chad",
+    "power_index": 1.2341,
+    "manpower": {
+      "active": "30K",
+      "reserved": "0",
+      "paramilitary": "9.5K"
+    },
+    "land_strength": {
+      "tanks": 60,
+      "armored_vehicles": 480,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 18,
+      "fighters": 4,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, BM-21 Grad",
+      "defense_system": "ZU-23-2, SA-7 Grail"
+    }
+  },
+  "MG": {
+    "name": "Madagascar",
+    "power_index": 1.2479,
+    "manpower": {
+      "active": "13.5K",
+      "reserved": "0",
+      "paramilitary": "8.1K"
+    },
+    "land_strength": {
+      "tanks": 12,
+      "armored_vehicles": 110,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 20,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 22,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "SO": {
+    "name": "Somalia",
+    "power_index": 1.2617,
+    "manpower": {
+      "active": "20K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 100,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 5,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, technical-mounted weapons",
+      "defense_system": "Minimal — SA-7 Grail remnants"
+    }
+  },
+  "UG": {
+    "name": "Uganda",
+    "power_index": 1.2758,
+    "manpower": {
+      "active": "47K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 120,
+      "armored_vehicles": 600,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 47,
+      "fighters": 4,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "BM-21 Grad, AT-3 Sagger",
+      "defense_system": "SA-7 Grail, ZU-23-2, T-55 AA mount"
+    }
+  },
+  "SN": {
+    "name": "Senegal",
+    "power_index": 1.2891,
+    "manpower": {
+      "active": "19.2K",
+      "reserved": "0",
+      "paramilitary": "5K"
+    },
+    "land_strength": {
+      "tanks": 30,
+      "armored_vehicles": 230,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 23,
+      "fighters": 0,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 30,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "SA-7 Grail, Crotale SHORAD"
+    }
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "power_index": 1.3012,
+    "manpower": {
+      "active": "11.2K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 80,
+      "armored_vehicles": 300,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 18,
+      "fighters": 6,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 20,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, BM-21 Grad",
+      "defense_system": "SA-3 Neva, ZU-23-2, SA-7 Grail"
+    }
+  },
+  "ZM": {
+    "name": "Zambia",
+    "power_index": 1.3134,
+    "manpower": {
+      "active": "15.1K",
+      "reserved": "0",
+      "paramilitary": "1.4K"
+    },
+    "land_strength": {
+      "tanks": 30,
+      "armored_vehicles": 300,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 50,
+      "fighters": 8,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZSU-23-4"
+    }
+  },
+  "GT": {
+    "name": "Guatemala",
+    "power_index": 1.3251,
+    "manpower": {
+      "active": "22K",
+      "reserved": "35K",
+      "paramilitary": "19K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 59,
+      "fighters": 0,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 27,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "M167 Vulcan, SA-7 Grail"
+    }
+  },
+  "HN": {
+    "name": "Honduras",
+    "power_index": 1.3378,
+    "manpower": {
+      "active": "15.8K",
+      "reserved": "60K",
+      "paramilitary": "8K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 140,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 50,
+      "fighters": 12,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 14,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "M163 Vulcan, SA-7 Grail"
+    }
+  },
+  "SV": {
+    "name": "El Salvador",
+    "power_index": 1.3501,
+    "manpower": {
+      "active": "24K",
+      "reserved": "9.9K",
+      "paramilitary": "12K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 170,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 40,
+      "fighters": 9,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 16,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, AT-3 Sagger",
+      "defense_system": "M167 Vulcan, SA-7 Grail"
+    }
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "power_index": 1.3629,
+    "manpower": {
+      "active": "12K",
+      "reserved": "0",
+      "paramilitary": "22K"
+    },
+    "land_strength": {
+      "tanks": 62,
+      "armored_vehicles": 360,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 36,
+      "fighters": 0,
+      "attack_helicopters": 8
+    },
+    "naval_strength": {
+      "total_assets": 22,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "9K38 Igla, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2, 23mm AA"
+    }
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "power_index": 1.3754,
+    "manpower": {
+      "active": "56K",
+      "reserved": "0",
+      "paramilitary": "44K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 180,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 45,
+      "fighters": 0,
+      "attack_helicopters": 6
+    },
+    "naval_strength": {
+      "total_assets": 29,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "HT": {
+    "name": "Haiti",
+    "power_index": 1.4012,
+    "manpower": {
+      "active": "9.5K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 40,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 6,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 4,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Minimal — basic MANPADS"
+    }
+  },
+  "GY": {
+    "name": "Guyana",
+    "power_index": 1.4147,
+    "manpower": {
+      "active": "3.4K",
+      "reserved": "670",
+      "paramilitary": "1.8K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 40,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 8,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 11,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "SR": {
+    "name": "Suriname",
+    "power_index": 1.4281,
+    "manpower": {
+      "active": "1.8K",
+      "reserved": "0",
+      "paramilitary": "600"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 24,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 10,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Light AA guns, MANPADS"
+    }
+  },
+  "FJ": {
+    "name": "Fiji",
+    "power_index": 1.4419,
+    "manpower": {
+      "active": "3.5K",
+      "reserved": "6K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 30,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 3,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Light AA, small arms"
+    }
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "power_index": 1.4557,
+    "manpower": {
+      "active": "3.1K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 30,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 9,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, RPG-7",
+      "defense_system": "Minimal"
+    }
+  },
+  "BT": {
+    "name": "Bhutan",
+    "power_index": 1.4692,
+    "manpower": {
+      "active": "8K",
+      "reserved": "0",
+      "paramilitary": "1K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, RPG-7",
+      "defense_system": "India-assisted air defense"
+    }
+  },
+  "TL": {
+    "name": "East Timor",
+    "power_index": 1.4831,
+    "manpower": {
+      "active": "2.1K",
+      "reserved": "1.5K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 24,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 3,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 6,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "LR": {
+    "name": "Liberia",
+    "power_index": 1.4971,
+    "manpower": {
+      "active": "2K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 30,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 5,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "power_index": 1.5112,
+    "manpower": {
+      "active": "8.5K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 20,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 2,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Minimal — light AA guns"
+    }
+  },
+  "GN": {
+    "name": "Guinea",
+    "power_index": 1.5248,
+    "manpower": {
+      "active": "12.3K",
+      "reserved": "0",
+      "paramilitary": "9.6K"
+    },
+    "land_strength": {
+      "tanks": 50,
+      "armored_vehicles": 220,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 18,
+      "fighters": 4,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 12,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "power_index": 1.5381,
+    "manpower": {
+      "active": "4.5K",
+      "reserved": "0",
+      "paramilitary": "2K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 35,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 6,
+      "fighters": 3,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "BJ": {
+    "name": "Benin",
+    "power_index": 1.5514,
+    "manpower": {
+      "active": "7.3K",
+      "reserved": "0",
+      "paramilitary": "2.5K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 130,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 13,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "ZU-23-2, SA-7 Grail"
+    }
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "power_index": 1.5648,
+    "manpower": {
+      "active": "10.4K",
+      "reserved": "0",
+      "paramilitary": "2.5K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 100,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 10,
+      "fighters": 0,
+      "attack_helicopters": 2
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, RPG-7",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "ER": {
+    "name": "Eritrea",
+    "power_index": 1.5782,
+    "manpower": {
+      "active": "200K",
+      "reserved": "120K",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 270,
+      "armored_vehicles": 1200,
+      "self_propelled_artillery": 24
+    },
+    "air_strength": {
+      "total_aircraft": 40,
+      "fighters": 8,
+      "attack_helicopters": 4
+    },
+    "naval_strength": {
+      "total_assets": 14,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Scud-B (reported), BM-21 Grad",
+      "defense_system": "SA-3 Neva, ZSU-23-4, SA-7 Grail"
+    }
+  },
+  "TG": {
+    "name": "Togo",
+    "power_index": 1.5916,
+    "manpower": {
+      "active": "9.5K",
+      "reserved": "0",
+      "paramilitary": "750"
+    },
+    "land_strength": {
+      "tanks": 2,
+      "armored_vehicles": 120,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 20,
+      "fighters": 6,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "CG": {
+    "name": "Republic of Congo",
+    "power_index": 1.6048,
+    "manpower": {
+      "active": "10K",
+      "reserved": "0",
+      "paramilitary": "2K"
+    },
+    "land_strength": {
+      "tanks": 40,
+      "armored_vehicles": 200,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 18,
+      "fighters": 8,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 18,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "AT-3 Sagger, SA-7 Grail",
+      "defense_system": "SA-7 Grail, ZU-23-2"
+    }
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "power_index": 1.6187,
+    "manpower": {
+      "active": "7.1K",
+      "reserved": "0",
+      "paramilitary": "1K"
+    },
+    "land_strength": {
+      "tanks": 3,
+      "armored_vehicles": 60,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 6,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "RPG-7, small arms",
+      "defense_system": "Minimal — Russian Wagner-era legacy"
+    }
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "power_index": 1.6324,
+    "manpower": {
+      "active": "900",
+      "reserved": "0",
+      "paramilitary": "612"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 50,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 17,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Spike NLOS, NASAMS (NATO integration)",
+      "defense_system": "NASAMS (via NATO), Mistral MANPADS"
+    }
+  },
+  "JM": {
+    "name": "Jamaica",
+    "power_index": 1.6462,
+    "manpower": {
+      "active": "3.5K",
+      "reserved": "0",
+      "paramilitary": "3.5K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 20,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 6,
+      "fighters": 0,
+      "attack_helicopters": 3
+    },
+    "naval_strength": {
+      "total_assets": 9,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, RPG-7",
+      "defense_system": "Minimal — light AA"
+    }
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "power_index": 1.6599,
+    "manpower": {
+      "active": "4.1K",
+      "reserved": "0",
+      "paramilitary": "2.4K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 60,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 6,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 20,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, light weapons",
+      "defense_system": "Minimal — coast guard focus"
+    }
+  },
+  "MV": {
+    "name": "Maldives",
+    "power_index": 1.6738,
+    "manpower": {
+      "active": "2.6K",
+      "reserved": "0",
+      "paramilitary": "500"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 10,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 21,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, RPG",
+      "defense_system": "Minimal — India-assisted"
+    }
+  },
+  "KM": {
+    "name": "Comoros",
+    "power_index": 1.6877,
+    "manpower": {
+      "active": "1.5K",
+      "reserved": "0",
+      "paramilitary": "500"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 8,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 2,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 5,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "SC": {
+    "name": "Seychelles",
+    "power_index": 1.7012,
+    "manpower": {
+      "active": "500",
+      "reserved": "0",
+      "paramilitary": "450"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 10,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 4,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 8,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, light weapons",
+      "defense_system": "Minimal — coast guard focus"
+    }
+  },
+  "CV": {
+    "name": "Cape Verde",
+    "power_index": 1.7148,
+    "manpower": {
+      "active": "1.2K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 10,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 4,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 6,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "ST": {
+    "name": "São Tomé and Príncipe",
+    "power_index": 1.7284,
+    "manpower": {
+      "active": "300",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 5,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 1,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 3,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "GM": {
+    "name": "Gambia",
+    "power_index": 1.7421,
+    "manpower": {
+      "active": "2.1K",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 18,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 3,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 6,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms, RPG",
+      "defense_system": "Minimal — light AA guns"
+    }
+  },
+  "GD": {
+    "name": "Grenada",
+    "power_index": 1.7558,
+    "manpower": {
+      "active": "400",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "BB": {
+    "name": "Barbados",
+    "power_index": 1.7694,
+    "manpower": {
+      "active": "610",
+      "reserved": "430",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 1,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 4,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal — coast guard"
+    }
+  },
+  "BS": {
+    "name": "Bahamas",
+    "power_index": 1.7831,
+    "manpower": {
+      "active": "860",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 4,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 10,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal — coast guard focus"
+    }
+  },
+  "DM": {
+    "name": "Dominica",
+    "power_index": 1.7968,
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "300"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Police/coast guard only"
+    }
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "power_index": 1.8104,
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "500"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Police/coast guard only"
+    }
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "power_index": 1.8241,
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "450"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Police/coast guard only"
+    }
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "power_index": 1.8378,
+    "manpower": {
+      "active": "170",
+      "reserved": "75",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 3,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "power_index": 1.8514,
+    "manpower": {
+      "active": "300",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 1,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "power_index": 1.8651,
+    "manpower": {
+      "active": "300",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 2,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "TO": {
+    "name": "Tonga",
+    "power_index": 1.8788,
+    "manpower": {
+      "active": "500",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 3,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Minimal"
+    }
+  },
+  "WS": {
+    "name": "Samoa",
+    "power_index": 1.8924,
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "200"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 1,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Police/coast guard only"
+    }
+  },
+  "AD": {
+    "name": "Andorra",
+    "power_index": 1.9061,
+    "manpower": {
+      "active": "80",
+      "reserved": "0",
+      "paramilitary": "200"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Relies on Spain and France for defense"
+    }
+  },
+  "SM": {
+    "name": "San Marino",
+    "power_index": 1.9198,
+    "manpower": {
+      "active": "80",
+      "reserved": "0",
+      "paramilitary": "80"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Relies on Italy for defense"
+    }
+  },
+  "MC": {
+    "name": "Monaco",
+    "power_index": 1.9335,
+    "manpower": {
+      "active": "255",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "Small arms",
+      "defense_system": "Relies on France for defense"
+    }
+  },
+  "IS": {
+    "name": "Iceland",
+    "power_index": 9999,
+    "neutral_status": "No standing military; member of NATO, relies on alliance for defense. Has a Coast Guard and Crisis Response Unit for peacekeeping.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "130"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 5,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "NATO Article 5 guarantee; USAF Keflavik base (NATO)"
+    }
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "power_index": 9999,
+    "neutral_status": "Military abolished by constitution in 1948. Maintains police and border security forces only.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "9.8K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Police/border security only; US security umbrella"
+    }
+  },
+  "PA": {
+    "name": "Panama",
+    "power_index": 9999,
+    "neutral_status": "Military abolished in 1990 after US intervention. Has National Police, National Border Service, and National Aeronaval Service.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "12K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Police/security forces only; Panama Canal Zone protected under US treaty"
+    }
+  },
+  "VA": {
+    "name": "Vatican City",
+    "power_index": 9999,
+    "neutral_status": "Sovereign city-state with no military. The Pontifical Swiss Guard (135 personnel) serves as ceremonial bodyguard for the Pope.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "135"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Swiss Guard (ceremonial); Italian security perimeter"
+    }
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "power_index": 9999,
+    "neutral_status": "Military abolished in 1868 after the Austro-Prussian War. Has a national police force of ~80 officers.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "80"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Police only; no formal defense treaty"
+    }
+  },
+  "NR": {
+    "name": "Nauru",
+    "power_index": 9999,
+    "neutral_status": "No military forces. Has a small police force. Defense is informally assisted by Australia.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Australia informal security assistance"
+    }
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "power_index": 9999,
+    "neutral_status": "No military. Has a small police force. Relies on Australia and New Zealand for external defense.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 1,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Australia/NZ informal security assistance"
+    }
+  },
+  "KI": {
+    "name": "Kiribati",
+    "power_index": 9999,
+    "neutral_status": "No military. Has a police service with a maritime wing. External defense reliant on Australia and New Zealand.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 1,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Australia/NZ informal security assistance"
+    }
+  },
+  "FM": {
+    "name": "Micronesia",
+    "power_index": 9999,
+    "neutral_status": "No military forces. Defense is the responsibility of the United States under the Compact of Free Association.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "US Compact of Free Association — full US defense guarantee"
+    }
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "power_index": 9999,
+    "neutral_status": "No military. Defense is the responsibility of the United States under the Compact of Free Association.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "US Compact of Free Association — full US defense guarantee"
+    }
+  },
+  "PW": {
+    "name": "Palau",
+    "power_index": 9999,
+    "neutral_status": "No military. Defense is the responsibility of the United States under the Compact of Free Association.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "US Compact of Free Association — full US defense guarantee"
+    }
+  },
+  "CK": {
+    "name": "Cook Islands",
+    "power_index": 9999,
+    "neutral_status": "No military. In free association with New Zealand, which is responsible for its defense.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "New Zealand defense responsibility (free association)"
+    }
+  },
+  "NU": {
+    "name": "Niue",
+    "power_index": 9999,
+    "neutral_status": "No military. In free association with New Zealand, which is responsible for its defense.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "0"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 0,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 0,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "New Zealand defense responsibility (free association)"
+    }
+  },
+  "MU": {
+    "name": "Mauritius",
+    "power_index": 9999,
+    "neutral_status": "No standing military since independence. Has a paramilitary Special Mobile Force and National Coast Guard for internal security.",
+    "manpower": {
+      "active": "0",
+      "reserved": "0",
+      "paramilitary": "2.7K"
+    },
+    "land_strength": {
+      "tanks": 0,
+      "armored_vehicles": 0,
+      "self_propelled_artillery": 0
+    },
+    "air_strength": {
+      "total_aircraft": 2,
+      "fighters": 0,
+      "attack_helicopters": 0
+    },
+    "naval_strength": {
+      "total_assets": 9,
+      "aircraft_carriers": 0,
+      "submarines": 0,
+      "destroyers": 0
+    },
+    "strategic": {
+      "nuclear_warheads": 0,
+      "missile_capability": "None",
+      "defense_system": "Coast guard / Special Mobile Force only"
+    }
+  }
+}

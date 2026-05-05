@@ -1,0 +1,382 @@
+/* ============================================
+   COUNTRY SELECTOR — Custom Searchable Dropdown
+   ============================================ */
+
+.cs-wrapper {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+/* ── Trigger Button ── */
+.cs-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 14px;
+  height: 44px;
+  background: var(--control-bg);
+  color: var(--control-text);
+  border: 1.5px solid transparent;
+  border-radius: 22px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cs-trigger.cs-open,
+.cs-trigger:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2), 0 2px 12px var(--shadow);
+}
+
+.cs-globe {
+  font-size: 18px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.cs-trigger-flag {
+  width: 28px;
+  height: 19px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+}
+
+.cs-label {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--control-text);
+  opacity: 0.7;
+}
+
+.cs-trigger.cs-has-value .cs-label {
+  opacity: 1;
+  font-weight: 600;
+}
+
+.cs-caret {
+  flex-shrink: 0;
+  color: var(--text-label);
+  transition: transform 0.25s ease;
+}
+
+.cs-caret-up {
+  transform: rotate(180deg);
+}
+
+/* ── Dropdown Panel ── */
+.cs-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: var(--bg-primary);
+  border: 1.5px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px var(--shadow);
+  z-index: 500;
+  overflow: hidden;
+  animation: cs-slide-in 0.18s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Full-screen stats / sheets use overflow:hidden — fixed panel escapes clipping */
+.cs-panel-fixed {
+  position: fixed;
+  left: max(12px, env(safe-area-inset-left));
+  right: max(12px, env(safe-area-inset-right));
+  top: max(100px, env(safe-area-inset-top));
+  bottom: max(12px, env(safe-area-inset-bottom));
+  width: auto;
+  z-index: 1250;
+  display: flex;
+  flex-direction: column;
+  max-height: none;
+}
+
+.cs-panel-fixed .cs-list {
+  flex: 1;
+  min-height: 0;
+  max-height: none;
+}
+
+@keyframes cs-slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* ── Search Row ── */
+.cs-search-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-secondary);
+}
+
+.cs-search-icon {
+  flex-shrink: 0;
+  color: var(--text-label);
+}
+
+.cs-search-input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: var(--control-text);
+  font-weight: 500;
+  min-width: 0;
+}
+
+.cs-search-input::placeholder {
+  color: var(--text-label);
+  font-weight: 400;
+}
+
+.cs-clear-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-label);
+  font-size: 13px;
+  padding: 2px 5px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s ease;
+}
+
+.cs-close-btn {
+  background: rgba(0,0,0,0.08);
+  border: none;
+  cursor: pointer;
+  color: var(--text-label);
+  font-size: 13px;
+  padding: 4px 8px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease, color 0.15s ease;
+  font-weight: 600;
+}
+
+.cs-close-btn:hover { background: rgba(0,0,0,0.15); color: var(--text-primary); }
+
+.cs-clear-btn:hover { color: var(--text-primary); }
+
+/* ── Country List ── */
+.cs-list {
+  max-height: 85vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cs-list::-webkit-scrollbar {
+  width: 4px;
+}
+.cs-list::-webkit-scrollbar-track { background: transparent; }
+.cs-list::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 2px;
+}
+
+.cs-empty {
+  padding: 24px;
+  text-align: center;
+  color: var(--text-label);
+  font-size: 13px;
+}
+
+/* ── Country Items ── */
+.cs-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  color: var(--control-text);
+  font-size: 13.5px;
+  font-weight: 500;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.12s ease;
+}
+
+.cs-item:last-child { border-bottom: none; }
+
+/* Alternating row colors */
+.cs-item:nth-child(odd) {
+  background: var(--bg-primary);
+}
+.cs-item:nth-child(even) {
+  background: var(--bg-secondary);
+}
+
+.cs-item:active,
+.cs-item:hover {
+  background: #e8f0fe !important;
+}
+
+.cs-item.cs-item-active {
+  background: #dce8ff !important;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.cs-item-name {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cs-flag {
+  width: 30px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+  margin-right: 4px;
+  background: var(--bg-card);
+  display: block;
+  image-rendering: crisp-edges;
+}
+
+.cs-flag-placeholder {
+  width: 30px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  margin-right: 4px;
+}
+
+/* ── Mobile Full-Screen Dropdown ── */
+@media (max-width: 768px) {
+  .cs-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 0;
+    border: none;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    animation: cs-slide-up 0.22s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  @keyframes cs-slide-up {
+    from {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .cs-search-row {
+    padding: 14px 16px;
+    background: var(--bg-secondary);
+    flex-shrink: 0;
+    padding-top: max(14px, env(safe-area-inset-top, 14px));
+  }
+
+  .cs-search-input {
+    font-size: 16px; /* prevents iOS zoom on focus */
+  }
+
+  .cs-list {
+    flex: 1;
+    max-height: none;
+  }
+
+  .cs-item {
+    padding: 14px 16px;
+    font-size: 15px;
+  }
+
+  .cs-flag {
+    width: 36px;
+    height: 24px;
+    margin-right: 8px;
+  }
+
+  .cs-flag-placeholder {
+    width: 36px;
+    font-size: 18px;
+    margin-right: 8px;
+  }
+}
+
+/* ── Dark Theme Overrides ── */
+[data-theme="dark"] .cs-panel {
+  background: var(--bg-primary);
+  border-color: var(--border);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="dark"] .cs-search-row {
+  background: var(--bg-secondary);
+  border-bottom-color: var(--border);
+}
+
+[data-theme="dark"] .cs-item {
+  color: var(--text-primary);
+  border-bottom-color: var(--border);
+}
+
+[data-theme="dark"] .cs-item:nth-child(odd) {
+  background: var(--bg-primary);
+}
+[data-theme="dark"] .cs-item:nth-child(even) {
+  background: var(--bg-secondary);
+}
+
+[data-theme="dark"] .cs-item:hover,
+[data-theme="dark"] .cs-item:active {
+  background: #1e2a4a !important;
+}
+
+[data-theme="dark"] .cs-item.cs-item-active {
+  background: #1a2540 !important;
+  color: var(--accent);
+}
+
+[data-theme="dark"] .cs-item.cs-item-active {
+  background: rgba(59, 130, 246, 0.28) !important;
+}
+
+[data-theme="dark"] .cs-item-name {
+  color: var(--control-text);
+}

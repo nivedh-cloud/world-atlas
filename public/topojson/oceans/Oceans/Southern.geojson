@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-180.0, -90.0],
+            [180.0, -90.0],
+            [180.0, -60.0],
+            [-180.0, -60.0],
+            [-180.0, -90.0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Southern Ocean",
+        "color": "#FF4488",
+        "shapeType": "rectangle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "cca3": "USA",
+    "religion": "Christianity (63%), Unaffiliated (23%), Judaism (2%), Islam (1%), Buddhism (1%), Hinduism (1%), Other (9%)",
+    "nationalSymbol": "🦅 Bald Eagle",
+    "funFacts": [
+      "The United States is the 3rd largest country by area and population",
+      "Home to the world's largest economy",
+      "Has 50 states and numerous territories",
+      "The Grand Canyon is one of the Seven Natural Wonders"
+    ],
+    "nationalHolidays": [
+      "Independence Day (July 4)",
+      "Thanksgiving Day (4th Thursday of November)",
+      "Christmas (December 25)"
+    ]
+  },
+  {
+    "cca3": "IND",
+    "religion": "Hinduism (80%), Islam (14%), Christianity (2%), Sikhism (2%), Buddhism (1%), Other (1%)",
+    "nationalSymbol": "🦁 Bengal Tiger",
+    "funFacts": [
+      "India is the world's largest democracy",
+      "Home to Bollywood, the world's largest film industry by volume",
+      "The Taj Mahal is one of the Seven Wonders of the World",
+      "India is the birthplace of yoga, Buddhism, and Hinduism"
+    ],
+    "nationalHolidays": [
+      "Republic Day (January 26)",
+      "Independence Day (August 15)",
+      "Diwali (Hindu Festival of Lights)"
+    ]
+  },
+  {
+    "cca3": "GBR",
+    "religion": "Christianity (59%), Islam (5%), Hinduism (1%), Buddhism (1%), Judaism (0.5%), Other (3%), Unaffiliated (30%)",
+    "nationalSymbol": "🦁 Lion (Royal Lion)",
+    "funFacts": [
+      "The United Kingdom includes England, Scotland, Wales, and Northern Ireland",
+      "Home to the world's oldest democracy (Parliament of 1265)",
+      "Big Ben's clock is one of the most accurate in the world",
+      "The British Empire was once the world's largest empire"
+    ],
+    "nationalHolidays": [
+      "New Year's Day (January 1)",
+      "Easter Monday (Varies)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  {
+    "cca3": "DEU",
+    "religion": "Christianity (54%), Islam (5%), Other (3%), Unaffiliated (38%)",
+    "nationalSymbol": "🦅 Black Eagle",
+    "funFacts": [
+      "Germany is Europe's largest economy",
+      "Home to the Oktoberfest, the world's largest beer festival",
+      "The Berlin Wall stood for 28 years (1961-1989)",
+      "Germany has over 1,500 types of sausages"
+    ],
+    "nationalHolidays": [
+      "New Year's Day (January 1)",
+      "German Unity Day (October 3)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  {
+    "cca3": "JPN",
+    "religion": "Shinto (69%), Buddhism (67%), Christianity (1%), Other (7%), Unaffiliated (30%)",
+    "nationalSymbol": "🌸 Sakura (Cherry Blossom)",
+    "funFacts": [
+      "Japan has more than 100,000 temples and shrines",
+      "Sumo wrestling originated in Japan over 1,500 years ago",
+      "Japan is the world's oldest continuous monarchy",
+      "Mount Fuji is Japan's highest mountain and a UNESCO World Heritage site"
+    ],
+    "nationalHolidays": [
+      "New Year's Day (January 1)",
+      "Coming of Age Day (2nd Monday of January)",
+      "Foundation Day (February 11)",
+      "Golden Week (Multiple holidays in late April/early May)"
+    ]
+  }
+]

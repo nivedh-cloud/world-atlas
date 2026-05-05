@@ -1,0 +1,4586 @@
+[
+  {
+    "name": "afghanistan",
+    "code": "AF",
+    "capital": "Kabul",
+    "population": 41128771,
+    "area": 652230,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ],
+    "languages": {
+      "prs": "Dari",
+      "pbt": "Pashto",
+      "uzs": "Uzbek"
+    },
+    "demonym": "Afghan",
+    "timezones": [
+      "UTC+04:30"
+    ]
+  },
+  {
+    "name": "albania",
+    "code": "AL",
+    "capital": "Tirana",
+    "population": 2877800,
+    "area": 28748,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    ],
+    "languages": {
+      "sqi": "Albanian"
+    },
+    "demonym": "Albanian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "algeria",
+    "code": "DZ",
+    "capital": "Algiers",
+    "population": 44903225,
+    "area": 2381741,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Algerian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "angola",
+    "code": "AO",
+    "capital": "Luanda",
+    "population": 35588987,
+    "area": 1246700,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "Angolan",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "argentina",
+    "code": "AR",
+    "capital": "Buenos Aires",
+    "population": 46010234,
+    "area": 2780400,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Argentine",
+    "timezones": [
+      "UTC−03:00"
+    ]
+  },
+  {
+    "name": "armenia",
+    "code": "AM",
+    "capital": "Yerevan",
+    "population": 2780469,
+    "area": 29743,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "AMD",
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    ],
+    "languages": {
+      "hye": "Armenian"
+    },
+    "demonym": "Armenian",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "australia",
+    "code": "AU",
+    "capital": "Canberra",
+    "population": 26068792,
+    "area": 7692024,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Australian",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "austria",
+    "code": "AT",
+    "capital": "Vienna",
+    "population": 9042000,
+    "area": 83879,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "deu": "German"
+    },
+    "demonym": "Austrian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "azerbaijan",
+    "code": "AZ",
+    "capital": "Baku",
+    "population": 10139177,
+    "area": 86600,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AZN",
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    ],
+    "languages": {
+      "aze": "Azerbaijani"
+    },
+    "demonym": "Azerbaijani",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "bahamas",
+    "code": "BS",
+    "capital": "Nassau",
+    "population": 400516,
+    "area": 13943,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Bahamian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "bahrain",
+    "code": "BH",
+    "capital": "Manama",
+    "population": 1748296,
+    "area": 765,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Bahraini",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "bangladesh",
+    "code": "BD",
+    "capital": "Dhaka",
+    "population": 170883362,
+    "area": 147570,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ],
+    "languages": {
+      "ben": "Bengali"
+    },
+    "demonym": "Bangladeshi",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "name": "barbados",
+    "code": "BB",
+    "capital": "Bridgetown",
+    "population": 287025,
+    "area": 430,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Barbadian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "belarus",
+    "code": "BY",
+    "capital": "Minsk",
+    "population": 9379287,
+    "area": 207600,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "BYN",
+        "name": "Belarusian ruble",
+        "symbol": "Br"
+      }
+    ],
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    },
+    "demonym": "Belarusian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "belgium",
+    "code": "BE",
+    "capital": "Brussels",
+    "population": 11590000,
+    "area": 30528,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "demonym": "Belgian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "belize",
+    "code": "BZ",
+    "capital": "Belmopan",
+    "population": 405432,
+    "area": 22966,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Belizean",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "benin",
+    "code": "BJ",
+    "capital": "Porto-Novo",
+    "population": 13352864,
+    "area": 112622,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Beninese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "bermuda",
+    "code": "BM",
+    "capital": "Hamilton",
+    "population": 62506,
+    "area": 54,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Bermudian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "bhutan",
+    "code": "BT",
+    "capital": "Thimphu",
+    "population": 777486,
+    "area": 38394,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      }
+    ],
+    "languages": {
+      "dzo": "Dzongkha"
+    },
+    "demonym": "Bhutanese",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "name": "bolivia",
+    "code": "BO",
+    "capital": "Sucre",
+    "population": 12224110,
+    "area": 1098581,
+    "continent": "South America",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "aym": "Aymara",
+      "que": "Quechua"
+    },
+    "demonym": "Bolivian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "bosnia and herzegovina",
+    "code": "BA",
+    "capital": "Sarajevo",
+    "population": 3280819,
+    "area": 51209,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM"
+      }
+    ],
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    },
+    "demonym": "Bosnian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "botswana",
+    "code": "BW",
+    "capital": "Gaborone",
+    "population": 2630296,
+    "area": 582000,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "demonym": "Motswana",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "brazil",
+    "code": "BR",
+    "capital": "Brasília",
+    "population": 215313498,
+    "area": 8515767,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "Brazilian",
+    "timezones": [
+      "UTC−03:00"
+    ]
+  },
+  {
+    "name": "brunei",
+    "code": "BN",
+    "capital": "Bandar Seri Begawan",
+    "population": 437483,
+    "area": 5765,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "msa": "Malay"
+    },
+    "demonym": "Bruneian",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "bulgaria",
+    "code": "BG",
+    "capital": "Sofia",
+    "population": 6896663,
+    "area": 110879,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    ],
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "demonym": "Bulgarian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "burkina faso",
+    "code": "BF",
+    "capital": "Ouagadougou",
+    "population": 22100683,
+    "area": 272967,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Burkinabé",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "burundi",
+    "code": "BI",
+    "capital": "Gitega",
+    "population": 13625313,
+    "area": 27834,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "run": "Rundi",
+      "fra": "French"
+    },
+    "demonym": "Burundian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "cambodia",
+    "code": "KH",
+    "capital": "Phnom Penh",
+    "population": 17081337,
+    "area": 181035,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      }
+    ],
+    "languages": {
+      "khm": "Khmer"
+    },
+    "demonym": "Cambodian",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "cameroon",
+    "code": "CM",
+    "capital": "Yaoundé",
+    "population": 28825050,
+    "area": 475442,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "demonym": "Cameroonian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "canada",
+    "code": "CA",
+    "capital": "Ottawa",
+    "population": 40097761,
+    "area": 9984670,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "demonym": "Canadian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "cape verde",
+    "code": "CV",
+    "capital": "Praia",
+    "population": 597051,
+    "area": 4033,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "pov": "Cape Verdean Creole",
+      "por": "Portuguese"
+    },
+    "demonym": "Cape Verdean",
+    "timezones": [
+      "UTC−01:00"
+    ]
+  },
+  {
+    "name": "central african republic",
+    "code": "CF",
+    "capital": "Bangui",
+    "population": 5579144,
+    "area": 622984,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Central African",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "chad",
+    "code": "TD",
+    "capital": "N'Djamena",
+    "population": 17723315,
+    "area": 1284000,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French",
+      "ara": "Arabic"
+    },
+    "demonym": "Chadian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "chile",
+    "code": "CL",
+    "capital": "Santiago",
+    "population": 19603733,
+    "area": 756102,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Chilean",
+    "timezones": [
+      "UTC−03:00"
+    ]
+  },
+  {
+    "name": "china",
+    "code": "CN",
+    "capital": "Beijing",
+    "population": 1407181209,
+    "area": 9596961,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ],
+    "languages": {
+      "zho": "Chinese"
+    },
+    "demonym": "Chinese",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "colombia",
+    "code": "CO",
+    "capital": "Bogotá",
+    "population": 52085168,
+    "area": 1141748,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Colombian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "comoros",
+    "code": "KM",
+    "capital": "Moroni",
+    "population": 869601,
+    "area": 2235,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "demonym": "Comoran",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "costa rica",
+    "code": "CR",
+    "capital": "San José",
+    "population": 5180829,
+    "area": 51100,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Costa Rican",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "croatia",
+    "code": "HR",
+    "capital": "Zagreb",
+    "population": 3899108,
+    "area": 56594,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "demonym": "Croatian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "cuba",
+    "code": "CU",
+    "capital": "Havana",
+    "population": 10987317,
+    "area": 109884,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "₱"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Cuban",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "cyprus",
+    "code": "CY",
+    "capital": "Nicosia",
+    "population": 1251582,
+    "area": 9251,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "demonym": "Cypriot",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "czech republic",
+    "code": "CZ",
+    "capital": "Prague",
+    "population": 10505445,
+    "area": 78871,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    ],
+    "languages": {
+      "ces": "Czech"
+    },
+    "demonym": "Czech",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "democratic republic of the congo",
+    "code": "CD",
+    "capital": "Kinshasa",
+    "population": 99010212,
+    "area": 2344858,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Congolese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "denmark",
+    "code": "DK",
+    "capital": "Copenhagen",
+    "population": 5992561,
+    "area": 43094,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ],
+    "languages": {
+      "dan": "Danish"
+    },
+    "demonym": "Danish",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "djibouti",
+    "code": "DJ",
+    "capital": "Djibouti",
+    "population": 1120000,
+    "area": 23200,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "demonym": "Djiboutian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "dominica",
+    "code": "DM",
+    "capital": "Roseau",
+    "population": 71293,
+    "area": 751,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Dominican",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "dominican republic",
+    "code": "DO",
+    "capital": "Santo Domingo",
+    "population": 11117873,
+    "area": 48671,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Dominican",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "ecuador",
+    "code": "EC",
+    "capital": "Quito",
+    "population": 18190484,
+    "area": 276841,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Ecuadorian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "egypt",
+    "code": "EG",
+    "capital": "Cairo",
+    "population": 104124440,
+    "area": 1002000,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Egyptian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "el salvador",
+    "code": "SV",
+    "capital": "San Salvador",
+    "population": 6053553,
+    "area": 21041,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Salvadoran",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "equatorial guinea",
+    "code": "GQ",
+    "capital": "Malabo",
+    "population": 1676273,
+    "area": 28051,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "fra": "French",
+      "por": "Portuguese"
+    },
+    "demonym": "Equatoguinean",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "eritrea",
+    "code": "ER",
+    "capital": "Asmara",
+    "population": 6333135,
+    "area": 117600,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    ],
+    "languages": {
+      "tir": "Tigrinya",
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "demonym": "Eritrean",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "estonia",
+    "code": "EE",
+    "capital": "Tallinn",
+    "population": 1364683,
+    "area": 45227,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "est": "Estonian"
+    },
+    "demonym": "Estonian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "ethiopia",
+    "code": "ET",
+    "capital": "Addis Ababa",
+    "population": 120283026,
+    "area": 1104300,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    ],
+    "languages": {
+      "orm": "Oromo",
+      "amh": "Amharic",
+      "tig": "Tigrinya"
+    },
+    "demonym": "Ethiopian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "fiji",
+    "code": "FJ",
+    "capital": "Suva",
+    "population": 896444,
+    "area": 18274,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "demonym": "Fijian",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": "finland",
+    "code": "FI",
+    "capital": "Helsinki",
+    "population": 5563911,
+    "area": 338424,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "demonym": "Finnish",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "france",
+    "code": "FR",
+    "capital": "Paris",
+    "population": 68084814,
+    "area": 643801,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "French",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "gabon",
+    "code": "GA",
+    "capital": "Libreville",
+    "population": 2388992,
+    "area": 267668,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Gabonese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "gambia",
+    "code": "GM",
+    "capital": "Banjul",
+    "population": 2705992,
+    "area": 11295,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GMD",
+        "name": "Gambian dalasi",
+        "symbol": "D"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Gambian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "georgia",
+    "code": "GE",
+    "capital": "Tbilisi",
+    "population": 3708610,
+    "area": 69700,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GEL",
+        "name": "Georgian lari",
+        "symbol": "₾"
+      }
+    ],
+    "languages": {
+      "kat": "Georgian"
+    },
+    "demonym": "Georgian",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "germany",
+    "code": "DE",
+    "capital": "Berlin",
+    "population": 84144200,
+    "area": 357022,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "deu": "German"
+    },
+    "demonym": "German",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "ghana",
+    "code": "GH",
+    "capital": "Accra",
+    "population": 33475870,
+    "area": 238535,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Ghanaian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "greece",
+    "code": "GR",
+    "capital": "Athens",
+    "population": 10664568,
+    "area": 131957,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "ell": "Greek"
+    },
+    "demonym": "Greek",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "grenada",
+    "code": "GD",
+    "capital": "St. George's",
+    "population": 127657,
+    "area": 344,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Grenadian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "guatemala",
+    "code": "GT",
+    "capital": "Guatemala City",
+    "population": 17608483,
+    "area": 108889,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Guatemalan",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "guinea",
+    "code": "GN",
+    "capital": "Conakry",
+    "population": 13956184,
+    "area": 245857,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Guinean",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "guinea-bissau",
+    "code": "GW",
+    "capital": "Bissau",
+    "population": 2088702,
+    "area": 36125,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "Guinea-Bissau",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "guyana",
+    "code": "GY",
+    "capital": "Georgetown",
+    "population": 804600,
+    "area": 214969,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Guyanese",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "haiti",
+    "code": "HT",
+    "capital": "Port-au-Prince",
+    "population": 11402944,
+    "area": 27750,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ],
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "demonym": "Haitian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "honduras",
+    "code": "HN",
+    "capital": "Tegucigalpa",
+    "population": 10180527,
+    "area": 112090,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Honduran",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "hungary",
+    "code": "HU",
+    "capital": "Budapest",
+    "population": 9967000,
+    "area": 93028,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    ],
+    "languages": {
+      "hun": "Hungarian"
+    },
+    "demonym": "Hungarian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "iceland",
+    "code": "IS",
+    "capital": "Reykjavik",
+    "population": 415504,
+    "area": 103000,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    ],
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "demonym": "Icelandic",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "india",
+    "code": "IN",
+    "capital": "New Delhi",
+    "population": 1419316933,
+    "area": 3287263,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ],
+    "languages": {
+      "hin": "Hindi",
+      "eng": "English"
+    },
+    "demonym": "Indian",
+    "timezones": [
+      "UTC+05:30"
+    ]
+  },
+  {
+    "name": "indonesia",
+    "code": "ID",
+    "capital": "Jakarta",
+    "population": 277534122,
+    "area": 1904569,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ],
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "demonym": "Indonesian",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "iran",
+    "code": "IR",
+    "capital": "Tehran",
+    "population": 91567416,
+    "area": 1648195,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    ],
+    "languages": {
+      "fas": "Persian"
+    },
+    "demonym": "Iranian",
+    "timezones": [
+      "UTC+03:30"
+    ]
+  },
+  {
+    "name": "iraq",
+    "code": "IQ",
+    "capital": "Baghdad",
+    "population": 45504582,
+    "area": 438317,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "kur": "Kurdish"
+    },
+    "demonym": "Iraqi",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "ireland",
+    "code": "IE",
+    "capital": "Dublin",
+    "population": 5308575,
+    "area": 70273,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "gle": "Irish",
+      "eng": "English"
+    },
+    "demonym": "Irish",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "israel",
+    "code": "IL",
+    "capital": "Jerusalem",
+    "population": 9692000,
+    "area": 20770,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ],
+    "languages": {
+      "heb": "Hebrew",
+      "ara": "Arabic"
+    },
+    "demonym": "Israeli",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "italy",
+    "code": "IT",
+    "capital": "Rome",
+    "population": 56735130,
+    "area": 301340,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "ita": "Italian"
+    },
+    "demonym": "Italian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "ivory coast",
+    "code": "CI",
+    "capital": "Yamoussoukro",
+    "population": 28160357,
+    "area": 322463,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Ivorian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "jamaica",
+    "code": "JM",
+    "capital": "Kingston",
+    "population": 2825544,
+    "area": 10991,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Jamaican",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "japan",
+    "code": "JP",
+    "capital": "Tokyo",
+    "population": 123294513,
+    "area": 377975,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ],
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "demonym": "Japanese",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": "jordan",
+    "code": "JO",
+    "capital": "Amman",
+    "population": 10203140,
+    "area": 89342,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Jordanian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "kazakhstan",
+    "code": "KZ",
+    "capital": "Astana",
+    "population": 20172450,
+    "area": 2724900,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "KZT",
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    ],
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    },
+    "demonym": "Kazakhstani",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "name": "kenya",
+    "code": "KE",
+    "capital": "Nairobi",
+    "population": 54027487,
+    "area": 580367,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "demonym": "Kenyan",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "kosovo",
+    "code": "XK",
+    "capital": "Pristina",
+    "population": 1616694,
+    "area": 10905,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "sqi": "Albanian"
+    },
+    "demonym": "Kosovar",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "kuwait",
+    "code": "KW",
+    "capital": "Kuwait City",
+    "population": 4328550,
+    "area": 17818,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Kuwaiti",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "kyrgyzstan",
+    "code": "KG",
+    "capital": "Bishkek",
+    "population": 7029100,
+    "area": 199949,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "лв"
+      }
+    ],
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "demonym": "Kyrgyzstani",
+    "timezones": [
+      "UTC+06:00"
+    ]
+  },
+  {
+    "name": "laos",
+    "code": "LA",
+    "capital": "Vientiane",
+    "population": 7529475,
+    "area": 236800,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    ],
+    "languages": {
+      "lao": "Lao"
+    },
+    "demonym": "Lao",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "latvia",
+    "code": "LV",
+    "capital": "Riga",
+    "population": 1884760,
+    "area": 64589,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "lav": "Latvian"
+    },
+    "demonym": "Latvian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "lebanon",
+    "code": "LB",
+    "capital": "Beirut",
+    "population": 6815445,
+    "area": 10452,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Lebanese",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "lesotho",
+    "code": "LS",
+    "capital": "Maseru",
+    "population": 2160321,
+    "area": 30355,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "demonym": "Sotho",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "liberia",
+    "code": "LR",
+    "capital": "Monrovia",
+    "population": 5373250,
+    "area": 111369,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Liberian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "libya",
+    "code": "LY",
+    "capital": "Tripoli",
+    "population": 7038332,
+    "area": 1759540,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Libyan",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "liechtenstein",
+    "code": "LI",
+    "capital": "Vaduz",
+    "population": 38557,
+    "area": 160,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "deu": "German"
+    },
+    "demonym": "Liechtensteiner",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "lithuania",
+    "code": "LT",
+    "capital": "Vilnius",
+    "population": 2801904,
+    "area": 65300,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "lit": "Lithuanian"
+    },
+    "demonym": "Lithuanian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "luxembourg",
+    "code": "LU",
+    "capital": "Luxembourg City",
+    "population": 680195,
+    "area": 2586,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "fra": "French",
+      "deu": "German",
+      "ltz": "Luxembourgish"
+    },
+    "demonym": "Luxembourger",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "madagascar",
+    "code": "MG",
+    "capital": "Antananarivo",
+    "population": 29236680,
+    "area": 587041,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    ],
+    "languages": {
+      "fra": "French",
+      "plt": "Malagasy"
+    },
+    "demonym": "Malagasy",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "malawi",
+    "code": "MW",
+    "capital": "Lilongwe",
+    "population": 20193307,
+    "area": 118484,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "nya": "Chichewa"
+    },
+    "demonym": "Malawian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "malaysia",
+    "code": "MY",
+    "capital": "Kuala Lumpur",
+    "population": 34334198,
+    "area": 330803,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    ],
+    "languages": {
+      "msa": "Malay"
+    },
+    "demonym": "Malaysian",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "maldives",
+    "code": "MV",
+    "capital": "Malé",
+    "population": 521021,
+    "area": 300,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": "Rf"
+      }
+    ],
+    "languages": {
+      "dhv": "Dhivehi"
+    },
+    "demonym": "Maldivian",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "name": "mali",
+    "code": "ML",
+    "capital": "Bamako",
+    "population": 23504382,
+    "area": 1240192,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Malian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "malta",
+    "code": "MT",
+    "capital": "Valletta",
+    "population": 543354,
+    "area": 316,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "mlt": "Maltese",
+      "eng": "English"
+    },
+    "demonym": "Maltese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "marshall islands",
+    "code": "MH",
+    "capital": "Majuro",
+    "population": 42050,
+    "area": 181,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "demonym": "Marshallese",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": "mauritania",
+    "code": "MR",
+    "capital": "Nouakchott",
+    "population": 4907000,
+    "area": 1030700,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MRU",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Mauritanian",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "mauritius",
+    "code": "MU",
+    "capital": "Port Louis",
+    "population": 1299000,
+    "area": 2040,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Mauritian",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "mexico",
+    "code": "MX",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "area": 1964375,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Mexican",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "micronesia",
+    "code": "FM",
+    "capital": "Palikir",
+    "population": 115011,
+    "area": 702,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Micronesian",
+    "timezones": [
+      "UTC+10:00"
+    ]
+  },
+  {
+    "name": "moldova",
+    "code": "MD",
+    "capital": "Chișinău",
+    "population": 3384830,
+    "area": 33851,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    ],
+    "languages": {
+      "ron": "Romanian"
+    },
+    "demonym": "Moldovan",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "monaco",
+    "code": "MC",
+    "capital": "Monaco",
+    "population": 36469,
+    "area": 2.02,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Monégasque",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "mongolia",
+    "code": "MN",
+    "capital": "Ulaanbaatar",
+    "population": 3408920,
+    "area": 1564110,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "MNT",
+        "name": "Mongolian tugrik",
+        "symbol": "₮"
+      }
+    ],
+    "languages": {
+      "khk": "Mongolian"
+    },
+    "demonym": "Mongolian",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "montenegro",
+    "code": "ME",
+    "capital": "Podgorica",
+    "population": 616695,
+    "area": 13812,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "srp": "Serbian"
+    },
+    "demonym": "Montenegrin",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "morocco",
+    "code": "MA",
+    "capital": "Rabat",
+    "population": 37821989,
+    "area": 446550,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "demonym": "Moroccan",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "mozambique",
+    "code": "MZ",
+    "capital": "Maputo",
+    "population": 33897354,
+    "area": 801590,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "Mozambican",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "myanmar",
+    "code": "MM",
+    "capital": "Naypyidaw",
+    "population": 56514417,
+    "area": 676578,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "MMK",
+        "name": "Myanmar kyat",
+        "symbol": "K"
+      }
+    ],
+    "languages": {
+      "mya": "Burmese"
+    },
+    "demonym": "Burmese",
+    "timezones": [
+      "UTC+06:30"
+    ]
+  },
+  {
+    "name": "namibia",
+    "code": "NA",
+    "capital": "Windhoek",
+    "population": 2567012,
+    "area": 824292,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "naq": "Nama"
+    },
+    "demonym": "Namibian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "nauru",
+    "code": "NR",
+    "capital": "Yaren",
+    "population": 12668,
+    "area": 21,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "nau": "Nauruan"
+    },
+    "demonym": "Nauruan",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": "nepal",
+    "code": "NP",
+    "capital": "Kathmandu",
+    "population": 29674011,
+    "area": 147516,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    ],
+    "languages": {
+      "nep": "Nepali"
+    },
+    "demonym": "Nepali",
+    "timezones": [
+      "UTC+05:45"
+    ]
+  },
+  {
+    "name": "netherlands",
+    "code": "NL",
+    "capital": "Amsterdam",
+    "population": 17926000,
+    "area": 41850,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "nld": "Dutch"
+    },
+    "demonym": "Dutch",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "new zealand",
+    "code": "NZ",
+    "capital": "Wellington",
+    "population": 5130000,
+    "area": 270467,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "mri": "Maori"
+    },
+    "demonym": "New Zealander",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": "nicaragua",
+    "code": "NI",
+    "capital": "Managua",
+    "population": 7099284,
+    "area": 130373,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Nicaraguan",
+    "timezones": [
+      "UTC−06:00"
+    ]
+  },
+  {
+    "name": "niger",
+    "code": "NE",
+    "capital": "Niamey",
+    "population": 25130817,
+    "area": 1267000,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Nigerien",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "nigeria",
+    "code": "NG",
+    "capital": "Abuja",
+    "population": 223804632,
+    "area": 923768,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "NGN",
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Nigerian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "north korea",
+    "code": "KP",
+    "capital": "Pyongyang",
+    "population": 26160821,
+    "area": 120538,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "languages": {
+      "kor": "Korean"
+    },
+    "demonym": "North Korean",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": "north macedonia",
+    "code": "MK",
+    "capital": "Skopje",
+    "population": 1715214,
+    "area": 25713,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "MKD",
+        "name": "Macedonian denar",
+        "symbol": "ден"
+      }
+    ],
+    "languages": {
+      "mkd": "Macedonian"
+    },
+    "demonym": "Macedonian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "norway",
+    "code": "NO",
+    "capital": "Oslo",
+    "population": 5547201,
+    "area": 385207,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ],
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "demonym": "Norwegian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "oman",
+    "code": "OM",
+    "capital": "Muscat",
+    "population": 4974986,
+    "area": 309500,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Omani",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "pakistan",
+    "code": "PK",
+    "capital": "Islamabad",
+    "population": 240485658,
+    "area": 796095,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    ],
+    "languages": {
+      "urd": "Urdu",
+      "eng": "English"
+    },
+    "demonym": "Pakistani",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "name": "palau",
+    "code": "PW",
+    "capital": "Ngerulmud",
+    "population": 18024,
+    "area": 459,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "demonym": "Palauan",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": "panama",
+    "code": "PA",
+    "capital": "Panama City",
+    "population": 4408581,
+    "area": 75417,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Panamanian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "papua new guinea",
+    "code": "PG",
+    "capital": "Port Moresby",
+    "population": 10142619,
+    "area": 462840,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Papua New Guinean",
+    "timezones": [
+      "UTC+10:00"
+    ]
+  },
+  {
+    "name": "paraguay",
+    "code": "PY",
+    "capital": "Asunción",
+    "population": 6862812,
+    "area": 406752,
+    "continent": "South America",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "grn": "Guarani"
+    },
+    "demonym": "Paraguayan",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "peru",
+    "code": "PE",
+    "capital": "Lima",
+    "population": 34352719,
+    "area": 1285216,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "que": "Quechua",
+      "aym": "Aymara"
+    },
+    "demonym": "Peruvian",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "philippines",
+    "code": "PH",
+    "capital": "Manila",
+    "population": 119106310,
+    "area": 342908,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    ],
+    "languages": {
+      "fil": "Filipino",
+      "eng": "English"
+    },
+    "demonym": "Filipino",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "poland",
+    "code": "PL",
+    "capital": "Warsaw",
+    "population": 37846611,
+    "area": 312696,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "PLN",
+        "name": "Polish zloty",
+        "symbol": "zł"
+      }
+    ],
+    "languages": {
+      "pol": "Polish"
+    },
+    "demonym": "Polish",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "portugal",
+    "code": "PT",
+    "capital": "Lisbon",
+    "population": 10467366,
+    "area": 92090,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "Portuguese",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "qatar",
+    "code": "QA",
+    "capital": "Doha",
+    "population": 3180000,
+    "area": 11586,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "QAR",
+        "name": "Qatari rial",
+        "symbol": "ر.ق"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Qatari",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "republic of the congo",
+    "code": "CG",
+    "capital": "Brazzaville",
+    "population": 6016588,
+    "area": 342000,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Congolese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "romania",
+    "code": "RO",
+    "capital": "Bucharest",
+    "population": 19120824,
+    "area": 238391,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    ],
+    "languages": {
+      "ron": "Romanian"
+    },
+    "demonym": "Romanian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "russia",
+    "code": "RU",
+    "capital": "Moscow",
+    "population": 144714314,
+    "area": 17098246,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    ],
+    "languages": {
+      "rus": "Russian"
+    },
+    "demonym": "Russian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "rwanda",
+    "code": "RW",
+    "capital": "Kigali",
+    "population": 13776698,
+    "area": 26338,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "kin": "Kinyarwanda",
+      "fra": "French",
+      "eng": "English"
+    },
+    "demonym": "Rwandan",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "saint kitts and nevis",
+    "code": "KN",
+    "capital": "Basseterre",
+    "population": 56345,
+    "area": 261,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Kittitian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "saint lucia",
+    "code": "LC",
+    "capital": "Castries",
+    "population": 180251,
+    "area": 616,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Saint Lucian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "saint vincent and the grenadines",
+    "code": "VC",
+    "capital": "Kingstown",
+    "population": 100982,
+    "area": 389,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Saint Vincentian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "samoa",
+    "code": "WS",
+    "capital": "Apia",
+    "population": 198410,
+    "area": 2842,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    ],
+    "languages": {
+      "smo": "Samoan",
+      "eng": "English"
+    },
+    "demonym": "Samoan",
+    "timezones": [
+      "UTC+13:00"
+    ]
+  },
+  {
+    "name": "san marino",
+    "code": "SM",
+    "capital": "San Marino",
+    "population": 34660,
+    "area": 61,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "ita": "Italian"
+    },
+    "demonym": "Sammarinese",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "sao tome and principe",
+    "code": "ST",
+    "capital": "São Tomé",
+    "population": 223834,
+    "area": 964,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "STN",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "demonym": "São Toméan",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "saudi arabia",
+    "code": "SA",
+    "capital": "Riyadh",
+    "population": 36408820,
+    "area": 2149690,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Saudi Arabian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "senegal",
+    "code": "SN",
+    "capital": "Dakar",
+    "population": 18270652,
+    "area": 196722,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Senegalese",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "serbia",
+    "code": "RS",
+    "capital": "Belgrade",
+    "population": 6610000,
+    "area": 88361,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    ],
+    "languages": {
+      "srp": "Serbian"
+    },
+    "demonym": "Serbian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "seychelles",
+    "code": "SC",
+    "capital": "Victoria",
+    "population": 120146,
+    "area": 455,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "crs": "Seychellois Creole"
+    },
+    "demonym": "Seychellois",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "sierra leone",
+    "code": "SL",
+    "capital": "Freetown",
+    "population": 8306876,
+    "area": 71740,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SLL",
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Sierra Leonean",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "singapore",
+    "code": "SG",
+    "capital": "Singapore",
+    "population": 5917600,
+    "area": 728,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "demonym": "Singaporean",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "slovakia",
+    "code": "SK",
+    "capital": "Bratislava",
+    "population": 5460721,
+    "area": 49035,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "slk": "Slovak"
+    },
+    "demonym": "Slovak",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "slovenia",
+    "code": "SI",
+    "capital": "Ljubljana",
+    "population": 2119543,
+    "area": 20273,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "slv": "Slovenian"
+    },
+    "demonym": "Slovenian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "solomon islands",
+    "code": "SB",
+    "capital": "Honiara",
+    "population": 719175,
+    "area": 28896,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Solomon Islander",
+    "timezones": [
+      "UTC+11:00"
+    ]
+  },
+  {
+    "name": "somalia",
+    "code": "SO",
+    "capital": "Mogadishu",
+    "population": 18143378,
+    "area": 637657,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": {
+      "som": "Somali",
+      "ara": "Arabic"
+    },
+    "demonym": "Somali",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "south africa",
+    "code": "ZA",
+    "capital": "Pretoria",
+    "population": 60142978,
+    "area": 1221037,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "demonym": "South African",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "south korea",
+    "code": "KR",
+    "capital": "Seoul",
+    "population": 52780000,
+    "area": 99720,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "languages": {
+      "kor": "Korean"
+    },
+    "demonym": "South Korean",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": "south sudan",
+    "code": "SS",
+    "capital": "Juba",
+    "population": 11912242,
+    "area": 644329,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "South Sudanese",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "spain",
+    "code": "ES",
+    "capital": "Madrid",
+    "population": 47560432,
+    "area": 505990,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Spanish",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "sri lanka",
+    "code": "LK",
+    "capital": "Colombo",
+    "population": 22156000,
+    "area": 65610,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs"
+      }
+    ],
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "demonym": "Sri Lankan",
+    "timezones": [
+      "UTC+05:30"
+    ]
+  },
+  {
+    "name": "sudan",
+    "code": "SD",
+    "capital": "Khartoum",
+    "population": 46874019,
+    "area": 1861484,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": "ج.س"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Sudanese",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "suriname",
+    "code": "SR",
+    "capital": "Paramaribo",
+    "population": 612385,
+    "area": 163820,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "nld": "Dutch"
+    },
+    "demonym": "Surinamese",
+    "timezones": [
+      "UTC−03:00"
+    ]
+  },
+  {
+    "name": "sweden",
+    "code": "SE",
+    "capital": "Stockholm",
+    "population": 10549347,
+    "area": 450295,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    ],
+    "languages": {
+      "swe": "Swedish"
+    },
+    "demonym": "Swedish",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "switzerland",
+    "code": "CH",
+    "capital": "Bern",
+    "population": 8776000,
+    "area": 41277,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "demonym": "Swiss",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "syria",
+    "code": "SY",
+    "capital": "Damascus",
+    "population": 22125249,
+    "area": 185180,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Syrian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "taiwan",
+    "code": "TW",
+    "capital": "Taipei",
+    "population": 23859912,
+    "area": 36193,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "zho": "Chinese"
+    },
+    "demonym": "Taiwanese",
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": "tajikistan",
+    "code": "TJ",
+    "capital": "Dushanbe",
+    "population": 10057947,
+    "area": 143100,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    ],
+    "languages": {
+      "tgk": "Tajik",
+      "rus": "Russian"
+    },
+    "demonym": "Tajikistani",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "name": "tanzania",
+    "code": "TZ",
+    "capital": "Dar es Salaam",
+    "population": 65497748,
+    "area": 945087,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "demonym": "Tanzanian",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "thailand",
+    "code": "TH",
+    "capital": "Bangkok",
+    "population": 71801915,
+    "area": 513120,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    ],
+    "languages": {
+      "tha": "Thai"
+    },
+    "demonym": "Thai",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "timor-leste",
+    "code": "TL",
+    "capital": "Dili",
+    "population": 1341296,
+    "area": 14874,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "tet": "Tetum"
+    },
+    "demonym": "East Timorese",
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": "togo",
+    "code": "TG",
+    "capital": "Lomé",
+    "population": 8848699,
+    "area": 56785,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "demonym": "Togolese",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "tonga",
+    "code": "TO",
+    "capital": "Nuku'alofa",
+    "population": 104688,
+    "area": 747,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "demonym": "Tongan",
+    "timezones": [
+      "UTC+13:00"
+    ]
+  },
+  {
+    "name": "trinidad and tobago",
+    "code": "TT",
+    "capital": "Port of Spain",
+    "population": 1525663,
+    "area": 5128,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Trinidadian",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "tunisia",
+    "code": "TN",
+    "capital": "Tunis",
+    "population": 12356117,
+    "area": 163610,
+    "continent": "Africa",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Tunisian",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "turkey",
+    "code": "TR",
+    "capital": "Ankara",
+    "population": 85680000,
+    "area": 783562,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    ],
+    "languages": {
+      "tur": "Turkish"
+    },
+    "demonym": "Turkish",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "turkmenistan",
+    "code": "TM",
+    "capital": "Ashgabat",
+    "population": 6430753,
+    "area": 488100,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    ],
+    "languages": {
+      "tuk": "Turkmen",
+      "rus": "Russian"
+    },
+    "demonym": "Turkmen",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "name": "tuvalu",
+    "code": "TV",
+    "capital": "Funafuti",
+    "population": 11312,
+    "area": 26,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "demonym": "Tuvaluan",
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": "uganda",
+    "code": "UG",
+    "capital": "Kampala",
+    "population": 48582220,
+    "area": 241550,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "demonym": "Ugandan",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "ukraine",
+    "code": "UA",
+    "capital": "Kyiv",
+    "population": 40626072,
+    "area": 603550,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    ],
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "demonym": "Ukrainian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "united arab emirates",
+    "code": "AE",
+    "capital": "Abu Dhabi",
+    "population": 9890400,
+    "area": 83600,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Emirati",
+    "timezones": [
+      "UTC+04:00"
+    ]
+  },
+  {
+    "name": "united kingdom",
+    "code": "GB",
+    "capital": "London",
+    "population": 68108897,
+    "area": 242495,
+    "continent": "Europe",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "British",
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": "united states",
+    "code": "US",
+    "capital": "Washington, D.C.",
+    "population": 339996563,
+    "area": 9833520,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "American",
+    "timezones": [
+      "UTC−05:00"
+    ]
+  },
+  {
+    "name": "uruguay",
+    "code": "UY",
+    "capital": "Montevideo",
+    "population": 3418382,
+    "area": 176215,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Uruguayan",
+    "timezones": [
+      "UTC−03:00"
+    ]
+  },
+  {
+    "name": "uzbekistan",
+    "code": "UZ",
+    "capital": "Tashkent",
+    "population": 37140600,
+    "area": 448978,
+    "continent": "Asia",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "UZS",
+        "name": "Uzbekistani som",
+        "symbol": "сўм"
+      }
+    ],
+    "languages": {
+      "uzb": "Uzbek",
+      "rus": "Russian"
+    },
+    "demonym": "Uzbek",
+    "timezones": [
+      "UTC+05:00"
+    ]
+  },
+  {
+    "name": "vanuatu",
+    "code": "VU",
+    "capital": "Port Vila",
+    "population": 320899,
+    "area": 12189,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "bis": "Bislama"
+    },
+    "demonym": "Ni-Vanuatu",
+    "timezones": [
+      "UTC+11:00"
+    ]
+  },
+  {
+    "name": "vatican city",
+    "code": "VA",
+    "capital": "Vatican City",
+    "population": 800,
+    "area": 0.44,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    },
+    "demonym": "Vatican",
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": "venezuela",
+    "code": "VE",
+    "capital": "Caracas",
+    "population": 28077849,
+    "area": 912050,
+    "continent": "South America",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "VES",
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S"
+      }
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "demonym": "Venezuelan",
+    "timezones": [
+      "UTC−04:00"
+    ]
+  },
+  {
+    "name": "vietnam",
+    "code": "VN",
+    "capital": "Hanoi",
+    "population": 99186050,
+    "area": 331212,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ],
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "demonym": "Vietnamese",
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": "yemen",
+    "code": "YE",
+    "capital": "Sana'a",
+    "population": 30496347,
+    "area": 527968,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [
+      {
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "demonym": "Yemeni",
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": "zambia",
+    "code": "ZM",
+    "capital": "Lusaka",
+    "population": 20216432,
+    "area": 752618,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "demonym": "Zambian",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": "andorra",
+    "code": "AD",
+    "capital": "Andorra la Vella",
+    "population": 77265,
+    "area": 468,
+    "continent": "Europe",
+    "landlocked": true,
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": { "cat": "Catalan" },
+    "demonym": "Andorran",
+    "timezones": ["UTC+01:00"]
+  },
+  {
+    "name": "antigua and barbuda",
+    "code": "AG",
+    "capital": "Saint John's",
+    "population": 93219,
+    "area": 442,
+    "continent": "North America",
+    "landlocked": false,
+    "currencies": [{ "code": "XCD", "name": "Eastern Caribbean dollar", "symbol": "$" }],
+    "languages": { "eng": "English" },
+    "demonym": "Antiguan, Barbudan",
+    "timezones": ["UTC-04:00"]
+  },
+  {
+    "name": "kiribati",
+    "code": "KI",
+    "capital": "South Tarawa",
+    "population": 119449,
+    "area": 811,
+    "continent": "Oceania",
+    "landlocked": false,
+    "currencies": [{ "code": "AUD", "name": "Australian dollar", "symbol": "$" }],
+    "languages": { "eng": "English", "gil": "Gilbertese" },
+    "demonym": "I-Kiribati",
+    "timezones": ["UTC+12:00", "UTC+13:00", "UTC+14:00"]
+  },
+  {
+    "name": "palestine",
+    "code": "PS",
+    "capital": "Ramallah",
+    "population": 5371230,
+    "area": 6020,
+    "continent": "Asia",
+    "landlocked": false,
+    "currencies": [{ "code": "ILS", "name": "Israeli new shekel", "symbol": "₪" }],
+    "languages": { "ara": "Arabic" },
+    "demonym": "Palestinian",
+    "timezones": ["UTC+02:00"]
+  },
+  {
+    "name": "eswatini",
+    "code": "SZ",
+    "capital": "Mbabane",
+    "population": 1202000,
+    "area": 17364,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [{ "code": "SZL", "name": "Swazi lilangeni", "symbol": "L" }],
+    "languages": { "eng": "English", "ssw": "Swazi" },
+    "demonym": "Swazi",
+    "timezones": ["UTC+02:00"]
+  },
+  {
+    "name": "zimbabwe",
+    "code": "ZW",
+    "capital": "Harare",
+    "population": 16665409,
+    "area": 390757,
+    "continent": "Africa",
+    "landlocked": true,
+    "currencies": [
+      {
+        "code": "ZWL",
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": {
+      "eng": "English",
+      "sna": "Shona",
+      "nde": "Ndebele"
+    },
+    "demonym": "Zimbabwean",
+    "timezones": [
+      "UTC+02:00"
+    ]
+  }
+]

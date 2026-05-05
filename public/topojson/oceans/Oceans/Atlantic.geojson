@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-80.0, -60.0],
+            [20.0, -60.0],
+            [20.0, 80.0],
+            [-80.0, 80.0],
+            [-80.0, -60.0]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Atlantic Ocean",
+        "color": "#FFCC00",
+        "shapeType": "rectangle"
+      }
+    }
+  ]
+}

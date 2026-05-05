@@ -1,0 +1,20 @@
+.react-joyride__tooltip {
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  border-radius: 12px !important;
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.18),
+    0 4px 12px rgba(0, 80, 200, 0.12) !important;
+}
+
+[data-theme="dark"] .react-joyride__tooltip #joyride-tooltip-content {
+  color: #e8eaf6;
+}
+
+[data-theme="dark"] .react-joyride__tooltip button[data-action="primary"] {
+  filter: brightness(1.06);
+}
