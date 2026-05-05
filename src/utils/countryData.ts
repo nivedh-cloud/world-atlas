@@ -127,6 +127,11 @@ const countryMetaByCode = new Map<string, CountryMetaEntry>(
     .map((entry) => [entry.cca2.toUpperCase(), entry])
 );
 
+function withBaseUrl(path: string): string {
+  const base = import.meta.env.BASE_URL || "/";
+  return `${base.replace(/\/+$/, "")}/${path.replace(/^\/+/, "")}`;
+}
+
 const getCoatOfArmsUrl = (countryCode: string | undefined | null): string | null => {
   if (!countryCode) return null;
   const normalized = countryCode.trim().toUpperCase();
@@ -190,7 +195,7 @@ export const getCountryInfo = async (countryName: string): Promise<CountryInfo |
       name: formatCountryName(countryName),
       officialName: localInfo?.name ? formatCountryName(localInfo.name) : formatCountryName(countryName),
       cca2: countryCode?.toUpperCase(),
-      flag: countryCode ? `/flags/${countryCode}.svg` : undefined,
+      flag: countryCode ? withBaseUrl(`flags/${countryCode}.svg`) : undefined,
       coatOfArms: getCoatOfArmsUrl(countryCode),
       capital,
       mainCities,
