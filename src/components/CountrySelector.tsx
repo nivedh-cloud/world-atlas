@@ -14,7 +14,8 @@ interface CountrySelectorProps {
 // Get the local flag SVG path for a country name
 const getLocalFlagPath = (countryName: string): string => {
   const code = getCountryCodeFromName(countryName);
-  return `/flags/${code}.svg`;
+  const base = import.meta.env.BASE_URL || "/";
+  return `${base.replace(/\/+$/, "")}/flags/${code}.svg`;
 };
 
 export const CountrySelector: React.FC<CountrySelectorProps> = ({

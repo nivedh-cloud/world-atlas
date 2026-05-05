@@ -215,6 +215,11 @@ import countriesData from "../data/countries.json";
 
 type CountriesJsonRow = { name: string; code: string };
 
+function withBaseUrl(path: string): string {
+  const base = import.meta.env.BASE_URL || "/";
+  return `${base.replace(/\/+$/, "")}/${path.replace(/^\/+/, "")}`;
+}
+
 /** ISO 3166-1 alpha-2 (lowercase) → topojson filename slug (countries.json name). Statistics/Compare pass codes; the map uses names. */
 const ISO2_CODE_TO_TOPO_SLUG: Record<string, string> = (countriesData as CountriesJsonRow[]).reduce(
   (acc, row) => {
@@ -306,7 +311,7 @@ export const loadCountryGeoJSON = async (
   try {
     const fileName = resolveTopoFileSlug(countryName);
 
-    const url = `/topojson/${encodeURIComponent(fileName)}.json`;
+    const url = withBaseUrl(`topojson/${encodeURIComponent(fileName)}.json`);
     
     console.log(`Loading GeoJSON/TopoJSON from: ${url}`);
     
@@ -439,7 +444,7 @@ export const loadOceanGeoJSON = async (
       return null;
     }
 
-    const url = `/topojson/oceans/Oceans/${fileName}.geojson`;
+    const url = withBaseUrl(`topojson/oceans/Oceans/${fileName}.geojson`);
     console.log(`Loading ocean geofence: ${url}`);
 
     const response = await fetch(url);
@@ -488,7 +493,7 @@ export const loadContinentGeoJSON = async (
       const allFeatures: GeoJSONFeature[] = [];
       
       for (const file of continent.files) {
-        const url = `/topojson/continents/${file}`;
+        const url = withBaseUrl(`topojson/continents/${file}`);
         const response = await fetch(url);
         
         if (!response.ok) {
@@ -520,7 +525,7 @@ export const loadContinentGeoJSON = async (
     }
     
     // Single file loading (for other continents)
-    const url = `/topojson/continents/${continent.file}`;
+    const url = withBaseUrl(`topojson/continents/${continent.file}`);
     const response = await fetch(url);
     
     if (!response.ok) {
