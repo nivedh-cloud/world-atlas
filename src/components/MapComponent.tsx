@@ -115,6 +115,9 @@ export const MapComponent: React.FC<MapComponentProps> = ({
   dropdownItems = COUNTRIES,
   dropdownLabel = 'Countries',
 }) => {
+  const isCountryMode = dropdownLabel === 'Country' || dropdownLabel === 'Countries';
+  const isContinentMode = dropdownLabel === 'Continent' || dropdownLabel === 'Continents';
+
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<unknown>(null);
   const mapFlyGenerationRef = useRef(0);
@@ -695,9 +698,9 @@ export const MapComponent: React.FC<MapComponentProps> = ({
                 [east, north],
               ],
               {
-                padding: 50,
+                padding: isContinentMode ? 70 : 50,
                 duration: 1600,
-                maxZoom: 11,
+                maxZoom: isCountryMode ? 11 : 6,
                 pitch: 0,
                 bearing: 0,
                 essential: true,
@@ -709,7 +712,7 @@ export const MapComponent: React.FC<MapComponentProps> = ({
                 [west, south],
                 [east, north],
               ],
-              { padding: 50, duration: 1600, maxZoom: 11, essential: true }
+              { padding: isContinentMode ? 70 : 50, duration: 1600, maxZoom: isCountryMode ? 11 : 6, essential: true }
             );
           }
         });
@@ -808,8 +811,9 @@ export const MapComponent: React.FC<MapComponentProps> = ({
       
       // Cap zoom level to prevent over-zooming on small countries
       const currentZoom = (map as unknown as { getZoom: () => number }).getZoom();
-      if (currentZoom > 10) {
-        (map as unknown as { setZoom: (zoom: number) => void }).setZoom(10);
+      const maxZoom = isCountryMode ? 10 : 6;
+      if (currentZoom > maxZoom) {
+        (map as unknown as { setZoom: (zoom: number) => void }).setZoom(maxZoom);
       }
     }
 
