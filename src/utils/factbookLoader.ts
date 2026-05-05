@@ -303,9 +303,15 @@ export function extractPopulationNumber(text: string | undefined): number {
  */
 export function extractAreaNumber(text: string | undefined): number {
   if (!text) return 0;
-  const match = text.match(/[\d,.]+/);
+  const normalized = text.toLowerCase();
+  const match = normalized.match(/[\d,.]+/);
   if (match) {
-    return parseFloat(match[0].replace(/,/g, ""));
+    const base = parseFloat(match[0].replace(/,/g, ""));
+    if (Number.isNaN(base)) return 0;
+    if (normalized.includes("billion")) return base * 1_000_000_000;
+    if (normalized.includes("million")) return base * 1_000_000;
+    if (normalized.includes("thousand")) return base * 1_000;
+    return base;
   }
   return 0;
 }
@@ -322,8 +328,11 @@ export function getPopulation(data: FactbookData): number {
  * Get area from factbook data
  */
 export function getArea(data: FactbookData): number {
-  const text = data.Geography?.Area?.total?.text || data.Geography?.Area?.["total "]?.text;
-  return extractAreaNumber(text);
+  const landText = data.Geography?.Area?.land?.text;
+  const totalText = data.Geography?.Area?.total?.text || data.Geography?.Area?.["total "]?.text;
+  const landArea = extractAreaNumber(landText);
+  if (landArea > 0) return landArea;
+  return extractAreaNumber(totalText);
 }
 
 /**
